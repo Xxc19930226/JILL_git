@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+#content .image {display:block; margin:0 0 10px;}
+#content header {*zoom:1; margin:0 0 -1em; padding:0 0 1.2em; border-bottom:1px solid #dbdbda;} 
+#content h4, 
+#content time {display:block; font-size:1.4em; text-align:left;}
+#content p {margin:2em 0 0; font-size:1.4em; text-align:left;}
+#content b {color:#e9aea7;}
+#content i {color:#e9aea7; font-style:normal;}
+#content a {color:#e9aea7;}
+#content a:hover {color:#999999;}
+#content strong {color:#e9aea7;}
+#content section {*zoom:1; margin:3em 0 0;}
+#content section:after {display:block; clear:both; height:0; content:"";}
+#content section .image {float:left; margin:0;}
+#content section p {float:right; width:400px; margin:0;}

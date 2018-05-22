@@ -1,0 +1,14 @@
+/*
+
+ 2nd lebel pages
+
+*/
+
+/*__ PC View __*/
+main {/*font-size:1.4em;*/ color:#363636;}
+main .main_inner {margin:0 auto 30px; width:960px;}
+main h1 {padding:78px 0; margin:0 auto; width:960px; line-height:1em; font-size:26px; letter-spacing:0.1em;}
+
+/*__ Smartphone View __*/
+.smartphone	main .main_inner {margin:0 6.25% 30px; width:auto;}
+.smartphone	main h1 {margin:0; padding:35px 0; font-size:1.6em; text-align:center; width:auto;}

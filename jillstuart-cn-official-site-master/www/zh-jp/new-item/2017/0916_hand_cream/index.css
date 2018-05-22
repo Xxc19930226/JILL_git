@@ -1,0 +1,322 @@
+@charset "utf-8";
+
+.box {font-family: Simhei,"ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro","メイリオ","Meiryo","Osaka","ＭＳ Ｐゴシック","MS P Gothic",Verdana,Arial,Helvetica,sans-serif;}
+#main {float:left; width:700px; margin-top:20px; padding-bottom:70px; background:#fff; color:#000;}
+#content{-webkit-font-smoothing: antialiased;}
+#content header {border:0;}
+#content time {margin-bottom:20px; font-family: 'Montserrat',Simhei,Verdana,Arial,Helvetica,sans-serif; color:#999;}
+#content h2 {font-size:2.2em; font-family:"Montserrat",Simhei,Verdana,Arial,Helvetica,sans-serif; font-weight:bold; margin-bottom:5px;}
+#content h3 {font-size:1.3em; font-weight:normal; margin-bottom:20px;}
+#content h4 {font-size:1.3em; font-weight:normal; margin-bottom:30px; text-align:center;}
+#content .en {font-family: 'Montserrat',Simhei,Verdana,Arial,Helvetica,sans-serif;}
+
+#content br.onlySP{
+  display: none;
+}
+
+#content header{
+  margin: 0;
+  padding: 0;
+}
+
+#content header .image{
+  margin: 0;
+}
+
+
+a.black-bg{
+  display: inline-block!important;
+  margin: 0 auto;
+  position: relative;
+}
+a.black-bg img{
+  opacity: 1!important;
+  position: relative;
+  /*-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";*/
+}
+a.black-bg:before{
+  background-color: #9f9f9f;
+  border-radius: 4px;
+  content: " ";
+  display: block;
+  height: 100%;
+  /*margin: -35px 0 0 -70px;*/
+  margin: -5px 0 0 -20px;
+  -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  opacity: 0;
+  padding: 5px 20px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transition: opacity .4s ease;
+  width: 100%;
+}
+a.black-bg:hover:before{
+  opacity: 1;
+  -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+}
+
+/* introduction */
+#content #introduction{
+  padding: 80px 0;
+  /*margin: 0 0 20px;*/
+}
+
+#content #introduction *{ text-align: center; }
+#content #introduction h3{ font-weight: bold; font-size: 14px; line-height: 27px;}
+#content #introduction p{ line-height: 27px; }
+#content #introduction > div{
+  padding: 30px 0 20px;
+  position: relative;
+  text-align: center;
+}
+
+/* .section */
+
+#content .section{
+  background: url(images/line.png) no-repeat top center;
+  margin: 0 0 80px;
+  padding: 90px 0 0;
+}
+
+#content .sections .section:last-child{
+  margin-bottom: 0;
+}
+
+#content .section .description{
+  font-size: 16px;
+  line-height: 28px;
+  margin: 10px 0 20px;
+  position: relative;
+  text-align: center;
+}
+
+#content .section .description:before,
+#content .section .description:after{
+  content: " ";
+  display: block;
+  left: 50%;
+  position: absolute;
+}
+
+#content .section h4 {
+  line-height: 1.6;
+  padding: 0 0 20px;
+}
+
+#content .section .img{
+  padding: 40px 0 50px;
+  text-align: center;
+}
+
+
+#content .section .sectionMain {
+  border-top: 1px solid #e2e2e2;
+  margin: 0 28px;
+  padding: 10px 0 60px;
+}
+
+#content .section .sectionMain.is-no-border {
+  border-top: none;
+  margin-top: -40px;
+}
+
+#content .section .meta {
+  margin: 0 auto;
+  padding: 0 0 0 255px;
+  position: relative;
+  width: 282px;
+}
+#content .section .meta.is-center {
+  padding: 40px 0 0;
+}
+#content .section .meta .title{
+  margin-bottom: 10px;
+  padding: 0!important;
+  width: 100%;
+}
+
+#content .section .title strong{
+  color: #333;
+  display: block;
+  font-size: 20px;
+  line-height: 24px;
+  padding: 0 0 8px;
+}
+
+#content .section .title span{
+  color: #999;
+  display: block;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+#content .section .price{
+  font-size: 12px;
+  line-height: 1.6;
+  letter-spacing: 0;
+  padding: 0 0 30px;
+  margin: 0;
+}
+
+#content .section .meta .illust {
+  left: 0;
+  margin-top: -111px;
+  position: absolute;
+  top: 50%;
+}
+
+#content .section .detailBtn{
+  background-color: #333;
+  color: #fff;
+  display: block;
+  font-family: 'Montserrat',Simhei,Verdana,Arial,Helvetica,sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 38px;
+  margin: 0 auto;
+  transition: opacity .4s ease;
+  text-align: center;
+  width: 100%;
+}
+
+#content .section .detailBtn:hover{
+  opacity: .8;
+}
+
+
+.is-mincho {
+  font-family: Simhei,"ヒラギノ明朝 ProN W6", "HiraMinProN-W6", "HG明朝E", "ＭＳ Ｐ明朝", "MS PMincho", "MS 明朝", serif;
+}
+
+
+
+/**
+ * for smartphone
+ */
+.smartphone #content .smp_view {display:inline;}
+.smartphone #content .smp_hidden {display:none;}
+.smartphone #content time {margin-bottom:5px; text-align:center;}
+.smartphone #content h2 {font-size:18px; text-align:center;}
+.smartphone #content h3 {font-size:16px; line-height:1.6; text-align:center;}
+.smartphone #content header .image img{ width: 100%; }
+.smartphone #content .line{ width: 100%; }
+
+.smartphone main .main_inner{
+  overflow: visible;
+}
+
+.smartphone #content br.onlySP{
+  display: inline;
+}
+
+/* # introduction */
+.smartphone #content #introduction{
+  background-size: 400px 60px;
+  padding: 20px 0;
+}
+
+.smartphone #content #introduction h3 img{
+  width: 150px;
+}
+
+.smartphone #content #introduction h3 {
+  font-size: 12px;
+  line-height: 1.8;
+}
+
+.smartphone #content #introduction p{
+  font-size: 12px;
+  line-height: 1.8;
+  margin: 1em 0 0;
+  text-align:left;
+}
+
+.smartphone #content #introduction p br{
+  display: none;
+}
+
+
+
+.smartphone #content .section {
+  background-size: 100% auto;
+  padding-top: 60px;
+}
+.smartphone #content .section h4 {
+  padding-bottom: 10px;
+}
+.smartphone #content .section .img {
+  padding-bottom: 30px;
+}
+
+.smartphone #content .section .img img {
+  margin: 0 auto;
+  max-width: 320px;
+  width: 100%;
+}
+
+.smartphone #content .section .description {
+  font-size: 14px;
+}
+
+.smartphone #content .section .sectionMain {
+  margin: 0;
+  padding-top: 0;
+}
+
+.smartphone #content .section .sectionMain.is-no-border {
+  margin-top: -40px;
+}
+
+
+.smartphone #content .section .meta {
+  padding: 0;
+  width: 100%;
+}
+
+.smartphone #content .section .meta.is-center {
+  padding-top: 30px;
+}
+
+.smartphone #content .section .title strong{
+  text-align: center;
+}
+
+.smartphone #content .section .title span{
+  text-align: center;
+}
+
+.smartphone #content .section .price{
+  box-sizing: border-box;
+  font-size: 11px;
+  letter-spacing: -.2px;
+  padding: 0;
+  width: 50%;
+}
+
+.smartphone #content .section .meta .illust-wrapper {
+  display: table;
+  margin: 0 auto 20px;
+  max-width: 420px;
+}
+.smartphone #content .section .meta .illust-wrapper > * {
+  display: table-cell;
+  vertical-align: middle;
+}
+.smartphone #content .section .meta .illust {
+  box-sizing: border-box;
+  left: auto;
+  margin: 0;
+  padding: 0 10px 0 0;
+  position: relative;
+  top: auto;
+  width: 50%;
+}
+.smartphone #content .section .meta .illust img {
+  width: 100%;
+}
+
+.smartphone #content .section .detailBtn{
+  clear: both;
+  max-width: 480px;
+}

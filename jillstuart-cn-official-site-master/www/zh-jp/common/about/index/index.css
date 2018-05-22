@@ -1,0 +1,53 @@
+/*
+
+ ABOUT JILL STUART
+
+*/
+
+/*__ PC View __*/
+
+main {font-size:12px;}
+main h2 {letter-spacing:0.04em;}
+main h3 {letter-spacing:0.1em;}
+main .concept {margin-bottom:75px; padding-bottom:75px; border-bottom:1px solid #ddd;}
+main .concept .image {margin-bottom:40px;}
+main .concept .image img {}
+main .concept .title {}
+main .concept .title h2 {margin-bottom:15px; line-height:1em; font-size:12px;}
+main .concept .title h3 {font-size:26px; margin-bottom:40px; line-height:1em;}
+main .concept .contents {}
+main .concept .contents p {font-size:12px;}
+main .concept .contents p.bold {font-size:22px; font-weight:bold; padding-top:10px;}
+main .biography {}
+main .biography .title {}
+main .biography .title h2 {margin-bottom:15px; line-height:1em; font-size:12px;}
+main .biography .title h3 {font-size:26px; margin-bottom:40px; line-height:1em;}
+main .biography .image {float:right}
+main .biography .image p {text-align:right; font-size:12px;}
+main .biography .image img {margin-bottom:15px;}
+main .biography .contents {width:295px; margin-bottom:50px;}
+main .biography .contents p {}
+main .biography .message {width:295px; margin-bottom:50px; overflow:hidden;}
+main .biography .message h2 {margin-bottom:10px;}
+main .biography .message p {margin-bottom:1em; font-family: "ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro","メイリオ","Meiryo","Osaka","ＭＳ Ｐゴシック","MS P Gothic",Verdana,Arial,Helvetica,sans-serif;}
+main .biography .message .sign {float:right;}
+main .biography .message .sign img {}
+
+
+/*__ Smartphone View __*/
+.smartphone	main .concept {margin-bottom:40px; padding-bottom:40px;}
+.smartphone	main .concept .image img {width:100%;}
+.smartphone	main .concept .title h2 {font-size:12px; margin-bottom:5px;}
+.smartphone	main .concept .title h3 {font-size:16px; margin-bottom:15px; }
+.smartphone	main .concept .contents p.bold {font-size:14px;}
+.smartphone	main .biography .title h2 {font-size:12px; margin-bottom:5px;}
+.smartphone	main .biography .title h3 {font-size:16px; margin-bottom:15px; }
+.smartphone	main .biography .image {float:none; margin-bottom:15px;}
+.smartphone	main .biography .image p {font-size:10px;}
+.smartphone	main .biography .image img {width:100%; margin-bottom:5px;}
+.smartphone	main .biography .contents {width:auto; margin-bottom:30px;}
+.smartphone	main .biography .message {width:auto; margin-bottom:70px;}
+.smartphone	main .biography .message .sign img {width:76px; height:auto;}
+
+
+

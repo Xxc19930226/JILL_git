@@ -1,0 +1,464 @@
+@charset "utf-8";
+
+.box {font-family: "ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro","メイリオ","Meiryo","Osaka","ＭＳ Ｐゴシック","MS P Gothic",Verdana,Arial,Helvetica,sans-serif;}
+#main {float:left; width:700px; margin-top:20px; padding-bottom:70px; background:#fff; color:#000;}
+#content{-webkit-font-smoothing: antialiased;}
+#content header {border:0;}
+#content time {margin-bottom:20px; font-family: 'Montserrat',Verdana,Arial,Helvetica,sans-serif; color:#999;}
+#content h2 {font-size:2.2em; font-family:"Montserrat",Verdana,Arial,Helvetica,sans-serif; font-weight:bold; margin-bottom:5px;}
+#content h3 {font-size:1.3em; font-weight:normal; margin-bottom:20px;}
+#content h4 {font-size:1.3em; font-weight:normal; margin-bottom:30px; text-align:center;}
+#content .en {font-family: 'Montserrat',Verdana,Arial,Helvetica,sans-serif;}
+
+#content br.onlySP{
+  display: none;
+}
+
+#content header{
+  margin: 0;
+  padding: 0;
+}
+
+#content header .image{
+  margin: 0;
+}
+
+/* introduction */
+#content #introduction{
+  padding: 35px 0 0;
+  font-size:16px;
+  /*margin: 0 0 20px;*/
+}
+
+#content #introduction *{ text-align: center; }
+
+#content #introduction p.small {
+  display:block;
+  padding:20px 0 0;
+  margin:0;
+  font-size:16px;
+  text-align:center;
+}
+
+#content #introduction p.small small {
+  font-size:12px;
+}
+
+#content #introduction h4 {
+  font-size:14px;
+  color:#999;
+  margin-top:30px;
+  padding: 40px 0 0;
+  position: relative;
+  text-align: center;
+  background:url("images/line1.png") no-repeat center top;
+}
+#content #introduction h4:after {
+  content:url("images/line2.png");
+  text-align:center;
+  display:block;
+  margin-top:10px;
+}
+
+
+/* .section */
+
+#content .section{
+  background: url("images/line.png") no-repeat center bottom;
+  margin: 0 0 64px;
+  padding: 0 0 120px;
+}
+
+#content #comment.section{
+  background: url("images/line_under.png") no-repeat center bottom;
+  padding-bottom: 40px;
+}
+
+#content .sections .section:last-child{
+  margin-bottom: 0;
+}
+
+#content .section .description{
+  font-size: 16px;
+  line-height: 28px;
+  position: relative;
+  text-align: center;
+}
+
+#content .section .description:before,
+#content .section .description:after{
+  content: " ";
+  display: block;
+  left: 50%;
+  position: absolute;
+}
+
+#content .section .img{
+  padding:30px 0;
+  text-align: center;
+}
+
+
+#content .section .meta{
+  width: 100%;
+}
+
+#content .section .meta *{
+  text-align: center;
+}
+
+#content .section .meta .release{
+  display: block;
+  font-size: 13px;
+  padding: 0 0 15px;
+}
+
+#content .section .meta .title{
+  margin: 0 0 15px;
+}
+
+#content .section .meta .title strong{
+  color: #333;
+  display: block;
+  font-size: 20px;
+  line-height: 24px;
+  padding: 0 0 8px;
+}
+
+#content .section .meta .title span{
+  color: #999;
+  display: block;
+  font-size: 11px;
+  line-height: 15px;
+}
+
+#content .section .meta .size{
+  font-size: 13px;
+  line-height: 18px;
+  padding: 0 0 30px;
+  margin: 0;
+}
+
+#content .section .more{
+  padding: 0 0 30px;
+  text-align: center;
+}
+
+#content .section .more > *{
+  display: inline-block;
+  vertical-align: middle;
+  text-align: left;
+}
+
+#content .section .more dd{
+  font-size: 12px;
+  line-height: 18px;
+  padding: 0 0 0 10px;
+}
+
+/*#content .section .detailBtn{
+  background-color: #333;
+  color: #fff;
+  display: block;
+  font-family: 'Montserrat',Verdana,Arial,Helvetica,sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 38px;
+  margin: 0 auto;
+  transition: opacity .4s ease;
+  text-align: center;
+  width: 265px;
+}
+
+#content .section .detailBtn:hover{
+  opacity: .8;
+}*/
+
+#content .detailBtn,
+#content .cartBtn{
+  background-color: #333;
+  color: #fff;
+  display: block;
+  font-family: 'Montserrat',Verdana,Arial,Helvetica,sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 38px;
+  margin: 0 auto 30px;
+  transition: opacity .4s ease;
+  text-align: center;
+  width: 265px;
+}
+
+#content .detailBtn:hover,
+#content.cartBtn:hover{
+  opacity: .8;
+}
+
+#content .cartBtn {
+  margin-bottom: 12px;
+}
+
+#content .caution {
+  padding: 20px 0 0;
+  font-size:11px;
+}
+
+#content #store {
+  padding: 50px 0 0;
+  background:none;
+}
+
+#content #store h4 {
+  font-size:16px;
+  margin-top:30px;
+  padding: 40px 0 0;
+  position: relative;
+  text-align: center;
+  background:url("images/line1.png") no-repeat center top;
+}
+#content #store h4:after {
+  content:url("images/line2.png");
+  text-align:center;
+  display:block;
+  margin-top:10px;
+}
+
+#content #store .left.img  {
+  padding:0;
+  float:left;
+}
+
+#content #store .left.img img  {
+  padding:0;
+  width:220px;
+}
+
+#content #store .right {
+  margin:0 0 0 250px;
+}
+
+#content #store p {
+  line-height: 22px;
+}
+#content #store small {
+  font-size:12px;
+  margin:30px auto 0;
+  display:block;
+}
+
+#content .sections > .notice {
+  font-size: 11px;
+  letter-spacing: 0;
+  margin: -40px 0 0;
+  text-align: right;
+}
+
+
+/**
+ * for smartphone
+ */
+.smartphone #content .smp_view {display:inline;}
+.smartphone #content .smp_hidden {display:none;}
+.smartphone #content time {margin-bottom:5px; text-align:center;}
+.smartphone #content h2 {font-size:18px; text-align:center;}
+.smartphone #content h3 {font-size:16px; line-height:1.6; text-align:center;}
+.smartphone #content header .image img{ width: 100%; }
+.smartphone #content .line{ width: 100%; }
+
+.smartphone main .main_inner{
+  overflow: visible;
+}
+
+.smartphone #content br.onlySP{
+  display: inline;
+}
+
+/* # introduction */
+.smartphone #content #introduction{
+  background-size: 400px 60px;
+  padding: 20px 0 0;
+  margin-bottom: -20px;
+}
+
+.smartphone #content #introduction h3 img{
+  width: 150px;
+}
+
+.smartphone #content #introduction p{
+  font-size: 15px;
+  line-height: 1.8;
+  text-align:left;
+}
+
+.smartphone #content #introduction p br{
+  display: none;
+}
+
+.smartphone #content #introduction p.small {
+  font-size: 13px;
+  line-height: 1.8;
+  text-align:left;
+}
+
+.smartphone #content #introduction small br {
+  display:none;
+}
+
+.smartphone #content #introduction h4 {
+  font-size:13px;
+  margin-bottom:0;
+}
+
+
+.smartphone #content .section{
+  /*background-size: contain;*/
+  margin: 30px -6.25% 30px;
+  padding-top: 0px;
+}
+
+.smartphone #content .section > *{
+  margin: 0 6.25%;
+}
+
+.smartphone #content .section .description{
+  font-size: 12px;
+  line-height: 22px;
+  letter-spacing: 0;
+  margin: 0;
+}
+
+.smartphone #content .section .description:before,
+.smartphone #content .section .description:after{
+  background-size: contain;
+  content: " ";
+  display: block;
+  left: 50%;
+  position: absolute;
+}
+
+.smartphone #content .section .description:before{
+  height: 17px;
+  margin: 0 0 0 -25px;
+  top: -20px;
+  width: 50px;
+}
+
+.smartphone #content .section .description:after{
+  bottom: -12px;
+  height: 8px;
+  margin: 0 0 0 -22px;
+  width: 44px;
+}
+
+.smartphone #content .section .img img{
+  height: auto;
+  max-height: 250px;
+  max-width: 250px;
+  width: auto;
+}
+
+.smartphone #content .section .meta .release{
+  font-size: 10px;
+  padding: 0 0 10px;
+}
+
+.smartphone #content .section .meta .title{
+  margin: 0 0 10px;
+}
+
+.smartphone #content .section .meta .title strong{
+  font-size: 16px;
+  line-height: 22px;
+  padding: 0 0 4px;
+}
+
+.smartphone #content .section .meta .title span{
+  font-size: 10px;
+  line-height: 17px;
+}
+
+.smartphone #content .section .meta .size{
+  font-size: 10px;
+  line-height: 17px;
+  padding: 0 0 15px;
+}
+
+.smartphone #content .section .more dt img{
+  max-height: 80px;
+  max-width: 90px;
+}
+.smartphone #content .section .more dd{
+  font-size: 10px;
+  line-height: 14px;
+}
+
+
+.smartphone #content .detail{
+  padding: 100px 0 0;
+  margin: 0 -6.25% 30px;
+}
+
+.smartphone #content .detail h5{
+  font-size: 16px;
+  padding: 0 0 20px;
+}
+
+.smartphone #content .detail .box-wrapper{
+  background: none;
+  margin: 0 6.25%;
+}
+
+.smartphone #content .detail .box{
+  background: #f2f2f2;
+  box-sizing: border-box;
+  float: none;
+  position: relative;
+  margin: 0 0 20px;
+  padding: 15px;
+  width: 100%;
+}
+
+.smartphone #content .detail .box h6 br{
+  display: none;
+}
+
+.smartphone #content .detail .box > img{
+  top: 15px;
+  right: 15px;
+}
+
+.smartphone #content .caution {
+  padding: 0;
+  margin: 10px 0;
+  text-align: left;
+}
+
+.smartphone #content #store {
+  padding:10px 0 0;
+}
+
+.smartphone #content #store .left.img  {
+  float:none;
+  margin-top:20px;
+}
+
+.smartphone #content #store .left.img img  {
+  max-width: 200px;
+  width: auto;
+}
+
+.smartphone #content #store .right {
+  margin:0 6.25%;
+}
+
+.smartphone #content #store p {
+}
+.smartphone #content #store p.date {
+  text-align: center;
+}
+.smartphone #content #store small {
+}
+.smartphone #content .sections > .notice {
+  margin: -10px -6.75% 0;
+  padding: 0 4px;
+}

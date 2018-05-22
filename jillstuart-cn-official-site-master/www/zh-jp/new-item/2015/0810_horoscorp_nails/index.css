@@ -1,0 +1,139 @@
+@charset "utf-8";
+
+.box {font-family: "Meiryo","Osaka","MS P Gothic",Verdana,Arial,Helvetica,sans-serif;}
+#main {float:left; width:700px; margin-top:20px; padding-bottom:70px; background:#fff; color:#000;}
+#content header {border:0;}
+#content time {margin-bottom:20px; font-family: 'Montserrat',Verdana,Arial,Helvetica,sans-serif; color:#999;}
+#content h2 {font-size:2.2em; font-family:"Montserrat",Verdana,Arial,Helvetica,sans-serif; font-weight:bold; margin-bottom:5px;}
+#content h3 {font-size:1.3em; font-weight:normal; margin-bottom:20px;}
+#content h4 {font-size:1.3em; font-weight:normal; margin-bottom:30px; text-align:center;}
+
+
+/* .section */
+
+#content .section{ padding: 75px 0; }
+#content .section .btn{ padding: 27px 0; }
+#content .section .btn a{ background-color: #000; color: #fff; display: inline-block; line-height: 36px; height: 36px; text-align: center; width: 264px; font-family:"Montserrat",Verdana,Arial,Helvetica,sans-serif; }
+#content .section .itemTitle{ padding: 0 0 40px 0; }
+#content .section .itemTitle *{ font-weight: bold; line-height: 36px; text-align: center; }
+#content .section .itemTitle span{ color: #5D5C5B; display: block; font-size: 14px; }
+#content .section .itemTitle strong{ color: #5D5C5B; display: block; font-size: 18px; }
+#content .sectionMain{ display: table; height: 100%; margin: 0 0 50px 0; width: 100%; }
+#content .sectionMain > *{ display: table-cell; height: 100%; vertical-align: top; }
+#content .sectionMain .sectionRow { display: table; height: 100%; vertical-align: top; }
+#content .sectionMain .sectionRow > *{ display: table-cell; height: 100%; vertical-align: top; }
+#content .sectionMain .left{ text-align: center; width: 295px; }
+#content .sectionMain .left img { width:162px; }
+#content .sectionMain p{ font-size: 13px; line-height: 18px; margin: 0; padding: 0; }
+#content h4.itemName{ padding: 0; }
+#content h4.itemName > *{ display: block; }
+#content h4.itemName strong{ color: #000; font-size: 20px; padding: 0 0 6px; line-height: 24px; font-family:"Montserrat",Verdana,Arial,Helvetica,sans-serif; }
+#content h4.itemName span{ color: #999; font-size: 10px; }
+#content .sectionMain .note{ display: table; padding: 10px 0 ; width: 100%; }
+#content .sectionMain .note > *{ display: table-cell; vertical-align: middle; }
+#content .sectionMain .note dt{ width: 10px; padding-right:5px; }
+#content .sectionMain .note dd{ font-size: 12px; padding-left: 10px; }
+#content .sectionMain .note dd > * { display:block; }
+#content .sectionMain .note dt img { width:60px; }
+#content .sectionMain .note strong{ color: #000; font-size: 16px; font-weight: bold; padding: 0 0 2px; line-height: 24px; font-family:"Montserrat",Verdana,Arial,Helvetica,sans-serif; }
+#content .sectionMain .note span{ color: #999; font-size: 10px; padding-bottom:5px; }
+#content .sectionMain .note p { font-size: 11px; }
+#content .sectionMain .date { padding-bottom:5px; }
+#content .sectionMain .limited{ margin:30px 0 10px; padding:5px 10px; background:#888; text-align:center; color:#fff; font-size:9px; line-height:9px; display:block; width:100px; }
+#content .sectionColors ul{ font-size: 0; text-align: center; }
+#content .sectionColors li{ display: inline-block; font-size: 11px; padding: 0 20px; vertical-align: top; text-align: center; }
+#content .sectionColors li *{ display: block; text-align: center; }
+#content .sectionColors li img{ display: inline; }
+#content .sectionColors li strong{ color: #000; font-size: 12px; line-height: 27px; padding: 9px 0 0 0; font-family:"Montserrat",Verdana,Arial,Helvetica,sans-serif; }
+#content .sectionColors.circle { margin-bottom:-30px; }
+#content .sectionColors.circle ul{ text-align: left; }
+#content .sectionColors.circle li{ height: 180px; padding: 0; width: 162px; }
+
+
+
+/* introduction */
+#content #introduction{ padding: 65px 0 80px; }
+#content #introduction *{ text-align: center; }
+#content #introduction h3 strong{ color: #000; display: block; font-size: 28px; font-weight: bold; line-height: 56px; background:url("images/title.png?0722-3") no-repeat center center; text-indent:-99999px; overflow:hidden; }
+#content #introduction h3 span{ font-size: 14px; color:#5d5c5b; }
+#content #introduction p{ line-height: 27px; }
+
+/* #nail */
+#content #nail .sectionColors ul { text-align: center; }
+#content #nail .horoscope_description {border:1px solid #ddd; border-radius:10px; padding:20px; margin:0;}
+#content #nail .horoscope_description strong {color:#000; font-size:14px; font-weight:bold; margin-bottom:10px; display:block;}
+#content #nail .horoscope_description p {font-size:12px; margin:0 0 10px;}
+#content #nail .horoscope_description p b {display:block; font-weight:bold; margin-bottom:3px; color:#aaa;}
+
+/* case */
+#content #case { text-align:center; }
+#content #case img { width:200px; }
+#content #case p { text-align:center; }
+
+/* relation */
+#content #relation { }
+#content #relation .itemTitle strong { font-size:26px; color:#000;}
+#content #relation .sectionMain { margin-bottom:-50px; }
+#content #relation .sectionMain .sectionRow { margin-bottom:50px; }
+#content #relation .sectionMain .left{ width: 200px; }
+#content #relation .sectionMain .left img { width:80px; }
+#content #relation .sectionMain .right .itemName { margin-bottom:20px; }
+#content #relation .sectionMain .right .itemName strong { font-size:16px; }
+#content #relation .sectionMain .right .itemName span { font-size:13px; }
+#content #relation .sectionMain .right .limited { margin:0 0 10px;}
+#content #relation .sectionMain .horoscope_description { margin:20px 0 0; }
+
+/**
+ * for smartphone
+ */
+.smartphone #content .smp_view {display:inline;}
+.smartphone #content .smp_hidden {display:none;}
+.smartphone #content time {margin-bottom:5px; text-align:center;}
+.smartphone #content h2 {font-size:18px; text-align:center;}
+.smartphone #content h3 {font-size:16px; line-height:1.6; text-align:center;}
+.smartphone #content header .image img{ width: 100%; }
+.smartphone #content .line{ width: 100%; }
+
+/* section */
+.smartphone #content .section{ padding: 30px 0; }
+.smartphone #content .section .btn{ text-align: center; }
+.smartphone #content .section .btn a{ width: 280px; }
+.smartphone #content .sectionMain{ display: block; }
+.smartphone #content .sectionMain > *{ display: block; width: 100%; }
+.smartphone #content .sectionMain .sectionRow > *{ display: block; width: 100%; }
+.smartphone #content .sectionMain .left{ padding: 20px 0; margin: 0 0 14px 0; }
+.smartphone #content .sectionMain .right > *{ text-align: center; }
+.smartphone #content .section .itemTitle{ padding: 0; }
+.smartphone #content .section .itemTitle span{ font-size: 13px; line-height: 2; }
+.smartphone #content .section .itemTitle strong{ font-size: 16px; line-height: 1.6; }
+.smartphone #content .section .itemName{ font-size: 14px; margin-bottom:40px; }
+.smartphone #content .section .itemName > *{ text-align: center; }
+.smartphone #content .section .note{ margin: 0 auto; max-width: 280px; }
+.smartphone #content .sectionMain .limited { margin:5px auto 10px; }
+.smartphone #content .section .note dt{ padding-right: 10px; text-align: right; }
+.smartphone #content .sectionColors li{ display: block; padding: 0 0 20px 0; }
+.smartphone #content .sectionColors.circle li{ display: block; float: left; height: auto; padding: 0 0 20px; width: 50%; }
+.smartphone #content .sectionColors.circle li:nth-child(odd){ clear: left; }
+.smartphone #content .sectionColors.circle li img{ width: 30px; }
+.smartphone #content .sectionColors.circle li strong{ line-height: 1.6; }
+
+
+/* # introduction */
+.smartphone #content #introduction{ padding: 40px 0; }
+.smartphone #content #introduction h3 strong{ font-size: 16px; line-height: 40px; }
+.smartphone #content #introduction h3 span{ font-size: 13px; }
+.smartphone #content #introduction p{ font-size: 13px; line-height: 1.8; text-align:left; }
+
+/* #nail */
+.smartphone #content #nail .sectionMain .note { margin:10px auto 30px; }
+.smartphone #content #nail .sectionMain .note img{ width: 80px; }
+.smartphone #content #nail .sectionMain img{ width: 100px; }
+.smartphone #content #nail .sectionColors ul{ text-align: left; }
+.smartphone #content #nail .horoscope_description {padding:20px; margin:-20px 0 0;}
+
+
+/* relation */
+.smartphone #content #relation .itemTitle strong { font-size:20px; }
+.smartphone #content #relation .sectionMain .left{ width: 100%; }
+.smartphone #content #relation .sectionMain .left img { width:70px; }
+.smartphone #content #relation .sectionMain .right .limited { margin:0 auto 10px;}

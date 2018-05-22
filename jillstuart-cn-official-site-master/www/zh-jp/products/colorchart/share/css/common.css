@@ -1,0 +1,179 @@
+
+ /* 共通項目セレクタ */
+
+body {
+background:#f7f3f2;
+}
+
+/* font
+---------------------------------------------------------------------- */
+body {
+font-size:11px;
+color:#222222;
+}
+.j10 {
+font-size:10px;
+color:#222222;
+}
+.j16g {
+font-size:16px;
+color:#777777;
+}
+.j14g {
+font-size:14px;
+color:#777777;
+}
+.j10g {
+font-size:10px;
+color:#777777;
+}
+.c {
+clear:both;
+}
+
+
+ /* MT用 */
+
+/* header
+---------------------------------------------------------------------- */
+#header{
+display:block;
+margin:0 0 0 0;
+height:100px;
+background: url(/share/news/images/header.gif) no-repeat 0 0;
+}
+#header #header-name{
+display:none;
+}
+#header #b_close{
+display:block;
+margin:10px 10px 0 0;
+float:right
+}
+
+
+/* footer
+---------------------------------------------------------------------- */
+#footer{
+display:block;
+margin:0 0 0 0;
+padding:0 0 0 0;
+height:31px;
+background: url(/share/news/images/footer.gif) no-repeat 0 0;
+}
+#footer .widget-content{
+display:none;
+}
+
+/* content
+---------------------------------------------------------------------- */
+#content{
+display:block;
+margin:0 0 0 50px;
+padding:0 0 0 0;
+width:755px;
+}
+
+
+
+/* entry-asset
+---------------------------------------------------------------------- */
+.entry-asset{
+display:block;
+width:755px;
+padding:20px 0 0 0;
+font-family: 'arial';
+line-height:1.6em;
+}
+.asset-footer{
+display:block;
+clear:both;
+background: url(/share/news/images/line.gif) no-repeat bottom;
+width:755px;
+padding:0 0 20px 0;
+}
+.entry-asset h2{
+margin:0 0 0 0;
+}
+.asset-body b{
+font-size:14px;
+line-height:1.8em;
+color:#D57F79;
+}
+#content b{
+margin:0 0 0 0;
+padding:0 0 0 0;
+font-size:14px;
+line-height:1.8em;
+color:#D57F79;
+}
+#content b.j12{
+font-size:12px;
+line-height:1.8em;
+color:#D57F79;
+}
+
+.entry-asset h2.asset-name a{
+font-size:14px;
+color:#D57F79;
+text-decoration:none;
+}
+.entry-asset h2.asset-name a:hover{
+text-decoration:underline;
+}
+div.asset-meta{
+margin:0 0 10px 0;
+font-size:8px;
+letter-spacing: 1px;
+color:#D57F79;
+}
+div.asset-meta a{
+display:none;
+}
+
+.entry-asset a{
+color:#D57F79;
+text-decoration:underline;
+}
+.entry-asset a:hover{
+text-decoration:none;
+}
+.backtotop a{
+font-weight:800;
+font-size:10px;
+color:#D57F79;
+text-decoration:none;
+}
+.backtotop a:hover{
+text-decoration:underline;
+}
+.entry-asset img{
+border:0px solid #FBE3D5;
+display:block;
+}
+div.col{
+float:left;
+display:block;
+}
+
+
+/* ather
+---------------------------------------------------------------------- */
+
+.asset-header{
+display:none;
+}
+
+.content-nav{
+display:none;
+}
+#beta{
+display:none;
+}
+#gamma{
+display:none;
+}
+
+.c{
+clear:both;
+}

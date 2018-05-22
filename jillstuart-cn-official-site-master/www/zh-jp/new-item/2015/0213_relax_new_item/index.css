@@ -1,0 +1,162 @@
+@charset "utf-8";
+
+/* new clearfix */
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+	}
+* html .clearfix             { zoom: 1; } /* IE6 */
+*:first-child+html .clearfix { zoom: 1; } /* IE7 */
+
+
+.smartphone img {
+    height: auto;
+    max-width: 100%;
+}
+
+/* コンセプトテキスト
+--------------------------------------- */
+#brandnew_theme{
+	width: 100%;
+	margin: 45px 0 0 0;
+	text-align: center;
+	padding: 0;
+}
+
+.smartphone #brandnew_theme{
+	width: 100%;
+	background: none;
+	padding: 0 0 0 0;
+	background: none;
+}
+
+#brandnew_theme .brandnew_theme_main {
+	font-size: 1.8em;
+	text-align: center;
+	font-weight: bold;
+	display: block;
+	margin: 0 0 40px 0;
+	line-height: 140%;
+}
+
+#brandnew_theme .point {
+	width: 100%;
+	border-bottom: 1px solid #666666;
+	margin: 0 auto 30px;
+}
+
+#brandnew_theme .point p {
+	font-size: 1.4em;
+	font-weight: bold;
+	line-height: 120%;
+	display: block;
+	text-align: center;
+	padding: 0;
+	margin: 0 auto 10px;
+}
+
+#brandnew_theme .point_ttl {
+	font-size: 1.6em;
+	font-weight: bold;
+	line-height: 200%;
+	display: block;
+	text-align: center;
+	padding: 0;
+	margin: 0 auto 20px;
+}
+
+#brandnew_theme .point_txt {
+	font-size: 1.4em;
+	line-height: 200%;
+	display: block;
+	text-align: center;
+	padding: 0;
+	margin: 0 auto 30px;
+}
+
+#brandnew_theme .point1_box {
+	border: 1px solid #666666;
+	padding: 20px 20px 5px;
+	margin: 0 auto 40px;
+}
+
+#brandnew_theme .point1_box p {
+	font-size: 1.4em;
+	line-height: 140%;
+	display: block;
+	text-align: center;
+	padding: 0;
+	margin: 0 auto 20px;
+}
+
+/* 商品説明
+--------------------------------------- */
+.brandnew_bar{
+	margin: 40px 0 0 0;
+}
+
+#brandnew_product{
+	text-align: center;
+}
+
+.brandnew_ttl{
+	font-size: 1.7em;
+	margin: 40px 0 0 0;
+	line-height: 150%;
+}
+
+.brandnew_img{
+	margin: 40px auto 0 auto;
+}
+
+.brandnew_img img{
+	max-width: 448px;
+	width: 80%;
+	height: auto;
+	width:auto; /* ie8 */
+}
+
+.smartphone .brandnew_img img{
+	max-width: 560px;
+	width: 100%;
+	height: auto;
+}
+
+.brandnew_img02 img{
+	max-width: 448px;
+	width: 80%;
+	height: auto;
+	width:auto; /* ie8 */
+	margin: 60px 0 0;
+}
+
+.smartphone .brandnew_img02 img{
+	max-width: 560px;
+	width: 100%;
+	height: auto;
+}
+
+.brandnew_name{
+	margin: 30px 0 0 0;
+	font-size: 1.3em;
+	line-height: 150%;
+}
+
+.brandnew_link{
+	margin: 5px 0 0 0;
+	font-size: 1.4em;
+}
+
+#content header {margin:20px 0; border:0;}
+#content h4 {font-size:16px;}
+#content time {font-size:12px; color:#999; margin:20px 0;}
+#content dl,
+#content dt,
+#content dd {text-align:center;}
+#content .newbase_makeup_listbox dd{text-align:left;}
+
+/****************************************************************/
