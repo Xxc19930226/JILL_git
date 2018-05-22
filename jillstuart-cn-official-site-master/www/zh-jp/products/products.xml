@@ -564,10 +564,10 @@ replace old 25702 or update the old one, also update
 				<detail2>/zh-jp/products/basemake/26608/main3.jpg</detail2>
 				<thumb>/zh-jp/products/basemake/26608/thumb.jpg</thumb>
 				<colors>
-					<col src="/zh-jp/products/basemake/26608/col1.png" name="101 linen" />
-					<col src="/zh-jp/products/basemake/26608/col2.png" name="202 ivory" />
-					<col src="/zh-jp/products/basemake/26608/col3.png" name="103 nude" />
-					<col src="/zh-jp/products/basemake/26608/col4.png" name="204 sand" />
+					<col src="/zh-jp/products/basemake/26608/col1.png" name="101 linen 亚麻色" />
+					<col src="/zh-jp/products/basemake/26608/col2.png" name="202 ivory 象牙色" />
+					<col src="/zh-jp/products/basemake/26608/col3.png" name="103 nude 裸肌色" />
+					<col src="/zh-jp/products/basemake/26608/col4.png" name="204 sand 暖米色" />
 				</colors>
 			</photo>
 			<code>26608</code>
@@ -605,11 +605,7 @@ replace old 25702 or update the old one, also update
 ●迷迭香叶提取物（保湿）
 ●薰衣草油（保湿柔软）
 ●鳄梨油（保湿柔软）
-
-101 linen    亚麻色
-202 ivory    象牙色
-103 nude    裸肌色
-204 sand    暖米色]]>
+]]>
 			</t1>
 			<banner/>
 		</item>
