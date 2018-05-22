@@ -1,0 +1,961 @@
+@charset "utf-8";
+
+.box {font-family: "ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro","メイリオ","Meiryo","Osaka","ＭＳ Ｐゴシック","MS P Gothic",Verdana,Arial,Helvetica,sans-serif;}
+#main {float:left; width:700px; margin-top:20px; padding-bottom:70px; background:#fff; color:#000;}
+#content{-webkit-font-smoothing: antialiased;}
+#content header {border:0;}
+#content time {margin-bottom:20px; font-family: 'Montserrat',Verdana,Arial,Helvetica,sans-serif; color:#999;}
+#content h2 {font-size:2.2em; font-family:"Montserrat",Verdana,Arial,Helvetica,sans-serif; font-weight:bold; margin-bottom:5px;}
+#content h3 {font-size:1.3em; font-weight:normal; margin-bottom:20px;}
+#content h4 {font-size:1.3em; font-weight:normal; margin-bottom:30px; text-align:center;}
+#content .en {font-family: 'Montserrat',Verdana,Arial,Helvetica,sans-serif;}
+
+#content br.onlySP,
+#content br.onlySP--force{
+  display: none;
+}
+.smartphone #content br.force {
+  display: inline-block!important;
+}
+
+#content header{
+  margin: 0;
+  padding: 0;
+}
+
+#content header .image{
+  margin: 0;
+}
+
+
+a.black-bg{
+  display: inline-block!important;
+  margin: 0 auto;
+  position: relative;
+}
+a.black-bg img{
+  opacity: 1!important;
+  position: relative;
+  /*-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";*/
+}
+a.black-bg:before{
+  background-color: #9f9f9f;
+  border-radius: 4px;
+  content: " ";
+  display: block;
+  height: 100%;
+  /*margin: -35px 0 0 -70px;*/
+  margin: -5px 0 0 -20px;
+  -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  opacity: 0;
+  padding: 5px 20px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transition: opacity .4s ease;
+  width: 100%;
+}
+a.black-bg:hover:before{
+  opacity: 1;
+  -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+}
+
+/* introduction */
+#content #introduction{
+  padding: 60px 0 30px;
+}
+
+#content #introduction *{ text-align: center; }
+#content #introduction p{ line-height: 27px; }
+#content #introduction > div{
+  padding: 30px 0 20px;
+  position: relative;
+  text-align: center;
+}
+#content #introduction h3 span {
+  display: block;
+  font-size: 12px;
+  padding: 4px 0 0;
+}
+
+/* .section */
+
+#content .section{
+  padding: 66px 0 0;
+}
+
+#content .section:before {
+  background: url(images/line.png) no-repeat top center;
+  content: " ";
+  display: block;
+  height: 30px;
+  margin: -30px 0 60px;
+  width: 100%;
+}
+
+#content .sections .section:last-child{
+  margin-bottom: 0;
+}
+
+#content .section .description{
+  font-size: 18px;
+  line-height: 30px;
+  margin: 0;
+  position: relative;
+  text-align: center;
+}
+
+#content .section .description--deco {
+  padding: 40px 0 24px;
+}
+#content .section .description--deco:before,
+#content .section .description--deco:after {
+  content: " ";
+  display: inline-block;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+#content .section .description--deco:before {
+  background: url(images/description_deco_top.png) no-repeat 50% 0;
+}
+#content .section .description--deco:after {
+  background: url(images/description_deco_bottom.png) no-repeat 50% 100%;
+}
+
+#content .section .img{
+  padding: 45px 0 45px;
+  text-align: center;
+}
+
+
+#content .section .meta{
+  width: 100%;
+}
+
+#content .section .meta *{
+  text-align: center;
+}
+
+#content .section .meta .release{
+  display: block;
+  font-size: 13px;
+  padding: 0 0 1em;
+}
+
+#content .section .meta .title{
+  margin: 0 0 1em;
+}
+
+#content .section .meta .title strong{
+  color: #333;
+  display: block;
+  font-size: 20px;
+  line-height: 28px;
+  padding: 0 0 .5em;
+}
+
+#content .section .meta .title span{
+  color: #999;
+  display: block;
+  font-size: 11px;
+  line-height: 15px;
+}
+
+#content .section .meta .price{
+  font-size: 13px;
+  line-height: 18px;
+  padding: 0 0 30px;
+  margin: 0;
+}
+#content .section .meta .price i {
+  color: #333;
+  font-style: normal;
+}
+
+#content .section .more{
+  padding: 0 0 30px;
+  text-align: center;
+}
+
+#content .section .more > *{
+  display: inline-block;
+  vertical-align: middle;
+  text-align: left;
+}
+
+#content .section .more dd{
+  font-size: 12px;
+  line-height: 18px;
+  padding: 0 0 0 10px;
+  width: 160px;
+}
+
+#content .section .detailBtn,
+#content .section .cartBtn{
+  background-color: #333;
+  color: #fff;
+  display: block;
+  font-family: 'Montserrat',Verdana,Arial,Helvetica,sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 38px;
+  margin: 0 auto 30px;
+  transition: opacity .4s ease;
+  text-align: center;
+  width: 265px;
+}
+
+#content .section .detailBtn:hover,
+#content .section .cartBtn:hover{
+  opacity: .8;
+}
+
+#content .section .cartBtn {
+  margin-bottom: 12px;
+}
+
+#content .section .cartBtn-s {
+  border-bottom: 1px solid #333;
+  box-sizing: border-box;
+  color: #333;
+  display: inline-block;
+  font-size: 11px;
+  font-weight: bold;
+  line-height: 1.2;
+  letter-spacing: 0;
+  margin-top: 6px;
+}
+#content .section .cartBtn-s:before {
+  background: url(/common/images/general/icon_cart_black.png) no-repeat 0 50%;
+  content: " ";
+  display: inline-block;
+  height: 12px;
+  padding: 0 4px 0 0;
+  position: relative;
+  top: 1px;
+  width: 14px;
+}
+#content .section .cartBtn-s:hover {
+  opacity: .6;
+}
+
+/* .btns */
+
+#content .section .btns dt {
+  font-size: 12px;
+  font-weight: bold;
+  padding: 0 0 10px;
+}
+#content .section .btns dt:first-child {
+  padding-top: 0;
+}
+
+/* .color */
+#content .section .meta .color {
+  margin: -8px 0 40px;
+}
+#content .section .meta .color img {
+  margin: 0 0 12px;
+  vertical-align: middle;
+}
+#content .section .meta .color p{
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin: 0;
+}
+
+/* .limited */
+#content .section .meta .limited {
+  display: inline-block;
+  font-size: 11px;
+  margin: 0;
+  text-align: right;
+  width: 100%;
+}
+
+/* .colors */
+
+#content .section div[class^="colors"]{
+  border-top: 1px solid #eaeaea;
+  margin: 45px 0 0;
+  padding: 15px 0 30px;
+  position: relative;
+}
+
+#content .section div[class^="colors"] h5{
+  font-size: 16px;
+  line-height: 28px;
+  padding: 0 0 40px;
+  text-align: center;
+}
+
+#content .section div[class^="colors"] ul{
+  font-size: 0;
+  margin-top: -12px;
+  text-align: center;
+}
+
+#content .section div[class^="colors"] li{
+  display: inline-block;
+  padding: 40px 0 0;
+  vertical-align: top;
+  text-align: center;
+  width: 216px;
+}
+
+/*#content .section .colors-2col li {
+  width: 216px;
+}
+#content .section .colors-3col li{
+  width: 216px;
+}*/
+
+#content .section .colors-4col ul li{
+  width: 162px;
+}
+
+#content div[class^="colors"] li:first-child{
+  padding-left: 0;
+}
+
+#content div[class^="colors"] li > *{
+  display: block;
+  text-align: center;
+}
+
+#content div[class^="colors"] li img{
+  margin: 0 auto 10px;
+}
+
+#content div[class^="colors"] li strong{
+  /*font-family: Helvetica, Arial, 'Hiragino Kaku Gothic ProN', 'ヒラギノ角ゴ ProN W3', Meiryo, メイリオ, sans-serif;*/
+  font-family: 'Montserrat',Verdana,Arial,Helvetica,sans-serif;
+  color: #000;
+  /*font-weight: bold;*/
+  font-size: 13px;
+  padding: 3px 0 4px;
+}
+
+#content div[class^="colors"] li strong span{
+  display: block;
+  font-size: 12px;
+  font-weight: normal;
+  padding: 3px 0 0;
+  text-align: center;
+}
+
+#content div[class^="colors"] li span{
+  font-size: 11px;
+}
+
+#content div[class^="colors"] .limited{
+  bottom: -1em;
+  font-size: 11px;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  right: 0;
+  text-align: right;
+}
+
+#content #makeup{
+  padding-bottom: 20px;
+}
+
+#content #makeup h3{
+  text-align: center;
+}
+
+#content #makeup .description{
+  font-size: 14px;
+}
+
+#content #makeup .makeup-main{
+  overflow: hidden;
+  padding: 50px 0 0;
+  zoom: 1;
+}
+
+#content #makeup .makeup-data{
+  border-bottom: 1px solid #666;
+}
+
+#content #makeup .makeup-data h4{
+  margin: 0;
+  padding: 40px 0 10px;
+}
+
+#content #makeup .makeup-data dl{
+  font-size: 11px;
+  padding: 0 0 0 5px;
+  letter-spacing: 0;
+}
+
+#content #makeup .makeup-data dl .pink{
+  color: #e95364;
+}
+
+#content #makeup .makeup-data dd{
+  padding: 0 0 10px;
+}
+
+#content #makeup .makeup-howto h4{
+  font-size: 18px;
+  font-weight: normal;
+  margin-bottom: 20px;
+}
+
+#content #makeup .makeup-howto > div{
+  padding: 0 0 15px;
+}
+#content #makeup .makeup-howto > div:last-child {
+  padding-bottom: 0;
+}
+
+#content #makeup .makeup-main .left{
+  float: left;
+  width: 263px;
+}
+
+#content #makeup .makeup-main .right{
+  border: 2px solid #e95364;
+  border-radius: 8px;
+  float: right;
+  padding: 25px;
+  width: 293px;
+}
+
+#content #makeup .makeup-main h5{
+  padding: 0 0 5px;
+}
+
+#content #makeup .makeup-main p,
+#content #makeup .makeup-main ol{
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin: 0;
+  padding: 0;
+}
+
+#content #makeup .makeup-main .eyes li{
+  padding: 0 0 10px;
+  overflow: hidden;
+  zoom: 1;
+}
+
+#content #makeup .makeup-main .eyes img.img1{
+  float: right;
+  margin: 0 0 5px 5px;
+}
+
+#content #makeup .makeup-main .eyes .img{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+#content #fashion {
+  padding-bottom: 30px;
+}
+#content #fashion *{
+  color: #666;
+  font-size: 14px;
+  line-height: 1.8;
+  text-align: center;
+}
+
+#content #fashion h3 {
+  background: url(images/fashion_ttl.png) no-repeat center;
+  background-size: contain;
+  height: 52px;
+  margin: 0 auto 30px;
+  overflow: hidden;
+  text-indent: -9999px;
+  /*width: 508px;*/
+  width: 100%;
+}
+
+#content #fashion h4 {
+  margin: 0;
+  padding: 0;
+}
+
+#content #fashion h5 {
+  font-weight: bold;
+  margin: 0;
+  padding: 20px 0 0;
+}
+
+#content #fashion p {
+  margin: 0;
+  padding: 0 0 1em;
+}
+
+#content #hairmake {
+  text-align: center;
+}
+#content #hairmake h3 {
+  padding: 0 0 10px;
+  text-align: center;
+}
+#content #hairmake h4 {
+  font-size: 12px;
+  margin: 0;
+  padding: 0 0 5px;
+  text-align: left;
+}
+#content .hairmake__inner {
+  overflow: hidden;
+}
+#content .hairmake__left {
+  float: left;
+}
+#content .hairmake__right {
+  float: right;
+  width: 443px;
+}
+#content .hairmake__right > * {
+  text-align: left;
+}
+#content .hairmake__right p {
+  font-size: 12px;
+  margin: 0;
+  padding: 0 0 1em;
+}
+#content .hairmake__make {
+  padding: 0 0 30px;
+}
+#content .hairmake__hair {
+  padding: 10px 0 0;
+  overflow: hidden;
+  zoom: 1;
+}
+#content .hairmake__hair__left {
+  float: left;
+  width: 212px;
+}
+#content .hairmake__hair__right{
+  float: right;
+}
+/**
+ * for smartphone
+ */
+.smartphone #content .smp_view {display:inline;}
+.smartphone #content .smp_hidden {display:none;}
+.smartphone #content time {margin-bottom:5px; text-align:center;}
+.smartphone #content h2 {font-size:18px; text-align:center;}
+.smartphone #content h3 {font-size:16px; line-height:1.6; text-align:center;}
+.smartphone #content header .image img{ width: 100%; }
+.smartphone #content .line{ width: 100%; }
+
+.smartphone main .main_inner{
+  overflow: visible;
+}
+
+.smartphone #content br.onlySP{
+  display: inline;
+}
+
+/* # introduction */
+.smartphone #content #introduction{
+  background-size: 400px 60px;
+  padding: 40px 0;
+  margin-bottom: -24px;
+}
+
+.smartphone #content #introduction h3 img{
+  width: 200px;
+}
+
+.smartphone #content #introduction p{
+  font-size: 12px;
+  line-height: 1.8;
+  text-align:left;
+}
+
+.smartphone #content #introduction p br{
+  display: none;
+}
+
+.smartphone #content .section{
+  background-size: auto 50px;
+  margin: 0 -6.25% 30px;
+  padding-top: 30px;
+}
+
+.smartphone #content .section > *{
+  margin: 0 6.25%;
+}
+.smartphone #content .section:before {
+  margin: 0 0 40px;
+}
+
+.smartphone #content .section .description{
+  font-size: 14px;
+  line-height: 22px;
+  letter-spacing: 0;
+  margin: 0 6.25%;
+}
+
+
+.smartphone #content .section .img {
+  padding: 30px 0;
+}
+.smartphone #content .section .img img{
+  height: auto;
+  max-height: 250px;
+  max-width: 250px;
+  width: 100%;
+}
+
+.smartphone #content .section .meta .release{
+  font-size: 12px;
+  padding: 0 0 10px;
+}
+
+.smartphone #content .section .meta .title{
+  margin: 0 0 10px;
+}
+
+.smartphone #content .section .meta .title strong{
+  font-size: 18px;
+  line-height: 24px;
+  padding: 0 0 8px;
+}
+
+.smartphone #content .section .meta .title span{
+  font-size: 10px;
+  line-height: 17px;
+}
+
+.smartphone #content .section .meta .price{
+  font-size: 12px;
+  line-height: 17px;
+  padding: 0 0 15px;
+}
+.smartphone #content .section .meta .price i {
+  display: none;
+}
+.smartphone #content .section .meta .price span {
+  display: block;
+}
+
+/*.smartphone #content .section .more{
+  padding: 0 0 30px;
+  text-align: center;
+}*/
+
+/*.smartphone #content .section .more > *{
+  display: inline-block;
+  vertical-align: middle;
+  text-align: left;
+}*/
+
+.smartphone #content .section .more dt img{
+  max-height: 80px;
+  max-width: 90px;
+}
+.smartphone #content .section .more dd{
+  font-size: 11px;
+  line-height: 1.6;
+  /*padding: 0 0 0 10px;*/
+}
+
+.smartphone #content .section .meta .color {
+  padding: 24px 0 0;
+}
+.smartphone #content .section .meta .color p {
+  font-size: 11px;
+  line-height: 16px;
+}
+
+
+.smartphone #content .section div[class^="colors"]{
+  padding: 0 0 28px;
+  position: relative;
+  margin: 30px auto 0;
+  /*max-width: 280px;*/
+  max-width: 414px;
+  width: 100%;
+}
+
+
+.smartphone #content .section div[class^="colors"] ul{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  text-align: left;
+}
+
+.smartphone #content .section div[class^="colors"] h5{
+  font-size: 12px;
+  line-height: 18px;
+}
+
+.smartphone #content .section div[class^="colors"] li{
+  padding: 40px 0 0;
+  width: 48%;
+  /*width: 49%;*/
+}
+
+.smartphone #content .section div[class^="colors"] li strong{
+  font-size: 12px;
+  /*padding: 10px 10px 4px;*/
+}
+
+.smartphone #content .section div[class^="colors"] li span{
+  font-size: 11px;
+  /*text-align: left;*/
+  /*padding: 0 10px;*/
+}
+
+.smartphone #content .section div[class^="colors"] li span br{
+  display: none;
+}
+
+.smartphone #content div[class^="colors"] .limited{
+  text-align: left;
+}
+
+.smartphone #content #makeup{
+  margin-top: 40px;
+}
+
+.smartphone #content #makeup h3 img{
+  width: 200px;
+}
+
+.smartphone #content #makeup .description{
+  /*margin-top: -5px;*/
+  font-size: 12px;
+  margin-top: 15px;
+}
+
+
+.smartphone #content #makeup .makeup-main{
+  /*overflow: hidden;*/
+  margin: 0;
+  padding: 30px 0 0;
+  width: 100%;
+  /*zoom: 1;*/
+}
+
+.smartphone #content #makeup .makeup-main .left{
+  text-align: center;
+}
+
+.smartphone #content #makeup .makeup-main .left > img{
+  width: 280px;
+}
+
+.smartphone #content #makeup .makeup-data{
+  /*border-bottom: 1px solid #666;*/
+  box-sizing: border-box;
+  margin: 0 20px 30px;
+  /*padding: 0 20px;*/
+  /*width: 100%;*/
+}
+
+.smartphone #content #makeup .makeup-data h4{
+  margin: 0;
+  padding: 40px 0 10px;
+}
+
+.smartphone #content #makeup .makeup-data h4 img{
+  width: 100%;
+}
+
+.smartphone #content #makeup .makeup-data dl{
+  font-size: 11px;
+  padding: 0 0 0 5px;
+  letter-spacing: 0;
+}
+
+.smartphone #content #makeup .makeup-data dl .pink{
+  color: #e95364;
+}
+
+.smartphone #content #makeup .makeup-data dd{
+  padding: 0 0 10px;
+}
+
+.smartphone #content #makeup .makeup-howto h4{
+  font-size: 18px;
+  font-weight: normal;
+}
+
+.smartphone #content #makeup .makeup-howto > div{
+  padding: 0 0 15px;
+}
+
+.smartphone #content #makeup .makeup-main .left{
+  /*float: left;
+  width: 263px;*/
+  float: none;
+  width: 100%;
+}
+
+.smartphone #content #makeup .makeup-main .right{
+  /*border: 2px solid #e95364;
+  border-radius: 8px;*/
+  /*float: right;*/
+  float: none;
+  /*padding: 25px;*/
+  /*width: 293px;*/
+  /*padding:*/
+  /*width: 100%;*/
+  margin: 0 20px;
+  width: auto;
+}
+
+.smartphone #content #makeup .makeup-main h5{
+  padding: 0 0 5px;
+}
+
+.smartphone #content #makeup .makeup-main p,
+.smartphone #content #makeup .makeup-main ol{
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin: 0;
+  padding: 0;
+}
+
+.smartphone #content #makeup .makeup-main .eyes li{
+  padding: 0 0 10px;
+  overflow: hidden;
+  zoom: 1;
+}
+
+.smartphone #content #makeup .makeup-main .eyes img.img1{
+  float: right;
+  margin: 0 0 5px 5px;
+}
+
+.smartphone #content #makeup .makeup-main .eyes .img{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+
+
+
+
+
+.smartphone #content #fashion {
+  padding-bottom: 0;
+}
+.smartphone #content #fashion *{
+  font-size: 12px;
+}
+
+.smartphone #content #fashion > * {
+  margin: 0 6.25%;
+}
+
+.smartphone #content #fashion h3 {
+  background-image: url(images/fashion_ttl_sp.png);
+  height: 70px;
+  /*margin-bottom: 20px;*/
+  margin: 0 0 20px;
+
+}
+
+.smartphone #content #fashion h4 {
+  /*margin: 0;*/
+  margin-bottom: 20px;
+  padding: 0;
+}
+
+.smartphone #content #fashion h5 {
+  font-weight: bold;
+  /*margin: 0;*/
+  padding: 20px 0 0;
+  text-align: left;
+}
+
+.smartphone #content #fashion p {
+  /*margin: 0;*/
+  padding: 0 0 1em;
+  text-align: left;
+}
+.smartphone #content #fashion p br {
+  display: none;
+}
+
+.smartphone #content #fashion img {
+  margin: 0;
+  width: 100%;
+}
+
+.smartphone #content #hairmake {
+  text-align: center;
+}
+.smartphone #content #hairmake img {
+  width: 100%;
+}
+.smartphone #content #hairmake h3 {
+  margin-top: -10px;
+  padding: 0 0 30px;
+  text-align: center;
+}
+.smartphone #content #hairmake h3 img {
+  width: 60px;
+}
+.smartphone #content #hairmake h4 {
+  font-size: 12px;
+  margin: 0;
+  padding: 0 0 5px;
+  text-align: left;
+}
+.smartphone #content .hairmake__inner {
+  overflow: hidden;
+}
+.smartphone #content .hairmake__left {
+  /*float: left;*/
+  float: none;
+  padding: 0 0 30px;
+  text-align: center;
+}
+.smartphone #content .hairmake__left img {
+  width: 180px!important;
+}
+.smartphone #content .hairmake__right {
+  /*float: right;*/
+  /*width: 443px;*/
+  float: none;
+  width: 100%;
+}
+.smartphone #content .hairmake__right > * {
+  text-align: left;
+}
+.smartphone #content .hairmake__right p {
+  font-size: 12px;
+  margin: 0;
+  padding: 0 0 1em;
+}
+.smartphone #content .hairmake__make {
+  padding: 0 0 30px;
+}
+.smartphone #content .hairmake__hair {
+  padding: 10px 0 0;
+  overflow: hidden;
+  zoom: 1;
+}
+.smartphone #content .hairmake__hair__left {
+  float: none;
+  width: 100%;
+}
+.smartphone #content .hairmake__hair__right{
+  float: none;
+  text-align: center;
+}
+.smartphone #content .hairmake__hair__right img {
+  width: 210px!important;
+}

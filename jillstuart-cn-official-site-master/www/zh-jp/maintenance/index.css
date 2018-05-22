@@ -1,0 +1,65 @@
+@charset "utf-8";
+
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+	margin:0;
+	padding:0;
+	border:0;
+	outline:0;
+	font-size:100%;
+	font-style:normal;
+	vertical-align:baseline;
+	background:transparent;
+}
+article,aside,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section {display:block;}
+i, em {font-style:normal;}
+ol, ul {list-style:none;}
+blockquote, q {quotes:none;}
+blockquote:before, blockquote:after,
+q:before, q:after {content:''; content:none;}
+a {margin:0; padding:0; font-size:100%; vertical-align:baseline; background:transparent;}
+table {border-collapse:collapse; border-spacing:0;}
+hr {display:block; height:1px; border:0; border-top:1px solid #cccccc; margin:1em 0; padding:0;}
+input, select {vertical-align:middle;}
+
+html {height:100%;}
+body {
+	height:100%;
+	min-height:350px;
+	color:#333333;
+	background-color:#feece7;
+	font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo", "Osaka", "ＭＳ Ｐゴシック", "MS P Gothic", Verdana, Arial, Helvetica, sans-serif;
+	font-size:62.8%;
+	line-height:1.5;
+	text-align:center;
+	-webkit-text-size-adjust:auto;
+}
+
+a {color:#333333; text-decoration:underline;}
+a:hover {color:#999999;}
+
+#container {width:100%; min-width:640px; height:auto !important; height:100%; min-height:100%; position:relative;}
+#container:after {display:block; clear:both; height:0; content:"";}
+#container article {width:640px; height:350px; position:absolute; left:50%; top:50%; margin:-200px 0 0 -320px; text-align:center;}
+#container article h1 {width:330px; height:55px; margin:50px auto 0; background:url(images/logo.gif); text-align:left; text-indent:-9999px;}
+#container article h2 {margin:13px 0 0; font-size:1.4em;}
+#container article p {margin:4px 0 0; font-size:1.2em; line-height:2;}
+#container article p b {color:#e9aea7;}
+
+
+
+
+
+
+

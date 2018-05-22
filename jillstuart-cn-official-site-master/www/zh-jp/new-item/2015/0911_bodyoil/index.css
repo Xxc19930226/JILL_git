@@ -1,0 +1,107 @@
+@charset "utf-8";
+
+.box {font-family: "Meiryo","Osaka","MS P Gothic",Verdana,Arial,Helvetica,sans-serif;}
+#main {float:left; width:700px; margin-top:20px; padding-bottom:70px; background:#fff; color:#000;}
+#content header {border:0;}
+#content time {margin-bottom:20px; font-family: 'Montserrat',Verdana,Arial,Helvetica,sans-serif; color:#999;}
+#content h2 {font-size:2.2em; font-family:"Montserrat",Verdana,Arial,Helvetica,sans-serif; font-weight:bold; margin-bottom:5px;}
+#content h2 i{font-size: 14px; color: #000; position: relative; top:-5px; padding: 0 0 0 3px;}
+#content h3 {font-size:1.3em; font-weight:normal; margin-bottom:20px; font-family:'Montserrat',Verdana,Arial,Helvetica,sans-serif; }
+#content .pc_hidden {display:none;}
+.smartphone #content .pc_hidden {display:inline;}
+
+/* .section */
+
+#content .section{ padding: 75px 0; }
+#content .section .btn{ padding: 27px 0; }
+#content .section .btn a{ background-color: #000; color: #fff; display: inline-block; line-height: 36px; height: 36px; text-align: center; width: 264px; font-family:"Montserrat",Verdana,Arial,Helvetica,sans-serif; }
+#content .section .itemTitle{ padding: 0 0 9px 0; }
+#content .section .itemTitle *{ font-weight: bold; padding-bottom:10px; text-align: center; }
+#content .section .itemTitle span{ color: #5D5C5B; display: block; font-size: 14px; line-height:1.6; padding-bottom:3px;}
+#content .section .itemTitle strong{ color: #5D5C5B; display: block; font-size: 20px; }
+#content .sectionMain{ display: table; height: 100%; margin: 0 0 50px 0; width: 100%; }
+#content .sectionMain > *{ display: table-cell; height: 100%; vertical-align: middle; }
+#content .sectionMain .sectionRow > *{ display: table-cell; height: 100%; vertical-align: top; }
+#content .sectionMain .left{ text-align: center; width: 386px; }
+#content .sectionMain p{ font-size: 13px; line-height: 18px; margin: 0; padding: 0; }
+#content .sectionMain .itemName{ padding: 18px 0; }
+#content .sectionMain .itemName > *{ display: block; }
+#content .sectionMain .itemName strong{ color: #000; font-size: 20px; padding: 0 0 6px; line-height: 24px; font-family:"Montserrat",Verdana,Arial,Helvetica,sans-serif; }
+#content .sectionMain .itemName span{ color: #999; font-size: 10px; }
+#content .sectionMain .note{ display: table; padding: 18px 0 0; width: 100%; }
+#content .sectionMain .note > *{ display: table-cell; vertical-align: middle; }
+#content .sectionMain .note dt{ width: 10px; }
+#content .sectionMain .note dd{ font-size: 12px; padding-left: 10px; }
+#content .sectionColors ul{ font-size: 0; text-align: center; }
+#content .sectionColors li{ display: inline-block; font-size: 11px; padding: 0 20px; vertical-align: top; text-align: center; }
+#content .sectionColors li *{ display: block; text-align: center; }
+#content .sectionColors li img{ display: inline; }
+#content .sectionColors li strong{ color: #000; font-size: 12px; line-height: 27px; padding: 9px 0 0 0; font-family:"Montserrat",Verdana,Arial,Helvetica,sans-serif; }
+#content .sectionColors.circle { overflow:hidden; }
+#content .sectionColors.circle ul{ text-align: left; overflow:hidden;}
+#content .sectionColors.circle li{ padding: 0; width: 128px; }
+
+
+/* introduction */
+#content #introduction{ padding: 65px 0 80px; }
+#content #introduction *{ text-align: center; }
+#content #introduction h3 strong{ color: #000; display: block; font-size: 28px; font-weight: bold; line-height: 56px; background:url("images/title.png") no-repeat center center; text-indent:-99999px; overflow:hidden; }
+#content #introduction h3 span{ font-size: 14px; /*	font-weight: bold;*/ color:#5d5c5b; }
+#content #introduction p{ line-height: 27px; }
+
+#content .section{
+  background: url('images/line.gif') no-repeat bottom center;
+}
+
+#content #item .sectionMain{
+  margin: 0;
+}
+#content #item .left img{
+  width: 150px;
+}
+
+#content #text{
+  font-size: 13px;
+  padding: 40px 0 60px;
+}
+
+#content #text li{
+  background: url(images/icon.gif) no-repeat 6px 7px;
+  padding: 5px 5px 5px 30px;
+}
+
+/**
+ * for smartphone
+ */
+.smartphone #content .smp_view {display:inline;}
+.smartphone #content .smp_hidden {display:none;}
+.smartphone #content time {margin-bottom:5px; text-align:center;}
+.smartphone #content h2 {font-size:18px; text-align:center;}
+.smartphone #content h3 {font-size:16px; line-height:1.6; text-align:center;}
+.smartphone #content header .image img{ width: 100%; }
+.smartphone #content .line{ width: 100%; }
+
+/* section */
+.smartphone #content .section{ padding: 30px 0; }
+.smartphone #content .section .btn{ text-align: center; }
+.smartphone #content .section .btn a{ width: 280px; }
+.smartphone #content .sectionMain{ display: block; }
+.smartphone #content .sectionMain > *{ display: block; width: 100%; }
+.smartphone #content .sectionMain .sectionRow > *{ display: block; width: 100%; }
+.smartphone #content .sectionMain .left{ padding: 20px 0; margin: 0 0 14px 0; }
+.smartphone #content .sectionMain .right > *{ text-align: center; }
+.smartphone #content .section .itemTitle{ padding: 0; }
+.smartphone #content .section .itemTitle span{ font-size: 13px; line-height: 2; }
+.smartphone #content .section .itemTitle strong{ font-size: 16px; line-height: 1.6; }
+.smartphone #content .section .itemName{ font-size: 14px; }
+.smartphone #content .section .itemName > *{ text-align: center; }
+.smartphone #content .section .note{ margin: 0 auto; max-width: 280px; }
+.smartphone #content .section .note dt{ padding-right: 10px; text-align: right; }
+.smartphone #content .sectionColors li{ display: block; padding: 0 0 20px 0; }
+.smartphone #content .sectionColors.circle li{ display: block; /*height: 130px;*/ float: left; height: auto; padding: 0 0 20px; width: 50%; }
+.smartphone #content .sectionColors.circle li:nth-child(odd){ clear: left; }
+.smartphone #content .sectionColors.circle li img{ width:70px; }
+.smartphone #content .sectionColors.circle li strong{ line-height: 1.6; }
+
+.smartphone #content #text{font-size: 12px;}
+.smartphone #content #item .left img{width: 100px;}

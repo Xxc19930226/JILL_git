@@ -1,0 +1,36 @@
+@charset "utf-8";
+
+
+#content .box {padding:0 0 19px ; overflow:hidden;}
+#content .box div.step {float:left; width:310px; margin:0;}
+#content section {*zoom:1; margin:0; padding:0 0 20px;}
+#content section a.li {display:block; padding-bottom:20px; font-size:1.2em;}
+#content section h3 {font-size:1.8em; margin-bottom:10px;}
+#content section h3 span{font-size:0.6em; padding-left:10px;}
+#content section h3 span.j{font-size:0.6em;}
+#content section h3 a {display:block; padding:0; text-decoration:none;}
+#content section h3.noanchor {display:block; padding:0; text-decoration:none;}
+#content section ul   {padding:0 0 10px 15px; font-size:1.4em;}
+#content section ul.j {font-size:1.2em;}
+#content section ul li {padding-bottom:10px; }
+#content section ul li a {display:block; text-decoration:none;}
+#content section ul li h4 a {color:#e98376;}
+#content section ul li h4 a:hover {color:#999999;}
+
+/*__ Smartphone View __*/
+.smartphone	#content .box {margin-top:-8px;}
+.smartphone	#content .box div.step {float:none; width:auto;}
+.smartphone	#content section {padding-bottom:0;}
+.smartphone	#content section a.li {height:37px; line-height:37px; padding:0;}
+.smartphone	#content section h3 {font-size:1.4em; margin:0;}
+.smartphone	#content section h3 span{}
+.smartphone	#content section h3 span.j {}
+.smartphone	#content section h3 a {height:37px; line-height:37px; padding:0;}
+.smartphone	#content section h3.noanchor {height:37px; line-height:37px;}
+.smartphone	#content section .ul_wrapper {margin:12px 0 18px; overflow:hidden;}
+.smartphone	#content section ul {border-left:2px solid #333; margin:-0.5em 0 -0.5em 0.5em; padding:0 0 0 15px;}
+.smartphone	#content section ul.j {}
+.smartphone	#content section ul li {padding:0;}
+.smartphone	#content section ul li a {line-height:37px; padding:0;}
+.smartphone	#content section ul li h4 a {}
+.smartphone	#content section ul li h4 a:hover {}

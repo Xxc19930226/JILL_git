@@ -1,0 +1,314 @@
+@charset "utf-8";
+
+.box {font-family: "ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro","メイリオ","Meiryo","Osaka","ＭＳ Ｐゴシック","MS P Gothic",Verdana,Arial,Helvetica,sans-serif;}
+#main {float:left; width:700px; margin-top:20px; padding-bottom:70px; background:#fff; color:#000;}
+#content{-webkit-font-smoothing: antialiased;}
+#content header {border:0;}
+#content time {margin-bottom:20px; font-family: 'Montserrat',Verdana,Arial,Helvetica,sans-serif; color:#999;}
+#content h2 {font-size:2.2em; font-family:"Montserrat",Verdana,Arial,Helvetica,sans-serif; font-weight:bold; margin-bottom:5px;}
+#content h3 {font-size:1.3em; font-weight:normal; margin-bottom:20px;}
+#content h4 {font-size:1.3em; font-weight:normal; margin-bottom:30px; text-align:center;}
+#content .en {font-family: 'Montserrat',Verdana,Arial,Helvetica,sans-serif;}
+
+#content br.onlySP{
+  display: none;
+}
+
+
+
+/* introduction */
+#content #introduction{
+  padding: 65px 0;
+  margin: 0 0 20px;
+}
+
+#content #introduction *{ text-align: center; }
+#content #introduction p{ line-height: 27px; }
+#content #introduction > div{
+  padding: 30px 0 20px;
+  position: relative;
+  text-align: center;
+}
+
+/* .section */
+
+#content .section{
+  background: url(images/line.png) no-repeat;
+  margin: 0 0 60px;
+  padding: 110px 0 0;
+}
+
+#content .sections .section:last-child{
+  margin-bottom: 0;
+}
+
+#content .section .description{
+  font-size: 16px;
+  line-height: 28px;
+  position: relative;
+  text-align: center;
+}
+
+#content .section .description:before,
+#content .section .description:after{
+  content: " ";
+  display: block;
+  left: 50%;
+  position: absolute;
+}
+
+#content .section .description:before{
+  background: url(images/section_titleDeco_top.png) no-repeat top center;
+  height: 34px;
+  margin: 0 0 0 -50px;
+  top: -40px;
+  width: 101px;
+}
+
+#content .section .description:after{
+  background: url(images/section_titleDeco_bottom.png) no-repeat top center;
+  bottom: -25px;
+  height: 16px;
+  margin: 0 0 0 -44px;
+  width: 88px;
+}
+
+#content .section .img{
+  padding: 40px 0 40px;
+  text-align: center;
+}
+
+
+#content .section .meta{
+  width: 100%;
+}
+
+#content .section .meta *{
+  text-align: center;
+}
+
+#content .section .meta .release{
+  display: block;
+  font-size: 13px;
+  padding: 0 0 15px;
+}
+
+#content .section .meta .title{
+  margin: 0 0 15px;
+}
+
+#content .section .meta .title strong{
+  color: #333;
+  display: block;
+  font-size: 20px;
+  line-height: 24px;
+  padding: 0 0 8px;
+}
+
+#content .section .meta .title span{
+  color: #999;
+  display: block;
+  font-size: 11px;
+  line-height: 15px;
+}
+
+#content .section .meta .price{
+  font-size: 13px;
+  line-height: 18px;
+  padding: 0 0 30px;
+  margin: 0;
+}
+
+#content .section .detailBtn{
+  background-color: #333;
+  color: #fff;
+  display: block;
+  font-family: 'Montserrat',Verdana,Arial,Helvetica,sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 38px;
+  margin: 0 auto;
+  transition: opacity .4s ease;
+  text-align: center;
+  width: 265px;
+}
+
+#content .section .detailBtn:hover{
+  opacity: .8;
+}
+
+#content .section .colors{
+  padding: 0 0 40px;
+  text-align: center;
+}
+
+#content .section .colors li{
+  display: inline-block;
+  padding: 0 0 0 15px;
+  vertical-align: top;
+  width: 148px;
+}
+
+#content .section .colors li:first-child{
+  padding-left: 0;
+}
+
+#content .section .colors li > *{
+  display: block;
+  text-align: center;
+}
+
+#content .section .colors li img{
+  margin: 0 auto;
+}
+
+#content .section .colors li strong{
+  color: #000;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 10px 0 4px;
+}
+
+#content .section .colors li span{
+  font-size: 11px;
+}
+
+/**
+ * for smartphone
+ */
+.smartphone #content .smp_view {display:inline;}
+.smartphone #content .smp_hidden {display:none;}
+.smartphone #content time {margin-bottom:5px; text-align:center;}
+.smartphone #content h2 {font-size:18px; text-align:center;}
+.smartphone #content h3 {font-size:16px; line-height:1.6; text-align:center;}
+.smartphone #content header .image img{ width: 100%; }
+.smartphone #content .line{ width: 100%; }
+
+.smartphone main .main_inner{
+  overflow: visible;
+}
+
+.smartphone #content br.onlySP{
+  display: inline;
+}
+
+/* # introduction */
+.smartphone #content #introduction{
+  background-size: 400px 60px;
+  padding: 20px 0;
+}
+
+.smartphone #content #introduction h3 img{
+  width: 150px;
+}
+
+.smartphone #content #introduction p{
+  font-size: 10px;
+  line-height: 1.8;
+  text-align:left;
+}
+
+.smartphone #content #introduction p br{
+  display: none;
+}
+
+.smartphone #content .section{
+  background-size: contain;
+  margin: 0 -6.25% 30px;
+  padding-top: 60px;
+}
+
+.smartphone #content .section > *{
+  margin: 0 6.25%;
+}
+
+.smartphone #content .section .description{
+  font-size: 12px;
+  line-height: 22px;
+  letter-spacing: 0;
+  margin: 0;
+}
+
+.smartphone #content .section .description:before,
+.smartphone #content .section .description:after{
+  background-size: contain;
+  content: " ";
+  display: block;
+  left: 50%;
+  position: absolute;
+}
+
+.smartphone #content .section .description:before{
+  height: 17px;
+  margin: 0 0 0 -25px;
+  top: -20px;
+  width: 50px;
+}
+
+.smartphone #content .section .description:after{
+  bottom: -12px;
+  height: 8px;
+  margin: 0 0 0 -22px;
+  width: 44px;
+}
+
+.smartphone #content .section .img img{
+  height: auto;
+  max-height: 250px;
+  max-width: 250px;
+  width: auto;
+}
+
+.smartphone #content .section .meta .release{
+  font-size: 10px;
+  padding: 0 0 10px;
+}
+
+.smartphone #content .section .meta .title{
+  margin: 0 0 10px;
+}
+
+.smartphone #content .section .meta .title strong{
+  font-size: 16px;
+  line-height: 22px;
+  padding: 0 0 4px;
+}
+
+.smartphone #content .section .meta .title span{
+  font-size: 10px;
+  line-height: 17px;
+}
+
+.smartphone #content .section .meta .price{
+  font-size: 10px;
+  line-height: 17px;
+  padding: 0 0 15px;
+}
+
+
+.smartphone #content .section .colors{
+  padding: 30px 0;
+  position: relative;
+  margin: 0 auto;
+  max-width: 280px;
+  width: 100%;
+}
+
+.smartphone #content .section .colors li{
+  padding: 0;
+  margin: 0 0 20px;
+  width: 49%;
+}
+
+.smartphone #content .section .colors li strong{
+  font-size: 10px;
+  padding: 10px 0 4px;
+}
+
+.smartphone #content .section .colors li span{
+  font-size: 10px;
+}
+
+.smartphone #content .section .colors li span br{
+  display: none;
+}

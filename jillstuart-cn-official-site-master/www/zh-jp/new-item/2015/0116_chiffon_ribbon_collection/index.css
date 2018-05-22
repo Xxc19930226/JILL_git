@@ -1,0 +1,279 @@
+@charset "utf-8";
+
+/* new clearfix */
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+	}
+* html .clearfix             { zoom: 1; } /* IE6 */
+*:first-child+html .clearfix { zoom: 1; } /* IE7 */
+
+
+.smartphone img {
+    height: auto;
+    max-width: 100%;
+}
+
+#brandnew_theme{
+	width: 100%;
+	margin: 45px 0 0 0;
+	background: url(images/theme_bk.jpg) no-repeat center top;
+	-moz-background-size:contain;
+	background-size:contain;
+}
+
+.smartphone #brandnew_theme{
+	width: 100%;
+	background: none;
+}
+
+#brandnew_theme .brandnew_theme_txt{
+	font-size: 1.5em;
+	text-align: center;
+	line-height: 200%;
+	padding: 60px 0;
+	background: url(images/theme_bk_bottom.jpg) no-repeat center bottom;
+}
+
+.smartphone #brandnew_theme .brandnew_theme_txt{
+	padding: 0 0 0 0;
+	background: none;
+}
+
+#brandnew_theme .brandnew_theme_txt span{
+	font-size: 2em;
+	text-align: center;
+	font-weight: bold;
+	display: block;
+	margin: 0 0 40px 0;
+	line-height: 130%;
+}
+
+#brandnew_product{
+	text-align: center;
+}
+
+.brandnew_bar{
+	margin: 40px 0 0 0;
+}
+
+.brandnew_ttl{
+	font-size: 1.7em;
+	margin: 40px 0 0 0;
+	line-height: 150%;
+}
+
+.brandnew_img{
+	margin: 40px auto 0 auto;
+}
+
+.brandnew_img img{
+	max-width: 448px;
+	width: 80%;
+	height: auto;
+	width:auto; /* ie8 */
+}
+
+.smartphone .brandnew_img img{
+	max-width: 560px;
+	width: 100%;
+	height: auto;
+}
+
+.brandnew_name{
+	margin: 30px 0 0 0;
+	font-size: 1.3em;
+	line-height: 150%;
+}
+
+.brandnew_color_box{
+	margin: 0 0 0 0;
+}
+
+.brandnew_color{
+	width: 25%;
+	margin: 40px 0 0 0;
+	font-size: 1.3em;
+	line-height: 150%;
+	float: left;
+}
+
+.brandnew_color_left{
+	margin: 40px 0 0 12.5%;
+}
+
+.smartphone .brandnew_color{
+	width: 50%;
+	margin: 40px 0 0 0;
+	font-size: 1.3em;
+	line-height: 150%;
+	float: left;
+}
+
+.brandnew_color img{
+	width: 50%;
+	max-width: 60px;
+	height: auto;
+	width:auto; /* ie8 */
+	margin: 0 0 10px 0;
+	font-size: 1.3em;
+	line-height: 150%;
+}
+
+.smartphone .brandnew_color img{
+	width: 100%;
+	max-width: 120px;
+	height: auto;
+	margin: 0 0 10px 0;
+	font-size: 1.3em;
+	line-height: 150%;
+}
+
+.brandnew_cheek{
+	width: 50%;
+	margin: 40px 0 0 0;
+	font-size: 1.3em;
+	line-height: 150%;
+	float: left;
+}
+
+.brandnew_color_left{
+	margin: 40px 0 0 12.5%;
+}
+
+.smartphone .brandnew_cheek{
+	width: 50%;
+	margin: 40px 0 0 0;
+	font-size: 1.3em;
+	line-height: 150%;
+	float: left;
+}
+
+.brandnew_cheek img{
+	width: 80%;
+	max-width: 96px;
+	height: auto;
+	width:auto; /* ie8 */
+	margin: 0 0 10px 0;
+	font-size: 1.3em;
+	line-height: 150%;
+}
+
+.smartphone .brandnew_cheek img{
+	width: 100%;
+	max-width: 120px;
+	height: auto;
+	margin: 0 0 10px 0;
+	font-size: 1.3em;
+	line-height: 150%;
+}
+
+.brandnew_color_txt{
+	margin: 10px 0 0 0;
+}
+
+.brandnew_other{
+	margin: 30px 0 0 0;
+	font-size: 1.3em;
+	line-height: 150%;
+}
+
+.brandnew_other_list{
+	width: 320px;
+	margin: 0 auto;
+}
+
+.brandnew_other_list dd img{
+	width: 80%;
+	max-width: 268px;
+	height: auto;
+	width:auto; /* ie8 */
+}
+
+.brandnew_other_2line{
+	margin: 30px auto 0 auto;
+	font-size: 1.3em;
+	line-height: 150%;
+}
+
+.brandnew_other_2line_list{
+	width: 320px;
+	display: table-cell;
+	vertical-align: middle;
+	margin: 0;
+}
+
+.brandnew_other_2line_list dd img{
+	width: 80%;
+	max-width: 268px;
+	height: auto;
+	width:auto; /* ie8 */
+}
+
+.smartphone .brandnew_other_2line_list{
+	width: 100%;
+	margin: 30px 0 0 0;
+	display: block;
+}
+
+.smartphone .brandnew_other_2line_list dd img{
+	width: 100%;
+	max-width: 335px;
+	height: auto;
+}
+
+.brandnew_link{
+	margin: 5px 0 0 0;
+	font-size: 1.4em;
+}
+
+#content header {margin:20px 0; border:0;}
+#content h4 {font-size:16px;}
+#content time {font-size:12px; color:#999; margin:20px 0;}
+#content dl,
+#content dt,
+#content dd {text-align:center;}
+#content .newbase_makeup_listbox dd{text-align:left;}
+
+/****************************************************************/
+.brandnew_last_box{
+	margin: 0 0 0 0;
+}
+
+.brandnew_last{
+	width: 25%;
+	margin: 40px 0 0 0;
+	font-size: 1.3em;
+	line-height: 150%;
+	float: left;
+}
+
+.smartphone .brandnew_last{
+	width: 50%;
+	margin: 40px 0 0 0;
+	float: left;
+}
+
+.brandnew_last img{
+	width: 80%;
+	max-width: 128px;
+	height: auto;
+	width:auto; /* ie8 */
+	margin: 0 0 0 0;
+	font-size: 1.3em;
+	line-height: 150%;
+}
+
+.smartphone .brandnew_last img{
+	width: 100%;
+	max-width: 162px;
+	height: auto;
+	margin: 0 0 0 0;
+	font-size: 1.3em;
+	line-height: 150%;
+}
+

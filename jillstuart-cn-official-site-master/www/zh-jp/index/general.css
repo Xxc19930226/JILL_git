@@ -1,0 +1,21 @@
+
+header .gnavi .close{display:none; width:20px; position:absolute; height:20px; top:178px; *top:176px; right:75px; text-indent:-9999px; background:url('/images/general/icon_close.png') no-repeat; cursor:pointer;}
+header .gnavi .gnavi_product_inner{ margin:20px auto 0; padding-bottom:15px;}
+header .gnavi .gnavi_product_inner ul{ margin-top:10px; color:#333; padding-right:5px; }
+header .gnavi .gnavi_product_inner ul li{font-size:12px; }
+header .gnavi .gnavi_product .col{width:auto; float:left; margin-right:30px;}
+
+header .gnavi .gnavi_product_inner.series .col{margin-right:0; padding-bottom:15px;}
+
+header .gnavi.fixed .close{top:94px; *top:92px;}
+
+
+
+
+/*__ Smartphone View __*/
+.smartphone	header .snavi .snavi_sparator{width:50px; border-top:3px solid #333; margin-bottom:6.25%;}
+.smartphone	footer .copyright{background: url("/common/images/general/smp/copyright.png") no-repeat scroll 0 0; background-size:213px auto; margin-top:30px;}
+
+body {
+	font-family: 'Montserrat', SimHei, Verdana,Arial,Helvetica,sans-serif;
+}

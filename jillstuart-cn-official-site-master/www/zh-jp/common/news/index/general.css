@@ -1,0 +1,105 @@
+/*
+
+ NEWS General
+
+*/
+
+/*__ PC View __*/
+main .main_inner {margin-bottom:100px; width:960px;}
+main .main_inner:after {display:block; clear:both; height:0; content:"";}
+main .main_inner #body article#content,
+main .main_inner article#content {/*font-size:10px;*/ margin-bottom:70px;}
+main .main_inner #body article#content h4,
+main .main_inner article#content h4{font-weight:bold;}
+
+main {position:relative;}
+/*main .category_navi{display:none;}*/
+main .category_navi{*zoom1; z-index:50; width:220px; margin:-120px auto 70px; padding-left:740px; line-height:4em; height:4em; font-size:12px; position:relative;}
+main .category_navi:hover{cursor:pointer;}
+main .category_navi .current{background:url("/common/images/general/icon_down.png") no-repeat right center;width:220px; border-bottom:3px solid #ddd;}
+main .category_navi .category_list{display:none; background:#fff; z-index:50;
+	padding:10px 20px;
+	-webkit-box-shadow:0 5px 8px rgba(0,0,0,0.2);
+	-moz-box-shadow:0 5px 8px rgba(0,0,0,0.2);
+	box-shadow:0 5px 8px rgba(0,0,0,0.2);}
+main .category_navi .category_list a{display:block; height:30px; line-height:30px;}
+main .category_navi .category_list .search{border-bottom: 1px solid #ddd; height:30px; line-height:30px; margin-top:10px;}
+main .category_navi .category_list .search form {height: 30px; }
+main .category_navi .category_list .search input[type="text"] {border: 0 none; color: #000; font-size: 12px; font-weight: bold; height: 20px; letter-spacing: 0.1em; line-height: 20px; padding: 0; width: 155px; }
+main .category_navi .category_list .search input[type="submit"] {background: url("/common/images/general/icon_search.png") no-repeat; border: 0 none; cursor: pointer; height: 20px; margin: 0; padding: 0; text-indent: -99999px; width: 20px; }
+main .category_navi .category_list .series {font-size:1.2em; margin:10px 0 0; border-top:1px solid #ddd; cursor:default;}
+
+
+
+/*main .main_inner #body article#content img{width:100%;}*/
+aside {float:right; width:220px; padding-right:0;}
+aside .label {font-size:18px; margin-bottom:25px;}
+aside .category {margin-bottom:40px;}
+aside .category_list {margin-bottom:40px;}
+aside .category_list li{display:block;}
+aside .category_list li a{display:block; height:2.2em; line-height:2.2em; font-size:14px;}
+aside .social {margin:0 0 40px; padding-top:40px; border-top:2px solid #333;}
+aside .social_list {margin-bottom:30px;}
+aside .social_list li{display:block;}
+aside .social_list li a{display:block; height:2.2em; line-height:2.2em; font-size:14px;}
+aside .facebook {border: 1px solid #ddd; display: block; margin-bottom: 50px;}
+
+article {float:left; width:650px; text-align:left;}
+
+/* ページ送り */
+.pagenavi {*zoom:1; margin:20px 0 0; padding:0; border-bottom:1px solid #ddd; font-size:10px;}
+.bottom .pagenavi {margin:0 0 70px; border-top:1px solid #ddd; border-bottom:0;}
+.pagenavi:after {display:block; clear:both; height:0; content:"";}
+.pagenavi .result {display:inline-block; *display:inline; *zoom:1; float:left; height:auto; margin-right:1.5em; padding:6px 0; font-size:14px;}
+.pagenavi .number {display:inline-block; *display:inline; *zoom:1; float:left;}
+.pagenavi .number:after {display:block; clear:both; height:0; content:"";}
+.pagenavi .number b {display:inline-block; *display:inline; *zoom:1; float:left; padding:6px 0; font-size:14px; font-weight:normal;}
+.pagenavi .number ul {display:inline-block; *display:inline; *zoom:1; float:left;}
+.pagenavi .number ul:after {display:block; clear:both; height:0; content:"";}
+.pagenavi .number ul li {display:inline-block; *display:inline; *zoom:1; float:left;}
+.pagenavi .number ul li a {display:block; padding:6px 4px; font-size:14px; color:#333;}
+.pagenavi .number ul li a.act {color:#4b4a48; text-decoration:none;}
+.pagenavi .number ul li a:hover {color:#999999;}
+.pagenavi .navi {display:inline-block; *display:inline; *zoom:1; float:right;}
+.pagenavi .navi:after {display:block; clear:both; height:0; content:"";}
+.pagenavi .navi li {display:inline-block; *display:inline; *zoom:1; float:left; margin:0;}
+.pagenavi .navi li a {display:block; height:auto; padding:6px 4px; border:none; font-size:14px; line-height:inherit; text-decoration:none;}
+.pagenavi .navi li a.act {background:none; color:#333; font-weight:bold;}
+.pagenavi .navi li.previous {}
+.pagenavi .navi li.next     {}
+.pagenavi .navi li.previous a {background:url("/common/images/general/icon_arrow_back.png") no-repeat left center; text-indent:-99999px; width:10px;}
+.pagenavi .navi li.next     a {background:url("/common/images/general/icon_arrow.png") no-repeat right center; text-indent:-99999px; width:10px;}
+
+.pagenavicmn {margin:20px 0 0;}
+.pagenavicmn p {font-size:11px;}
+.pagenavicmn p.left {width:240px;}
+.pagenavicmn p.left span {color:#e9aea7;}
+.pagenavicmn ul.navi li a {border:0;line-height:1.6em;padding:2px;font-size:12px;text-decoration:none;vertical-align:middle;}
+
+
+/*__ Smartphone View __*/
+.smartphone	main {margin-bottom:50px;}
+.smartphone	main .main_inner {width:auto; margin:0 6.25% 30px;}
+
+.smartphone	main .category_navi{position:relative; width:auto; margin:-15px 6.25% 60px; line-height:1.6em; height:auto; right:0; top:0; padding:0; }
+.smartphone	main .category_navi .current{font-size:1.4em; text-align:center; padding:18px 0; width:auto;}
+.smartphone	main .category_navi .category_list{margin-right:0; padding:20px; width:auto;}
+.smartphone	main .category_navi .category_list a{font-size:1.2em; text-align:center; height:40px; line-height:40px;}
+.smartphone	main .category_navi .category_list .search{border-bottom: 1px solid #ddd; height:40px; line-height:40px; padding-top:50px;}
+.smartphone	main .category_navi .category_list .search form {height: 40px;}
+.smartphone	main .category_navi .category_list .search input[type="text"] {width:90%; font-size:1.2em;}
+.smartphone	main .category_navi .category_list .search input[type="submit"] {float:right; background-position:0 10px; height:40px;}
+.smartphone	main .category_navi .category_list .series {text-align:center; font-size:1.6em; padding-top:20px; margin:40px 20%; border-top:1px solid #ddd;}
+
+.smartphone	aside {float:none; width:auto; padding-right:0; margin:0; }
+.smartphone	aside .label {font-size:16px; margin-bottom:15px;}
+.smartphone	aside .label br {display:none;}
+.smartphone	aside .category {margin-bottom:30px;}
+.smartphone	aside .category_list {margin-bottom:30px;}
+.smartphone	aside .social{margin-bottom:30px;}
+.smartphone	aside .facebook {margin-bottom:0;}
+
+.smartphone	article {float:none; width:auto; padding-left:0;}
+
+.smartphone	aside {display:none;}
+.smartphone	main .category_navi{display:block;}

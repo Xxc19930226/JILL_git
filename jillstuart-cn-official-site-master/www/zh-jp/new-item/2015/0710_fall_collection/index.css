@@ -1,0 +1,462 @@
+@charset "utf-8";
+
+.box {font-family: "Meiryo","Osaka","MS P Gothic",Verdana,Arial,Helvetica,sans-serif;}
+#main {float:left; width:700px; margin-top:20px; padding-bottom:70px; background:#fff; color:#000;}
+#content header {border:0;}
+#content time {margin-bottom:20px; font-family: 'Montserrat',Verdana,Arial,Helvetica,sans-serif; color:#999;}
+#content h2 {font-size:2.2em; font-family:"Montserrat",Verdana,Arial,Helvetica,sans-serif; font-weight:bold; margin-bottom:5px;}
+#content h3 {font-size:1.3em; font-weight:normal; margin-bottom:20px;}
+
+/* .section */
+
+#content .section{
+	padding: 75px 0;
+}
+
+#content .section .btn{
+	padding: 27px 0;
+}
+
+#content .section .btn a{
+	background-color: #000;
+	color: #fff;
+	display: inline-block;
+	line-height: 36px;
+	height: 36px;
+	text-align: center;
+	width: 264px;
+    font-family:"Montserrat",Verdana,Arial,Helvetica,sans-serif;
+}
+
+#content .section .itemTitle{
+	padding: 0 0 9px 0;
+}
+
+#content .section .itemTitle *{
+	font-weight: bold;
+	line-height: 36px;
+	text-align: center;
+}
+
+#content .section .itemTitle span{
+	color: #5D5C5B;
+	display: block;
+	font-size: 14px;
+}
+
+#content .section .itemTitle strong{
+	color: #5D5C5B;
+	display: block;
+	font-size: 20px;
+}
+
+#content .sectionMain{
+	display: table;
+	height: 100%;
+	margin: 0 0 50px 0;
+	width: 100%;
+}
+
+#content .sectionMain > *{
+	display: table-cell;
+	height: 100%;
+	vertical-align: middle;
+}
+
+#content .sectionMain .left{
+	text-align: center;
+	width: 386px;
+}
+
+#content .sectionMain p{
+	font-size: 13px;
+	line-height: 18px;
+	margin: 0;
+	padding: 0;
+}
+
+#content .sectionMain .itemName{
+	padding: 18px 0;
+}
+
+#content .sectionMain .itemName > *{
+	display: block;
+}
+
+#content .sectionMain .itemName strong{
+	color: #000;
+	font-size: 20px;
+	padding: 0 0 6px;
+	line-height: 24px;
+    font-family:"Montserrat",Verdana,Arial,Helvetica,sans-serif;
+}
+
+#content .sectionMain .itemName span{
+	color: #999;
+	font-size: 10px;
+}
+
+#content .sectionMain .note{
+	display: table;
+	padding: 18px 0 0;
+	width: 100%;
+}
+#content .sectionMain .note > *{
+	display: table-cell;
+	vertical-align: middle;
+}
+
+#content .sectionMain .note dt{
+	width: 10px;
+}
+
+#content .sectionMain .note dd{
+    font-size: 12px;
+	padding-left: 10px;
+}
+
+#content .sectionColors ul{
+	font-size: 0;
+	text-align: center;
+}
+
+#content .sectionColors li{
+	display: inline-block;
+	font-size: 11px;
+	padding: 0 20px;
+	vertical-align: top;
+	text-align: center;
+}
+
+#content .sectionColors li *{
+	display: block;
+	text-align: center;
+}
+
+#content .sectionColors li img{
+	display: inline;
+}
+
+#content .sectionColors li strong{
+	color: #000;
+	font-size: 12px;
+	line-height: 27px;
+	padding: 9px 0 0 0;
+    font-family:"Montserrat",Verdana,Arial,Helvetica,sans-serif;
+}
+
+#content .sectionColors.circle {
+    margin-bottom:-30px;
+}
+#content .sectionColors.circle ul{
+	text-align: left;
+}
+
+#content .sectionColors.circle li{
+	height: 180px;
+	padding: 0;
+	width: 162px;
+}
+
+
+
+/* introduction */
+
+#content #introduction{
+	padding: 65px 0 80px;
+}
+
+#content #introduction *{
+	text-align: center;
+}
+
+#content #introduction h3 strong{
+	color: #000;
+	display: block;
+	font-size: 28px;
+	font-weight: bold;
+	line-height: 56px;
+    background:url("images/title.png") no-repeat center center;
+    text-indent:-99999px;
+    overflow:hidden;
+}
+
+#content #introduction h3 span{
+	font-size: 14px;
+/*	font-weight: bold;*/
+    color:#5d5c5b;
+}
+
+#content #introduction p{
+	line-height: 27px;
+}
+
+
+
+/* #cheek */
+
+#content #cheek .sectionMain .left{
+	text-align: left;
+}
+
+/* #eyeline */
+
+#content #eyeline .sectionMain .left{
+	text-align: left;
+}
+
+/* #nail */
+
+#content #nail .sectionColors ul{
+	text-align: center;
+}
+
+/**
+ * for smartphone
+ */
+.smartphone #content .smp_view {display:inline;}
+.smartphone #content .smp_hidden {display:none;}
+.smartphone #content time {margin-bottom:5px; text-align:center;}
+.smartphone #content h2 {font-size:18px; text-align:center;}
+.smartphone #content h3 {font-size:16px; line-height:1.6; text-align:center;}
+.smartphone #content header .image img{
+	width: 100%;
+}
+
+.smartphone #content .line{
+	width: 100%;
+}
+
+/* section */
+
+.smartphone #content .section{
+	padding: 30px 0;
+}
+
+.smartphone #content .section .btn{
+	text-align: center;
+}
+
+.smartphone #content .section .btn a{
+	width: 280px;
+}
+
+.smartphone #content .sectionMain{
+	display: block;
+}
+
+.smartphone #content .sectionMain > *{
+	display: block;
+	width: 100%;
+}
+
+.smartphone #content .sectionMain .left{
+	padding: 20px 0;
+	margin: 0 0 14px 0;
+}
+
+.smartphone #content .sectionMain .right > *{
+	text-align: center;
+}
+
+
+.smartphone #content .section .itemTitle{
+	padding: 0;
+}
+
+.smartphone #content .section .itemTitle span{
+	font-size: 13px;
+	line-height: 2;
+}
+
+.smartphone #content .section .itemTitle strong{
+	font-size: 16px;
+	line-height: 1.6;
+}
+
+.smartphone #content .section .itemName{
+	font-size: 14px;
+}
+
+.smartphone #content .section .itemName > *{
+	text-align: center;
+}
+
+.smartphone #content .section .note{
+	margin: 0 auto;
+	max-width: 280px;
+}
+
+.smartphone #content .section .note dt{
+	padding-right: 10px;
+	text-align: right;
+}
+
+.smartphone #content .sectionColors li{
+	display: block;
+	padding: 0 0 20px 0;
+}
+
+.smartphone #content .sectionColors.circle li{
+	display: block;
+	/*height: 130px;*/
+	float: left;
+	height: auto;
+	padding: 0 0 20px;
+	width: 50%;
+}
+
+.smartphone #content .sectionColors.circle li:nth-child(odd){
+	clear: left;
+}
+
+.smartphone #content .sectionColors.circle li img{
+	width: 30px;
+}
+
+.smartphone #content .sectionColors.circle li strong{
+	line-height: 1.6;
+}
+
+/* # introduction */
+
+.smartphone #content #introduction{
+	padding: 40px 0;
+}
+
+.smartphone #content #introduction h3 strong{
+	font-size: 16px;
+	line-height: 40px;
+}
+
+.smartphone #content #introduction h3 span{
+	font-size: 13px;
+}
+
+.smartphone #content #introduction p{
+	font-size: 13px;
+	line-height: 1.8;
+    text-align:left;
+}
+
+/* #lip */
+
+.smartphone #content #lip .sectionMain img{
+	width: 94px;
+}
+
+/* #eyecolor */
+
+.smartphone #content #eyecolor .sectionMain img{
+	width: 200px;
+}
+
+.smartphone #content #eyecolor .note img{
+	width: 60px;
+}
+
+/* #cheek */
+
+.smartphone #content #cheek .sectionMain img{
+	width: 280px;
+}
+
+.smartphone #content #cheek .sectionMain .left{
+	text-align: center;
+}
+
+.smartphone #content #cheek .note img{
+	width: 70px;
+}
+
+
+/* #eyeline */
+
+.smartphone #content #eyeline .sectionMain .left{
+	text-align: center;
+}
+
+
+.smartphone #content #eyeline .sectionMain img{
+	width: 260px;
+}
+
+.smartphone #content #eyeline .sectionMain .note img{
+	width: 94px;
+}
+
+
+/* #nail */
+
+.smartphone #content #nail .sectionMain img{
+	width: 240px;
+}
+
+.smartphone #content #nail .sectionColors ul{
+	text-align: left;
+}
+
+
+/*
+#content .smp_view {display:none;}
+#content .smp_hidden {display:inline;}
+.box {font-family:"ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro","メイリオ","Meiryo","Osaka","ＭＳ Ｐゴシック","MS P Gothic",Verdana,Arial,Helvetica,sans-serif;}
+
+#main {float:left; width:700px; margin-top:20px; padding-bottom:70px; background:#fff; color:#000;}
+#content header {border:0;}
+#content time {margin-bottom:20px; font-family: 'Montserrat',Verdana,Arial,Helvetica,sans-serif; color:#999;}
+#content h2 {font-size:2.2em; font-weight:bold; margin-bottom:5px;}
+#content h3 {font-size:1.3em; font-weight:normal; margin-bottom:20px;}
+#content p.pink {font-size:10px !important; color:#B390A6; padding-top:3px;}
+#content a.anchor {font-size:0.01px; line-height:0.01px;}
+
+#content #introduction {padding-bottom:65px; border-bottom:1px solid #ddd;}
+#content #introduction .image {height:527px;}
+#content #introduction > p {margin:0 auto 0 134px; font-size:14px; line-height:2; padding-top:85px;}
+#content #introduction b {display:inline-block; *display:inline; *zoom:1; width:440px; height:70px; margin:0 0 50px -30px; background:url(images/title.png) no-repeat; background-size:440px auto; text-indent:200%; white-space:nowrap; overflow:hidden;}
+#content #introduction > img {display:block;}
+#content #introduction > p i {
+	display:inline-block; *display:inline; *zoom:1; width:100px; height:48px; margin:0 0 0 -10px;
+	background:url(images/introduction_autograph.png) no-repeat; text-indent:200%; white-space:nowrap; overflow:hidden;}
+#content #effect {border-top:1px solid #ddd; padding-bottom:0px; }
+#content #effect .step {margin:0 60px 30px 95px; font-size:1.3em; }
+#content #effect i {background:#E9AEA7; color:#fff; font-size:0.7em; padding:3px 10px; line-height:1em; display:inline-block; vertical-align:middle; font-family: 'Montserrat',Verdana,Arial,Helvetica,sans-serif;}
+
+#content #effect b {color:#000; font-weight:bold; font-size:1.1em; margin:0 0 5px -35px; display:inline-block; padding:0 5px 10px 33px ; background:url("/common/images/general/icon_dia.gif") no-repeat; }
+
+#content .block {margin:0; padding:85px 0;}
+#content .block > .image {display:inline-block; margin-bottom:20px; float:left;}
+#content .block > .image img {height:315px; width:auto; margin:0 40px 0 0; display:block;}
+#content .block > h2 {font-size:2.2em; margin-bottom:30px; padding-top:10px; font-family: 'Montserrat',Verdana,Arial,Helvetica,sans-serif;}
+#content .block > h3 {font-size:1.5em; margin-bottom:20px; line-height:1.8;}
+#content .block > p.copy {font-size:15px; margin-bottom:30px;}
+#content .block > p.itemdescription {font-size:1.3em; margin-bottom:16px; line-height:1.6em;}
+#content .buy_l {background-color:#000; color:#fff; text-decoration:none; padding:0 40px; height:40px; display:inline-block; line-height:40px; margin:20px 0; text-align: center; font-family: 'Montserrat',Verdana,Arial,Helvetica,sans-serif;}
+#content p.comment {font-size:12px; margin-top:45px;}
+
+#content #HairMask.block > .image img {height:215px; width:auto; margin:0 40px 0 -22px; display:block;}
+
+#mainimage {background:#f0f0f0; font-size:3em; text-align:center; height:350px; width:100%}
+
+.smartphone #content .smp_view {display:inline;}
+.smartphone #content .smp_hidden {display:none;}
+.smartphone #content time {margin-bottom:5px; text-align:center;}
+.smartphone #content h2 {font-size:18px; text-align:center;}
+.smartphone #content h3 {font-size:14px; text-align:center;}
+.smartphone #content #introduction {padding-bottom:40px;}
+.smartphone #content #introduction .image {height:auto;}
+.smartphone #content #introduction .image > img {width:100%; height:auto;}
+.smartphone #content #introduction > p {margin:0; padding:60px 5% 0; font-size:13px;}
+.smartphone #content #introduction b {width:100%; max-width:320px; margin:0 auto; display:block; background-size:100%;}
+.smartphone #content .block {padding:40px 0;}
+.smartphone #content .block > .image {float:none; text-align:center; display:block;}
+.smartphone #content .block > .image img {width:50%; height:auto; margin:0 auto;}
+.smartphone #content #HairMask.block > .image img {margin:0 auto;}
+.smartphone #content .block > h2 {margin-bottom:20px; padding-top:10px; text-align:left;}
+.smartphone #content .block > h3 {margin-bottom:10px; line-height:1.8; text-align:left;}
+.smartphone #content .block > p.copy {margin:0; height:1px;}
+.smartphone #content .block > p.itemdescription {margin:10px 0 16px; line-height:1.6em; font-size:13px;}
+.smartphone #content .buy_l {background-color:#000; color:#fff; text-decoration:none; padding:0 40px; height:40px; display:inline-block; line-height:40px; margin:20px 0; text-align: center;}
+.smartphone #content p.comment {font-size:12px; margin-top:45px;}
+
+.smartphone #content #effect .step {margin:0 0 30px 34px;}*/

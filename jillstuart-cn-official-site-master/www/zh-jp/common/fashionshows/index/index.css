@@ -1,0 +1,62 @@
+/*
+
+ ABOUT JILL STUART
+
+*/
+
+/*__ PC View __*/
+main {font-size:1.2em;}
+
+main {position:relative;}
+main .main_inner {width:auto; margin-bottom:100px;}
+
+main .video {*width:940px; *height:470px; *padding:0; *margin:0 auto;}
+main .video iframe {*width:940px; *height:470px; }
+
+main .photo_list{margin:60px 75px; width:auto; position:relative; overflow:hidden;}
+main .photo_list .photo{float:left; width:220px; height:330px;}
+main .photo_list .photo img{width:220px; height:auto;}
+
+main .season_navi{*zoom1; z-index:50; width:220px; margin:-120px auto 70px; padding-left:720px; line-height:4em; height:4em; font-size:12px; position:relative; line-height:4em; height:4em; background:url("/common/images/general/icon_down.png") no-repeat right center;}
+main .season_navi:hover{cursor:pointer;}
+main .season_navi .current{font-size:12px; width:220px; border-bottom:3px solid #ddd; }
+main .season_navi .season_list{width:220px; display:none; background:#fff; padding:5px 0; -webkit-box-shadow:0 5px 8px rgba(0,0,0,0.2); -moz-box-shadow:0 5px 8px rgba(0,0,0,0.2); box-shadow:0 5px 8px rgba(0,0,0,0.2);}
+main .season_navi .season_list .season{display:block; padding-left:20px; height:40px; line-height:40px; font-size:12px;}
+
+main .season_theme{position:absolute; right:400px; top:67px;}
+main .season_theme {display:block; width:138px; line-height:4em; height:4em; background:url("/common/images/general/icon_arrow.png") no-repeat right center; cursor:pointer;}
+main .season_theme:hover{cursor:pointer;}
+main .season_theme_close {position:absolute; width:20px; height:20px; top:78px; right:75px; background:url("/common/images/general/icon_close.gif") no-repeat; text-indent:-99999px;}
+main .season_theme_close:hover {cursor:pointer;}
+main .season_theme_contents {z-index:60; position:absolute; top:0; background:#ccc; width:100%; color:#fff; height:100%; display:none;}
+main .season_theme_contents_inner {margin:0 auto 100px; width:940px; }
+main .season_theme_contents .title{font-size:14px; margin-bottom:5px;}
+main .season_theme_contents .wrapper {position:relative;}
+main .season_theme_contents .catch{font-size:28px; margin-bottom:20px;}
+main .season_theme_contents .image{position:absolute; top:0; right:0;}
+main .season_theme_contents .text{width:460px; font-size:14px; line-height:2em;}
+
+
+/*__ Smartphone View __*/
+.smartphone	main .main_inner {margin:0; width:auto;}
+.smartphone	main .photo_list{margin:35px 6.25%; width:auto;}
+.smartphone	main .photo_list .photo{float:none; width:220px; margin:0 auto 6.25%;}
+
+.smartphone	main .season_navi{position:relative; width:auto; margin:-15px 6.25% 0; line-height:1.6em; height:auto; right:0; top:0; padding:0;}
+.smartphone	main .season_navi .current {font-size:1.4em; text-align:center; padding:18px 0; width:auto;}
+.smartphone	main .season_navi .season_list {width:auto;}
+.smartphone	main .season_navi .season_list a {font-size:1.2em; text-align:center; height:40px; line-height:40px;}
+
+.smartphone	main .season_theme{position:relative; right:0; top:0; margin:10px auto; text-align:center; height:70px; line-height:70px;}
+.smartphone	main .season_theme a{margin:0 auto; width:auto;}
+
+.smartphone	main .season_theme_close {width:20px; height:20px; top:25px; right:6.25%;}
+.smartphone	main .season_theme_contents {top:86px; padding:75px 6.25%; width:auto;}
+.smartphone	main .season_theme_contents h1{display:none;}
+.smartphone	main .season_theme_contents_inner {margin:0 auto 100px; width:auto;}
+.smartphone	main .season_theme_contents .title{font-size:10px; margin-top:0; text-align:center;}
+.smartphone	main .season_theme_contents .wrapper {}
+.smartphone	main .season_theme_contents .catch{font-size:18px; margin-bottom:30px; text-align:center;}
+.smartphone	main .season_theme_contents .image{position:relative; top:0; right:0; text-align:center; margin-bottom:30px;}
+.smartphone	main .season_theme_contents .image img{width:50%;}
+.smartphone	main .season_theme_contents .text{width:auto; font-size:12px; line-height:2em;}

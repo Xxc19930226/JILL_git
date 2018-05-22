@@ -1,0 +1,721 @@
+@charset "utf-8";
+
+.box {font-family: "ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro","メイリオ","Meiryo","Osaka","ＭＳ Ｐゴシック","MS P Gothic",Verdana,Arial,Helvetica,sans-serif;}
+#main {float:left; width:700px; margin-top:20px; padding-bottom:70px; background:#fff; color:#000;}
+#content{-webkit-font-smoothing: antialiased;}
+#content header {border:0;}
+#content time {margin-bottom:20px; font-family: 'Montserrat',Verdana,Arial,Helvetica,sans-serif; color:#999;}
+#content h2 {font-size:2.2em; font-family:"Montserrat",Verdana,Arial,Helvetica,sans-serif; font-weight:bold; margin-bottom:5px;}
+#content h3 {font-size:1.3em; font-weight:normal; margin-bottom:20px;}
+#content h4 {font-size:1.3em; font-weight:normal; margin-bottom:30px; text-align:center;}
+#content .en {font-family: 'Montserrat',Verdana,Arial,Helvetica,sans-serif;}
+
+#content br.onlySP{
+  display: none;
+}
+
+#content header{
+  margin: 0;
+  padding: 0;
+}
+
+#content header .image{
+  margin: 0;
+}
+
+
+a.black-bg{
+  display: inline-block!important;
+  margin: 0 auto;
+  position: relative;
+}
+a.black-bg img{
+  opacity: 1!important;
+  position: relative;
+  /*-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";*/
+}
+a.black-bg:before{
+  background-color: #9f9f9f;
+  border-radius: 4px;
+  content: " ";
+  display: block;
+  height: 100%;
+  /*margin: -35px 0 0 -70px;*/
+  margin: -5px 0 0 -20px;
+  -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  opacity: 0;
+  padding: 5px 20px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transition: opacity .4s ease;
+  width: 100%;
+}
+a.black-bg:hover:before{
+  opacity: 1;
+  -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+}
+
+/* introduction */
+#content #introduction{
+  padding: 60px 0 0;
+}
+
+#content #introduction *{ text-align: center; }
+#content #introduction p{ line-height: 27px; }
+#content #introduction > div{
+  padding: 30px 0 20px;
+  position: relative;
+  text-align: center;
+}
+
+#content #introduction .blns {
+  overflow: hidden;
+  zoom: 1;
+}
+
+#content #introduction .bln__box {
+  background: url(images/bln_bg.png) no-repeat center;
+  color: #fff;
+  display: table;
+  float: left;
+  height: 260px;
+  margin: 0 0 20px 40px;
+  width: 260px;
+}
+#content #introduction .bln__box--1 {
+  margin-left: 0;
+}
+#content #introduction .bln__box--3 {
+  margin-left: 90px;
+}
+#content #introduction .bln__box--3,
+#content #introduction .bln__box--4 {
+  margin-bottom: 0;
+}
+#content #introduction .bln__box__inner {
+  display: table-cell;
+  vertical-align: middle;
+}
+#content #introduction .bln__box h4,
+#content #introduction .bln__box p {
+  /*font-weight: bold;*/
+  margin: 0;
+  padding: 0;
+  text-shadow: 0 0 5px #fcbaaf;
+}
+
+#content #introduction .bln__box h4 {
+  font-size: 14px;
+  font-weight: bold;
+  padding: 8px 0;
+}
+
+#content #introduction .bln__box p {
+  font-size: 12px;
+  line-height: 1.6;
+}
+
+/* .section */
+
+#content .section{
+  padding: 64px 0 0;
+}
+#content .section:first-child {
+  padding: 32px 0 0;
+}
+
+#content .section:before {
+  background: url(images/line.png) no-repeat top center;
+  content: " ";
+  display: block;
+  height: 32px;
+  margin: -32px 0 60px;
+  width: 100%;
+}
+
+#content .sections .section:last-child{
+  margin-bottom: 0;
+}
+
+#content .section .description{
+  font-size: 18px;
+  line-height: 30px;
+  /*margin: 0 0 45px;*/
+  margin: 0;
+  position: relative;
+  text-align: center;
+}
+
+#content .section .description:before,
+#content .section .description:after{
+  content: " ";
+  display: block;
+  left: 50%;
+  position: absolute;
+}
+
+#content .section .img{
+  padding: 45px 0 45px;
+  text-align: center;
+}
+
+#content .section .img a {
+  display: block;
+  text-align: center;
+}
+
+#content .section .img .icon-limited {
+  border: 1px solid #666;
+  color: #333;
+  display: inline-block;
+  font-size: 14px;
+  line-height: 25px;
+  margin: 20px 0 0;
+  padding: 0 10px;
+}
+
+#content .section .meta{
+  width: 100%;
+}
+
+#content .section .meta *{
+  text-align: center;
+}
+
+#content .section .meta .release{
+  display: block;
+  font-size: 13px;
+  padding: 0 0 1em;
+}
+
+#content .section .meta .title{
+  margin: 0 0 1em;
+}
+
+#content .section .meta .title strong{
+  color: #333;
+  display: block;
+  font-size: 20px;
+  line-height: 24px;
+  padding: 0 0 .5em;
+}
+
+#content .section .meta .title span{
+  color: #999;
+  display: block;
+  font-size: 11px;
+  line-height: 15px;
+}
+
+#content .section .meta .price{
+  font-size: 13px;
+  line-height: 18px;
+  padding: 0 0 30px;
+  margin: 0;
+}
+
+#content .section .more{
+  padding: 0 0 30px;
+  text-align: center;
+}
+
+#content .section .more > *{
+  display: inline-block;
+  vertical-align: middle;
+  text-align: left;
+}
+
+#content .section .more dd{
+  font-size: 12px;
+  line-height: 18px;
+  padding: 0 0 0 10px;
+  width: 160px;
+}
+
+#content .section .more dd .box-ttl {
+  border: 1px solid #666;
+  color: #333;
+  display: block;
+  font-size: 12px;
+  line-height: 20px;
+  margin: 0 0 5px;
+}
+
+#content .section .detailBtn{
+  background-color: #333;
+  color: #fff;
+  display: block;
+  font-family: 'Montserrat',Verdana,Arial,Helvetica,sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 38px;
+  margin: 0 auto 30px;
+  transition: opacity .4s ease;
+  text-align: center;
+  width: 265px;
+}
+
+#content .section .detailBtn:hover{
+  opacity: .8;
+}
+
+#content .section div[class^="colors"]{
+  border-top: 1px solid #eaeaea;
+  margin: 45px 0 0;
+  padding: 15px 0 30px;
+  position: relative;
+}
+
+#content .section div[class^="colors"] h5{
+  font-size: 16px;
+  line-height: 28px;
+  padding: 0 0 40px;
+  text-align: center;
+}
+
+#content .section div[class^="colors"] ul{
+  font-size: 0;
+  text-align: center;
+}
+
+#content .section div[class^="colors"] li{
+  display: inline-block;
+  padding: 30px 0 0;
+  vertical-align: top;
+  text-align: center;
+  width: 216px;
+}
+
+#content .section .colors-3col li{
+  width: 216px;
+}
+
+#content .section .colors-4col ul{
+  text-align: left!important;
+}
+#content .section .colors-4col li{
+  width: 162px!important;
+}
+
+#content div[class^="colors"] li:first-child{
+  padding-left: 0;
+}
+
+#content div[class^="colors"] li > *{
+  display: block;
+  text-align: center;
+}
+
+#content div[class^="colors"] li img{
+  margin: 0 auto 10px;
+}
+
+#content div[class^="colors"] li strong{
+  font-family: 'Montserrat', "ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro","メイリオ","Meiryo","Osaka","ＭＳ Ｐゴシック","MS P Gothic",Verdana,Arial,Helvetica,sans-serif;
+  color: #000;
+  /*font-weight: bold;*/
+  font-size: 13px;
+  padding: 3px 0 4px;
+}
+
+#content div[class^="colors"] li strong span{
+  display: block;
+  font-size: 12px;
+  font-weight: normal;
+  padding: 3px 0 0;
+  text-align: center;
+}
+
+#content div[class^="colors"] li span{
+  font-size: 11px;
+}
+
+#content div[class^="colors"] .limited{
+  bottom: -1em;
+  font-size: 11px;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  right: 0;
+  text-align: right;
+}
+
+#content #product-detail .pd__ttl span{
+  color: #999;
+  border-bottom: 1px solid #999;
+  font-size: 14px;
+  font-weight: normal;
+  text-align: center;
+}
+#content #product-detail .pd__ttl strong {
+  color: #ef9095;
+  display: block;
+  font-size: 18px;
+  font-weight: normal;
+  margin: 10px 0 0;
+  text-align: center;
+}
+#content #product-detail .pd__ttl strong:before,
+#content #product-detail .pd__ttl strong:after {
+  background: url(images/icon_sparkles.png) no-repeat;
+  content: " ";
+  display: inline-block;
+  height: 25px;
+  left: 0;
+  margin: 0 5px;
+  position: relative;
+  top: 5px;
+  width: 21px;
+}
+#content #product-detail .pd__list {
+  font-size: 0;
+  letter-spacing: 0;
+  margin: 0 0 20px;
+}
+#content #product-detail .pd__list li{
+  display: inline-block;
+  font-size: 12px;
+  height: 18px;
+  margin: 0 0 3px;
+  width: 33.333%;
+}
+#content #product-detail .pd__list li i {
+  display: inline-block;
+  height: 100%;
+  line-height: 18px;
+  vertical-align: top;
+  width: 40px;
+}
+#content #product-detail .pd__list li span {
+  display: inline-block;
+  line-height: 18px;
+  vertical-align: middle;
+}
+#content #product-detail .pd__img {
+  margin: 0 0 10px;
+  text-align: center;
+}
+#content #product-detail .pd__pnk-box {
+  border: 1px solid #ef9095;
+  border-radius: 5px;
+  display: table;
+  margin: 0 auto;
+  width: 553px;
+}
+#content #product-detail .pd__pnk-box > * {
+  display: table-cell;
+  vertical-align: middle;
+}
+#content #product-detail .pd__pnk-box dt{
+  background-color: #ef9095;
+  color: #fff;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 0 10px;
+  width: 121px;
+}
+#content #product-detail .pd__pnk-box dd {
+  font-size: 12px;
+  padding: 10px;
+}
+#content #product-detail .pd__main {
+  font-size: 0;
+  letter-spacing: 0;
+  margin: 0 auto;
+  padding: 40px 0 0;
+  position: relative;
+  width: 644px;
+}
+#content #product-detail .pd__box {
+  /*font-size: 10px;*/
+  display: inline-block;
+  padding: 0 20px 30px;
+  vertical-align: top;
+  width: 282px;
+}
+#content #product-detail .pd__box--l {
+  padding: 0 20px;
+  /*width: 100%;*/
+}
+#content #product-detail [class^="pd__box"] h5{
+  font-size: 14px;
+}
+#content #product-detail [class^="pd__box"] h5 span {
+  color: #ef9095;
+}
+#content #product-detail [class^="pd__box"] p {
+  font-size: 13px;
+  margin: 10px 0 0;
+}
+#content #product-detail .pd__notice {
+  margin: 0 auto;
+  padding: 40px 0 0;
+  width: 604px;
+}
+
+/**
+ * for smartphone
+ */
+.smartphone #content .smp_view {display:inline;}
+.smartphone #content .smp_hidden {display:none;}
+.smartphone #content time {margin-bottom:5px; text-align:center;}
+.smartphone #content h2 {font-size:18px; text-align:center;}
+.smartphone #content h3 {font-size:16px; line-height:1.6; text-align:center;}
+.smartphone #content header .image img{ width: 100%; }
+.smartphone #content .line{ width: 100%; }
+
+.smartphone main .main_inner{
+  overflow: visible;
+}
+
+.smartphone #content br.onlySP{
+  display: inline;
+}
+
+/* # introduction */
+.smartphone #content #introduction{
+  background-size: 400px 60px;
+  padding: 20px 0 0;
+}
+
+.smartphone #content #introduction h3 img{
+  width: 150px;
+}
+
+.smartphone #content #introduction p{
+  font-size: 12px;
+  line-height: 1.8;
+  text-align:left;
+}
+
+.smartphone #content #introduction p br{
+  display: none;
+}
+
+.smartphone #content .section{
+  background-size: auto 50px;
+  margin: 0 -6.25% 30px;
+  padding-top: 30px;
+}
+
+.smartphone #content .section > *{
+  margin: 0 6.25%;
+}
+.smartphone #content .section:before {
+  margin: 0 0 40px;
+}
+
+.smartphone #content .section .description{
+  font-size: 14px;
+  line-height: 22px;
+  letter-spacing: 0;
+  margin: 0;
+}
+
+.smartphone #content .section .description:before,
+.smartphone #content .section .description:after{
+  background-size: contain;
+  content: " ";
+  display: block;
+  left: 50%;
+  position: absolute;
+}
+
+.smartphone #content .section .description:before{
+  height: 17px;
+  margin: 0 0 0 -25px;
+  top: -20px;
+  width: 50px;
+}
+
+.smartphone #content .section .description:after{
+  bottom: -12px;
+  height: 8px;
+  margin: 0 0 0 -22px;
+  width: 44px;
+}
+
+.smartphone #content .section .img {
+  padding: 30px 0;
+}
+.smartphone #content .section .img img{
+  height: auto;
+  max-height: 250px;
+  max-width: 250px;
+  width: 100%;
+}
+
+.smartphone #content .section .meta .release{
+  font-size: 12px;
+  padding: 0 0 10px;
+}
+
+.smartphone #content .section .meta .title{
+  margin: 0 0 10px;
+}
+
+.smartphone #content .section .meta .title strong{
+  font-size: 18px;
+  line-height: 22px;
+  padding: 0 0 4px;
+}
+
+.smartphone #content .section .meta .title span{
+  font-size: 10px;
+  line-height: 17px;
+}
+
+.smartphone #content .section .meta .price{
+  font-size: 12px;
+  line-height: 17px;
+  padding: 0 0 15px;
+}
+
+/*.smartphone #content .section .more{
+  padding: 0 0 30px;
+  text-align: center;
+}*/
+
+/*.smartphone #content .section .more > *{
+  display: inline-block;
+  vertical-align: middle;
+  text-align: left;
+}*/
+
+.smartphone #content .section .more dt img{
+  max-height: 80px;
+  max-width: 90px;
+}
+.smartphone #content .section .more dd{
+  font-size: 11px;
+  line-height: 1.6;
+  /*padding: 0 0 0 10px;*/
+}
+
+/*.smartphone #content .section .more dd br{
+  display: none;
+}*/
+
+
+
+.smartphone #content .section div[class^="colors"]{
+  padding: 30px 0;
+  position: relative;
+  margin: 30px auto 0;
+  max-width: 280px;
+  width: 100%;
+}
+
+
+.smartphone #content .section div[class^="colors"] ul{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  text-align: left;
+}
+
+.smartphone #content .section div[class^="colors"] h5{
+  font-size: 12px;
+  line-height: 18px;
+}
+
+.smartphone #content .section div[class^="colors"] li{
+  padding: 20px 0 0;
+  width: 48%!important;
+  /*width: 49%;*/
+}
+
+.smartphone #content .section div[class^="colors"] li strong{
+  font-size: 12px;
+  /*padding: 10px 10px 4px;*/
+}
+
+.smartphone #content .section div[class^="colors"] li span{
+  font-size: 11px;
+  /*padding: 0 10px;*/
+}
+
+.smartphone #content .section div[class^="colors"] li span br{
+  display: none;
+}
+
+.smartphone #content div[class^="colors"] .limited{
+  text-align: left;
+}
+
+.smartphone #content #makeup{
+  margin-top: 40px;
+}
+
+.smartphone #content #makeup h3 img{
+  width: 280px;
+}
+
+.smartphone #content #makeup .description{
+  /*margin-top: -5px;*/
+  font-size: 12px;
+  margin-top: 15px;
+}
+
+
+.smartphone #content #product-detail .pd__ttl {
+  margin-bottom: 20px;
+}
+.smartphone #content #product-detail .pd__ttl span{
+  font-size: 12px;
+}
+.smartphone #content #product-detail .pd__ttl strong {
+  font-size: 14px;
+}
+.smartphone #content #product-detail .pd__ttl strong:before,
+.smartphone #content #product-detail .pd__ttl strong:after {
+  background-size: contain;
+  height: 19px;
+  margin: 0 2px;
+  width: 16px;
+}
+.smartphone #content #product-detail .pd__list li{
+  margin: 0 0 5px;
+  width: 100%;
+}
+.smartphone #content #product-detail .pd__list li i {
+  text-align: center;
+  vertical-align: middle;
+}
+.smartphone #content #product-detail .pd__img img {
+  width: 100%;
+}
+.smartphone #content #product-detail .pd__pnk-box {
+  display: block;
+  width: 100%;
+}
+.smartphone #content #product-detail .pd__pnk-box > * {
+  display: block;
+}
+.smartphone #content #product-detail .pd__pnk-box dt{
+  padding: 10px;
+  text-align: center;
+  width: auto;
+}
+.smartphone #content #product-detail .pd__main {
+  padding: 20px 0 0;
+  width: 100%;
+}
+.smartphone #content #product-detail .pd__box {
+  padding: 0 0 20px;
+  width: 100%;
+}
+.smartphone #content #product-detail .pd__box--l {
+  padding: 0;
+}
+.smartphone #content #product-detail [class^="pd__box"] h5{
+  font-size: 13px;
+}
+.smartphone #content #product-detail [class^="pd__box"] p {
+  font-size: 12px;
+  margin: 5px 0 0;
+}
+.smartphone #content #product-detail .pd__notice {
+  width: 100%;
+}

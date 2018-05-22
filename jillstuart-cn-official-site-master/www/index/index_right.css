@@ -1,0 +1,110 @@
+@charset "utf-8";
+
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+	margin:0;
+	padding:0;
+	border:0;
+	outline:0;
+	font-size:100%;
+	font-style:normal;
+	vertical-align:baseline;
+	background:transparent;
+}
+article,aside,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section {display:block;}
+i, em {font-style:normal;}
+ol, ul {list-style:none;}
+blockquote, q {quotes:none;}
+blockquote:before, blockquote:after,
+q:before, q:after {content:''; content:none;}
+a {margin:0; padding:0; font-size:100%; vertical-align:baseline; background:transparent;}
+table {border-collapse:collapse; border-spacing:0;}
+hr {display:block; height:1px; border:0; border-top:1px solid #cccccc; margin:1em 0; padding:0;}
+input, select {vertical-align:middle;}
+
+html {height:100%;}
+body {
+	height:100%;
+	color:#333333;
+	background-color:#fff;
+	font-family: 'Montserrat', "ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro","メイリオ","Meiryo","Osaka","ＭＳ Ｐゴシック","MS P Gothic",Verdana,Arial,Helvetica,sans-serif;
+	font-size:62.8%;
+	line-height:1.5;
+	text-align:center;
+	-webkit-text-size-adjust:auto;
+}
+
+a {color:#333333; text-decoration:underline;}
+a:hover {color:#999999;}
+
+#container {width:100%; height:auto !important; height:100%; min-height:100%; position:relative; overflow:hidden;}
+#container:after {display:block; clear:both; height:0; content:"";}
+#container article {position:absolute; right:10%; bottom:20%; z-index:1; margin:0; text-align:center;}
+#container article h1 {width:490px; height:65px; margin:0 auto; background:url("images/logo.png"); text-align:left; text-indent:-9999px;}
+#container article nav {*zoom:1; margin-top:10px; margin-right:10px;}
+#container article nav ul {*zoom:1; letter-spacing:-0.5em; text-align:right;}
+#container article nav ul.japan {}
+#container article nav ul.oversea {}
+#container article nav ul.oversea li {}
+#container article nav ul.oversea li a {}
+#container article nav ul li {display:inline-block; *display:inline; *zoom:1; letter-spacing:normal; vertical-align:top; margin:0 2px;}
+#container article nav ul li img {height:32px; width:auto;}
+#container article nav ul li a {display:block; height:32px; background:no-repeat; overflow:hidden;}
+#container article nav ul li a:hover {opacity:0.6;}
+#container article nav ul li.japan {padding-right:10px; margin-right:10px; background:url("images/nav_divider_slash.png") right 0 no-repeat;}
+#container article nav ul li.japan_smp {display:none;}
+#container article nav ul li.japan a {}
+#container article nav ul li.japanese a {}
+#container article nav ul li.english  a {}
+#container article nav ul li.taiwan   {margin-left:-1px;}
+#container article nav ul li.taiwan   a {}
+#container article nav ul li.hongkong a {}
+#container article nav ul li.japanese {}
+#container article nav ul li.english,
+#container article nav ul li.taiwan {/*padding:0 5px 0 0; background:url("images/nav_divider_slash.png") right 4px no-repeat; margin-right:8px;*/}
+#container footer {position:absolute; left:90px; bottom:2px; z-index:2;}
+#container footer small {display:block; width:270px; height:27px; background:url("images/copyright.png") no-repeat; text-align:left; text-indent:-9999px;}
+#container .background {display:none; position:absolute;}
+
+
+
+/*__ Smartphone View __*/
+.smartphone	#container {padding-bottom:296px; min-width:320px;}
+.smartphone	#container article {height:auto; width:100%; position:static; right:auto; top:auto; margin:10px 0 0; text-align:center;}
+.smartphone	#container article h1 {width:245px; height:33px; margin:30px auto; background-size:245px auto;}
+.smartphone	#container article nav {border-top:1px solid rgba(255,255,255,0.15); padding:0; margin:0; display:block; position:absolute; bottom:50px; width:100%; background-color:rgba(255,255,255,0.3);}
+.smartphone	#container article nav ul {}
+.smartphone	#container article nav ul li{float:none; margin:0; padding:0; border-bottom:1px solid #efefef; display:block; clear:both; padding:0 !important;}
+.smartphone	#container article nav ul li a{background:none !important; width:auto !important; height:auto; text-decoration:none; float:none; display:block; line-height:1; text-align:center; text-indent:0; color:#fff; padding:3px 0; clear:both; }
+.smartphone	#container article nav ul li.japanese,
+.smartphone	#container article nav ul li.english {width:50%; margin:0; float:left; clear:none; background:#f8f8f8;}
+.smartphone	#container article nav ul li.chinese,
+.smartphone	#container article nav ul li.korean,
+.smartphone	#container article nav ul li.thai {width:33.3333%; margin:0; float:left; clear:none; background:#f8f8f8;}
+.smartphone	#container article nav ul li.japanese a,
+.smartphone	#container article nav ul li.english a {width:100%; display:block; color:#fff; display:block;}
+.smartphone	#container article nav ul li a span{font-size:10px;}
+.smartphone	#container article nav ul li.japan {background-image:none;}
+.smartphone	#container article nav ul li.english a,
+.smartphone	#container article nav ul li.korean a,
+.smartphone	#container article nav ul li.thai a{ border-left:1px solid #eee;}
+
+.smartphone	#container footer {width:100%; left:0; right:0;}
+.smartphone	#container footer small {display:block; background:none; text-indent:0; font-size:10px; width:100%; color:#333; text-align:center;}
+
+.smartphone	#container img.background{position:static !important; display:block; width:200%; height:auto;}
+
+
+
+
