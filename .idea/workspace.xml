@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9de1b130-2d7a-436c-9372-9a9a05b21957" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="105">
+                <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="37" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0317_relax/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="604">
+              <caret line="132" column="56" lean-forward="false" selection-start-line="132" selection-start-column="56" selection-end-line="132" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/1126_fragrance_collection/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="577">
+              <caret line="200" column="4" lean-forward="false" selection-start-line="200" selection-start-column="4" selection-end-line="200" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/1126_relax_limited_items/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1543">
+              <caret line="184" column="60" lean-forward="false" selection-start-line="184" selection-start-column="60" selection-end-line="184" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/1126_relax_limited_items/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-14421">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="products.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/products.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="3129" column="54" lean-forward="false" selection-start-line="3129" selection-start-column="46" selection-end-line="3129" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="actions.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../decorte/decorte_git/www/apps/backend/modules/files/actions/actions.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="indexSuccess.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../decorte/decorte_git/www/web/templates/main/indexSuccess.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0407_crystal_bloom/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="577">
+              <caret line="207" column="4" lean-forward="false" selection-start-line="207" selection-start-column="4" selection-end-line="207" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fragrance</find>
+      <find>nail</find>
+      <find>礼盒M（湛蓝祝福）</find>
+      <find>26763</find>
+      <find>26496</find>
+      <find>28426</find>
+      <find>系列</find>
+      <find>25795</find>
+      <find>/zh-jp/new-item/2017/0626_xp/images/kv.jpg</find>
+      <find>28428</find>
+      <find>FIND FROM</find>
+      <find>分类查找</find>
+      <find>contentinfo</find>
+      <find>footer_inner</find>
+      <find>DOCUMENT_ROOT</find>
+      <find>box</find>
+      <find>JILL STUART Crystal Bloom Something Pure Blu</find>
+      <find>一种纯净的香味随着柔软透明的婚礼头纱蔓延开来</find>
+      <find>晶莹花湛蓝香体乳</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\little project\JILL\jillstuart-cn-official-site-master\jillstuart-cn-official-site-master\www\zh-jp</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/products.xml" />
+        <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/news/news.xml" />
+        <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0407_something_pure_blue_present_box/index.php" />
+        <option value="$PROJECT_DIR$/../index.php" />
+        <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0512_crystal_polish_foundation_brush/index2.php" />
+        <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0210_relax/index.php" />
+        <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0113_crystal_bloom/index.php" />
+        <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0916_hand_cream/index.php" />
+        <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0407_summer_makeup/index.php" />
+        <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0407_crystal_bloom/index.php" />
+        <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0210_new_base_makeup_items/index.php" />
+        <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0512_crystal_polish_foundation_brush/index.php" />
+        <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0905_new_makeup/index.php" />
+        <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0317_relax/index.php" />
+        <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/1126_fragrance_collection/index.php" />
+        <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/1126_relax_limited_items/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-86" />
+    <option name="y" value="210" />
+    <option name="width" value="1920" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jillstuart-cn-official-site-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jillstuart-cn-official-site-master" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="jillstuart-cn-official-site-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jillstuart-cn-official-site-master" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="jillstuart-cn-official-site-master" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="jillstuart-cn-official-site-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jillstuart-cn-official-site-master" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="jillstuart-cn-official-site-master" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="www" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="jillstuart-cn-official-site-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jillstuart-cn-official-site-master" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="jillstuart-cn-official-site-master" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="www" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="zh-jp" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="jillstuart-cn-official-site-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jillstuart-cn-official-site-master" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="jillstuart-cn-official-site-master" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="www" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="zh-jp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="new-item" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="jillstuart-cn-official-site-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jillstuart-cn-official-site-master" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="jillstuart-cn-official-site-master" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="www" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="zh-jp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="new-item" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="2017" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="jillstuart-cn-official-site-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jillstuart-cn-official-site-master" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="jillstuart-cn-official-site-master" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="www" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="zh-jp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="new-item" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="2017" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="1126_fragrance_collection" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="jillstuart-cn-official-site-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jillstuart-cn-official-site-master" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="jillstuart-cn-official-site-master" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="www" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="zh-jp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="new-item" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="2017" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="1126_relax_limited_items" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="jillstuart-cn-official-site-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jillstuart-cn-official-site-master" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="jillstuart-cn-official-site-master" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="www" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="zh-jp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="new-item" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="includes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="jillstuart-cn-official-site-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jillstuart-cn-official-site-master" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="jillstuart-cn-official-site-master" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="www" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="zh-jp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="products" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\little project\JILL\jillstuart-cn-official-site-master\jillstuart-cn-official-site-master\www\zh-jp\products" />
+      <recent name="D:\little project\JILL\jillstuart-cn-official-site-master\jillstuart-cn-official-site-master\www\zh-jp\news" />
+      <recent name="D:\little project\JILL\jillstuart-cn-official-site-master\jillstuart-cn-official-site-master\www\zh-jp\new-item\2017\0905_new_makeup\images" />
+      <recent name="D:\little project\JILL\jillstuart-cn-official-site-master\jillstuart-cn-official-site-master\www\zh-jp\new-item\2017\0407_crystal_bloom" />
+      <recent name="D:\little project\JILL\jillstuart-cn-official-site-master\jillstuart-cn-official-site-master\www\zh-jp\new-item\2017\0210_new_base_makeup_items\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\little project\JILL\jillstuart-cn-official-site-master\jillstuart-cn-official-site-master\www\zh-jp\new-item\2017\0407_crystal_bloom" />
+      <recent name="D:\little project\JILL\jillstuart-cn-official-site-master\jillstuart-cn-official-site-master\www\zh-jp\products\fragrance\26764" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9de1b130-2d7a-436c-9372-9a9a05b21957" name="Default" comment="" />
+      <created>1523355155097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523355155097</updated>
+      <workItem from="1523355156493" duration="678000" />
+      <workItem from="1524657814585" duration="640000" />
+      <workItem from="1524723115876" duration="27000" />
+      <workItem from="1524732864300" duration="12006000" />
+      <workItem from="1524803709459" duration="6522000" />
+      <workItem from="1525223952779" duration="395000" />
+      <workItem from="1525260724641" duration="63000" />
+      <workItem from="1525420016853" duration="1000" />
+      <workItem from="1525420050170" duration="5143000" />
+      <workItem from="1525674800193" duration="1483000" />
+      <workItem from="1525952772823" duration="29000" />
+      <workItem from="1526790252151" duration="12333000" />
+      <workItem from="1526870401992" duration="48000" />
+      <workItem from="1526907066673" duration="2812000" />
+      <workItem from="1526958524720" duration="70000" />
+      <workItem from="1526965194015" duration="1872000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="44122000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23802084" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0407_something_pure_blue_present_box/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-552">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0407_something_pure_blue_present_box/index1.php" />
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/index/main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-759">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/1014_new_base_makeup/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/1014_mix_blush_compact/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0905_new_base_makeup/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0210_new_base_makeup_items/images/main.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0407_summer_makeup/images/main.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0512_crystal_polish_foundation_brush/images/main.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0407_something_pure_blue_present_box/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="154" column="0" lean-forward="false" selection-start-line="154" selection-start-column="0" selection-end-line="154" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0210_new_base_makeup_items/index1.php" />
+    <entry file="file://$PROJECT_DIR$/../index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="36" column="10" lean-forward="false" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0512_crystal_polish_foundation_brush/index1.php" />
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0210_relax/index1.php" />
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0210_relax/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="807">
+          <caret line="174" column="0" lean-forward="true" selection-start-line="174" selection-start-column="0" selection-end-line="174" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0113_crystal_bloom/index1.php" />
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0113_crystal_bloom/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="807">
+          <caret line="186" column="0" lean-forward="true" selection-start-line="186" selection-start-column="0" selection-end-line="186" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0916_hand_cream/index1.php" />
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0916_hand_cream/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="233" column="4" lean-forward="false" selection-start-line="233" selection-start-column="4" selection-end-line="233" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0407_crystal_bloom/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4779">
+          <caret line="230" column="14" lean-forward="false" selection-start-line="35" selection-start-column="31" selection-end-line="230" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0407_summer_makeup/index1.php" />
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0916_hand_cream/images/main.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0210_new_base_makeup_items/images/pd_il.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0407_crystal_bloom/images/pbl_img.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0407_crystal_bloom/images/fp_img.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0407_crystal_bloom/index2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11477">
+          <caret line="499" column="12" lean-forward="false" selection-start-line="329" selection-start-column="10" selection-end-line="499" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0407_summer_makeup/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="221" column="0" lean-forward="false" selection-start-line="221" selection-start-column="0" selection-end-line="222" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0210_new_base_makeup_items/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8209">
+          <caret line="7" column="40" lean-forward="false" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0512_crystal_polish_foundation_brush/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="119" column="69" lean-forward="true" selection-start-line="119" selection-start-column="69" selection-end-line="119" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0905_new_makeup/images/main.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0905_new_makeup/images/main1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JILL20180520更新/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="344" column="29" lean-forward="true" selection-start-line="298" selection-start-column="10" selection-end-line="344" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/news/news.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="747">
+          <caret line="128" column="12" lean-forward="false" selection-start-line="128" selection-start-column="12" selection-end-line="128" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0905_new_makeup/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6141">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/detail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="34" column="19" lean-forward="false" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0905_new_base_makeup/images/main.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0916_hand_cream/images/main.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0905_new_makeup/images/eyecolor_color01.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0905_new_makeup/images/eyecolor2_color01.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0905_new_makeup/images/cheek_color01.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="37" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0905_new_makeup/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="274" column="9" lean-forward="true" selection-start-line="274" selection-start-column="9" selection-end-line="274" selection-end-column="9" />
+          <folding>
+            <element signature="e#11121#11202#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0317_relax/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="604">
+          <caret line="132" column="56" lean-forward="false" selection-start-line="132" selection-start-column="56" selection-end-line="132" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0407_crystal_bloom/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="577">
+          <caret line="207" column="4" lean-forward="false" selection-start-line="207" selection-start-column="4" selection-end-line="207" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/1126_fragrance_collection/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="577">
+          <caret line="200" column="4" lean-forward="false" selection-start-line="200" selection-start-column="4" selection-end-line="200" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/1126_relax_limited_items/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/1126_relax_limited_items/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1543">
+          <caret line="184" column="60" lean-forward="false" selection-start-line="184" selection-start-column="60" selection-end-line="184" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/1126_relax_limited_items/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14421">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/products.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="3129" column="54" lean-forward="false" selection-start-line="3129" selection-start-column="46" selection-end-line="3129" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../decorte/decorte_git/www/apps/backend/modules/files/actions/actions.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../decorte/decorte_git/www/web/templates/main/indexSuccess.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

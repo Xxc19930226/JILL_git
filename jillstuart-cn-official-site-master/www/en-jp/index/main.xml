@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<channel>
+		<main type="standard">
+			<image alt="">/en-jp/new-item/2016/0115_ss_limited_items/images/top.jpg</image>
+			<more target="">/en-jp/new-item/2016/0115_ss_limited_items/</more>
+			<moresmp>/en-jp/new-item/2016/0115_ss_limited_items/</moresmp>
+		</main>
+
+		<main type="standard">
+      		<image alt="">/en-jp/new-item/2016/0115_horoscope_nails/images/top.jpg</image>
+			<more target="">/en-jp/new-item/2016/0115_horoscope_nails/</more>
+			<moresmp>/en-jp/new-item/2016/0115_horoscope_nails/</moresmp>
+		</main>
+	
+		<!-- <main type="standard">
+			<image alt="">/en-jp/campaign/2016/0101_happynewyear/main.jpg</image>
+			<imagesmp alt="">/en-jp/campaign/2016/0101_happynewyear/mainsmp.jpg</imagesmp>
+		</main> -->
+		
+		<!-- start of release on 160108 -->
+		<main type="standard">
+			<image alt="">/en-jp/new-item/2015/1218_ss_collection/images/top.jpg</image>
+			<more target="">/en-jp/new-item/2015/1218_ss_collection/</more>
+			<moresmp>/en-jp/new-item/2015/1218_ss_collection/</moresmp>
+		</main>
+		
+		<!-- <main type="standard">
+     		<image alt="">/en-jp/new-item/2015/1218_horoscope_nails/images/top.jpg</image>
+			<more target="">/en-jp/new-item/2015/1218_horoscope_nails/</more>
+			<moresmp>/en-jp/new-item/2015/1218_horoscope_nails/</moresmp>
+		</main> -->
+		<!-- end of release on 160108 -->
+		
+	    <!-- start of release on 151204 -->
+		<main type="standard">
+			<image alt="">/en-jp/new-item/2015/1113_crystal_bloom_snow/images/top.jpg</image>
+			<more target="">/en-jp/new-item/2015/1113_crystal_bloom_snow/</more>
+			<moresmp>/en-jp/new-item/2015/1113_crystal_bloom_snow/</moresmp>
+		</main>		
+		<!-- <main type="standard">
+     		<image alt="">/en-jp/new-item/2015/1113_horoscope_nails/images/top.jpg</image>
+			<more target="">/en-jp/new-item/2015/1113_horoscope_nails/</more>
+			<moresmp>/en-jp/new-item/2015/1113_horoscope_nails/</moresmp>
+		</main> -->
+
+		<!-- end of release on 151204 -->
+		<!-- start of release on 151102 -->
+		<main type="standard">
+      <image alt="">/en-jp/new-item/2015/1030_relax_new_item/images/top.jpg</image>
+			<more target="">/en-jp/new-item/2015/1030_relax_new_item/</more>
+			<moresmp>/en-jp/new-item/2015/1030_relax_new_item/</moresmp>
+		</main>
+		
+		<main type="standard">
+			<image alt="">/en-jp/new-item/2015/1030_christmas_makeup_collection/images/top.jpg</image>
+			<more target="">/en-jp/new-item/2015/1030_christmas_makeup_collection/</more>
+			<moresmp>/en-jp/new-item/2015/1030_christmas_makeup_collection/</moresmp>
+		</main>
+		<!-- end of release on 151102 -->
+		
+		<!-- start of release on 151016 -->
+	    <!-- <main type="standard">
+			<image alt="">/en-jp/new-item/2015/1002_destiny/images/top.jpg</image>
+			<more target="">/en-jp/new-item/2015/1002_destiny/</more>
+			<moresmp>/en-jp/new-item/2015/1002_destiny/</moresmp>
+		</main> -->
+<!-- 	   <main type="standard">
+			<image alt="">/en-jp/new-item/2015/1016_horoscope_nails/images/top.jpg</image>
+			<more target="">/en-jp/new-item/2015/1016_horoscope_nails/</more>
+			<moresmp>/en-jp/new-item/2015/1016_horoscope_nails/</moresmp>
+		</main> -->
+		<!-- end of release on 151016 -->
+		
+		<!-- 		<main type="standard">
+      <image alt="">/en-jp/new-item/2015/1001_hongkong-taiwan_limited-edition/images/top.jpg</image>
+			<more target="">/en-jp/new-item/2015/1001_hongkong-taiwan_limited-edition/</more>
+			<moresmp>/en-jp/new-item/2015/1001_hongkong-taiwan_limited-edition/</moresmp>
+		</main> -->
+		
+		<!-- <main type="standard">
+      <image alt="">/en-jp/new-item/2015/0911_bodyoil/images/top.jpg</image>
+			<more target="">/en-jp/new-item/2015/0911_bodyoil/</more>
+			<moresmp>/en-jp/new-item/2015/0911_bodyoil/</moresmp>
+		</main> -->
+
+		<!-- <main type="standard">
+      <image alt="">/en-jp/new-item/2015/0911_horoscorp_nails/images/top.jpg</image>
+			<more target="">/en-jp/new-item/2015/0911_horoscorp_nails/</more>
+			<moresmp>/en-jp/new-item/2015/0911_horoscorp_nails/</moresmp>
+		</main> -->
+
+		<!-- <main type="standard">
+		<image alt="">/en-jp/new-item/2015/0810_new_base_makeup/images/top.jpg</image>
+			<more target="">/en-jp/new-item/2015/0810_new_base_makeup/</more>
+			<moresmp>/en-jp/new-item/2015/0810_new_base_makeup/</moresmp>
+		</main> -->
+
+<!--
+		<main type="standard">
+      <image alt="">/en-jp/new-item/2015/0810_horoscorp_nails/images/top.jpg</image>
+			<more target="">/en-jp/new-item/2015/0810_horoscorp_nails/</more>
+			<moresmp>/en-jp/new-item/2015/0810_horoscorp_nails/</moresmp>
+		</main>
+
+		<main type="standard">
+      <image alt="">/en-jp/new-item/2015/0710_fall_collection/images/top.jpg</image>
+			<more target="">/en-jp/new-item/2015/0710_fall_collection/</more>
+			<moresmp>/en-jp/new-item/2015/0710_fall_collection/</moresmp>
+    </main>
+-->
+
+	<!-- <main type="standard">
+      <image alt="">/common/special/10th/img/top.jpg</image>
+			<more target="">/en-jp/special/10th/</more>
+			<moresmp>/en-jp/special/10th/</moresmp>
+    </main> -->
+
+<!--
+		<main type="standard">
+      <image alt="">/en-jp/new-item/2015/0717_horoscorp_nails/images/top.jpg</image>
+			<more target="">/en-jp/new-item/2015/0717_horoscorp_nails/</more>
+			<moresmp>/en-jp/new-item/2015/0717_horoscorp_nails/</moresmp>
+    </main>
+
+		<main type="standard">
+      <image alt="">/en-jp/new-item/2015/0612_relax_new_item/images/top.jpg</image>
+			<more target="">/en-jp/new-item/2015/0612_relax_new_item/</more>
+			<moresmp>/en-jp/new-item/2015/00612_relax_new_item/</moresmp>
+    </main>
+
+		<main type="standard">
+			<image alt="">/common/images/top/main/relax_0515_main.jpg</image>
+			<more target="">/en-jp/new-item/2015/0515-relax-limited-line/</more>
+			<moresmp>/en-jp/new-item/2015/0515-relax-limited-line/</moresmp>
+		</main>
+
+		<main type="standard">
+			<image alt="">/common/images/top/main/skincare0417_main.jpg</image>
+			<more target="">/en-jp/new-item/2015/0417_skincare_and_makeup/</more>
+			<moresmp>/en-jp/new-item/2015/0417_skincare_and_makeup/</moresmp>
+		</main>
+
+		<main type="standard">
+			<image alt="">/common/images/top/main/summer_0327_main.jpg</image>
+			<more target="">/en-jp/new-item/2015/0327_summer_collection/</more>
+			<moresmp>/en-jp/new-item/2015/0327_summer_collection/</moresmp>
+		</main>
+-->
+
+	</channel>
+</rss>

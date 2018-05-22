@@ -1,0 +1,350 @@
+@charset "utf-8";
+
+.box {font-family: "ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro","メイリオ","Meiryo","Osaka","ＭＳ Ｐゴシック","MS P Gothic",Verdana,Arial,Helvetica,sans-serif;}
+#main {float:left; width:700px; margin-top:20px; padding-bottom:70px; background:#fff; color:#000;}
+#content{-webkit-font-smoothing: antialiased;}
+#content header {border:0;}
+#content time {margin-bottom:20px; font-family: 'Montserrat',Verdana,Arial,Helvetica,sans-serif; color:#999;}
+#content h2 {font-size:2.2em; font-family:"Montserrat",Verdana,Arial,Helvetica,sans-serif; font-weight:bold; margin-bottom:5px;}
+#content h3 {font-size:1.3em; font-weight:normal; margin-bottom:20px;}
+#content h4 {font-size:1.3em; font-weight:normal; margin-bottom:30px; text-align:center;}
+#content .en {font-family: 'Montserrat',Verdana,Arial,Helvetica,sans-serif;}
+
+
+/* .section */
+
+
+
+/* introduction */
+#content #introduction{
+  background: url(images/introduction_text.png) no-repeat bottom center;
+  padding: 65px 0 127px;
+  margin: 0 0 20px;
+}
+#content #introduction *{ text-align: center; }
+#content #introduction p{ line-height: 27px; }
+#content #introduction > div{
+  padding: 30px 0 20px;
+  position: relative;
+  text-align: center;
+}
+
+
+/* #set */
+
+#content #set{
+  padding: 40px 0;
+}
+
+#content #set h3{
+  font-size: 18px;
+  line-height: 29px;
+  text-align: center;
+}
+
+#content #set h3:before,
+#content #set h3:after{
+  content: " ";
+  display: block;
+}
+#content #set h3:before{
+  background: url(images/set_titleDeco_top.png) no-repeat;
+  height: 34px;
+  margin: 0 auto 10px auto;
+  width: 101px;
+}
+
+#content #set h3:after{
+  background: url(images/set_titleDeco_bottom.png) no-repeat;
+  height: 16px;
+  margin: 10px auto 0 auto;
+  width: 88px;
+}
+
+#content #set .sectionMain{
+  display: table;
+  width: 100%;
+}
+
+#content #set .sectionMain > *{
+  display: table-cell;
+  vertical-align: middle;
+}
+
+#content #set .sectioLeft{
+  width: 385px;
+}
+
+
+#content #set .sectionRight{
+  width: 265px;
+}
+
+#content #set .sectionRight > span{
+  display: block;
+  font-size: 13px;
+  padding: 0 0 30px;
+}
+
+#content #set .sectionRight h4 strong{
+  color: #333;
+  display: block;
+  font-size: 20px;
+  line-height: 24px;
+  padding: 0 0 8px;
+  text-align: left;
+}
+
+#content #set .sectionRight h4 span{
+  color: #999;
+  display: block;
+  font-size: 11px;
+  line-height: 15px;
+  text-align: left;
+}
+
+#content #set .sectionRight > p{
+  font-size: 13px;
+  line-height:18px;
+  padding: 0 0 30px;
+}
+
+#content #set .sectionRight .btn{
+  background-color: #333;
+  color: #fff;
+  display: block;
+  font-family: 'Montserrat',Verdana,Arial,Helvetica,sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 38px;
+  text-align: center;
+  width: 265px;
+}
+
+#content #items .item:first-child{
+  margin-top: 20px;
+}
+
+#content .item{
+  display: table;
+  height: 100%;
+  margin: 100px 0 0;
+  width: 100%;
+}
+
+#content .item > *{
+  display: table-cell;
+  vertical-align: middle;
+}
+
+#content .itemLeft{
+  text-align: center;
+  width: 280px;
+}
+
+#content .itemRight h3{
+  font-size: 12px;
+  line-height: 15px;
+}
+
+#content .itemRight h4{
+  margin: 0 0 15px;
+}
+
+#content .itemRight h4 strong{
+  color: #333;
+  display: block;
+  font-size: 18px;
+  line-height: 24px;
+}
+
+#content .itemRight h4 span{
+  color: #999;
+  display: block;
+  font-size: 11px;
+  line-height: 15px;
+}
+
+#content .itemRight h4 br{
+  display: none;
+}
+
+#content .itemRight dl{
+  display: table;
+  margin: 0 0 0 -10px;
+}
+
+#content .itemRight dl > *{
+  display: table-cell;
+  vertical-align: middle;
+}
+
+#content .itemRight dl dt{
+  padding: 0 8px;
+}
+
+#content .itemRight dl dd{
+  font-size: 10px;
+  line-height: 15px;
+  letter-spacing: 0;
+}
+
+#content .itemRight dl dd strong{
+  color: #333;
+  display: block;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 0 0 3px;
+}
+
+/**
+ * for smartphone
+ */
+.smartphone #content .smp_view {display:inline;}
+.smartphone #content .smp_hidden {display:none;}
+.smartphone #content time {margin-bottom:5px; text-align:center;}
+.smartphone #content h2 {font-size:18px; text-align:center;}
+.smartphone #content h3 {font-size:16px; line-height:1.6; text-align:center;}
+.smartphone #content header .image img{ width: 100%; }
+.smartphone #content .line{ width: 100%; }
+
+/* section */
+
+
+
+/* # introduction */
+.smartphone #content #introduction{
+  background-size: 400px 60px;
+  padding: 40px 0 90px 0;
+  margin: 0 0 10px;
+}
+
+.smartphone #content #introduction p{
+  font-size: 12px;
+  line-height: 1.8;
+  text-align:left;
+}
+
+.smartphone #content #introduction p br{
+  display: none;
+}
+
+/* #set */
+
+.smartphone #content #set h3{
+  font-size: 14px;
+  line-height: 26px;
+}
+
+.smartphone #content #set .sectionMain{
+  display: block;
+}
+
+.smartphone #content #set .sectionMain > *{
+  display: block;
+  width: 100%;
+}
+
+.smartphone #content #set .sectionLeft img{
+  width: 100%;
+}
+
+.smartphone #content #set .sectionRight .btn{
+  width: 100%;
+}
+
+.smartphone #content #items{
+  padding: 40px 0 0;
+}
+
+.smartphone #content .item{
+  border-bottom: 1px solid #e2e2e2;
+  display: block;
+  margin: 40px 0 0;
+  padding: 0 0 10px;
+}
+
+.smartphone #content #items .item:first-child{
+  margin-top: 0;
+}
+
+.smartphone #content .item > *{
+  display: block;
+  width: 100%;
+}
+
+/*.smartphone #content .itemLeft{
+  width: 80px;
+}
+
+.smartphone #content .itemLeft img{
+  height: 80px;
+}*/
+
+.smartphone #content .itemLeft{
+  margin: 0 0 20px;
+}
+
+.smartphone #content .itemRight h3{
+  font-size: 11px;
+  line-height: 20px;
+  margin: 0 0 10px;
+}
+
+.smartphone #content .itemRight h4 strong{
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+}
+
+.smartphone #content .itemRight h4 span{
+  font-size: 10px;
+  text-align: center;
+}
+
+.smartphone #content .itemRight h4 br{
+  display: inline;
+}
+
+.smartphone #content .itemRight dl{
+  display: block;
+  margin: 0 auto;
+  overflow: hidden;
+  padding: 0;
+  zoom: 1;
+  width: 280px;
+}
+
+.smartphone #content .itemRight dl > *{
+  display: block;
+  float: left;
+  padding: 0 0 10px;
+  margin: 0 0 10px;
+}
+
+.smartphone #content .itemRight dl dt{
+  clear: both;
+  padding: 0 10px 0 0;
+  text-align: center;
+  width: 70px;
+}
+
+.smartphone #content .itemRight dl dt img{
+  /*height: 50px;*/
+  margin: 0;
+  padding: 0;
+  width: 50px;
+}
+
+.smartphone #content .itemRight dl dd{
+  font-size: 10px;
+  width: 200px;
+}
+
+.smartphone #content .itemRight dl dd br{
+  /*display: none;*/
+}
+
+.smartphone #content .itemRight dl dd strong{
+  font-size: 10px;
+}

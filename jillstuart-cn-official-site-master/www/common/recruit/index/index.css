@@ -1,0 +1,22 @@
+/*
+
+ RECRUIT
+
+*/
+
+/*__ PC View __*/
+main .main_inner {margin-bottom:100px;}
+main label {display:block; padding:0 0 8px 33px ; background:url("/common/images/general/icon_dia.gif") no-repeat; font-size:1.8em;}
+main p {margin-bottom:30px; font-size:1.4em;}
+main p.indent {padding-left:33px;}
+main .pb10    {padding-bottom:10px; display:block;}
+main .border{height:1px; border-top:1px solid #ddd; margin:75px 0;}
+
+/*__ Smartphone View __*/
+.smartphone	main {margin-bottom:50px;}
+.smartphone	main label {font-size:16px;}
+.smartphone	main .border{margin:40px 0;}
+
+
+
+

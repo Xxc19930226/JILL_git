@@ -1,0 +1,1 @@
+cosme,cosmetic,ec,shopping,JILL STUART

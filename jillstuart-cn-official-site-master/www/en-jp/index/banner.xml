@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<channel>
+		<ticker>
+			<text>2016 Spring Collection limited items In stores from Friday February 5, 2016</text>
+			<more target="_self">/en-jp/new-item/2016/0115_ss_limited_items/</more>
+		</ticker>
+	</channel>
+	
+	<channel>
+		<ticker>
+			<text>Horoscope Nails compassionate Pisces  In stores Friday February 5, 2016</text>
+			<more target="_self">/en-jp/new-item/2016/0115_horoscope_nails/</more>
+		</ticker>
+	</channel>
+
+</rss>

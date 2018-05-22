@@ -1,0 +1,637 @@
+@charset "utf-8";
+
+main .main_inner {margin-bottom:100px; overflow:hidden;}
+aside {float:right; width:220px; padding-right:10px;}
+article {float:left; width:650px; text-align:left; margin-top:-70px;}
+
+/*aside {float:right; width:220px; padding-right:10px;}
+aside .label {font-size:18px; margin-bottom:25px;}
+aside .country{border-bottom:2px solid #333; margin-bottom:40px;}
+aside .country.noborder{border-bottom:0;}
+aside ul.list {margin-bottom:40px;}
+aside ul.list li{display:block;}
+aside ul.list li a{display:block; font-size:14px; padding:5px 0;}
+aside ul.list li ul.sub{display:none; margin:5px 0 20px 2em;}
+aside ul.list li ul.sub li{display:block;}
+aside ul.list li ul.sub li a{display:block; font-size:14px; padding:5px 0; color:#111;}*/
+
+
+main {position:relative;}
+main .category_navi{display:none;}
+main .category_navi{z-index:50; position:absolute; right:75px; top:67px; width:220px; border-bottom:3px solid #ddd; line-height:4em; height:4em; font-size:12px;}
+main .category_navi:hover{cursor:pointer;}
+main .category_navi .current{background:url("/common/images/general/icon_down.png") no-repeat right center;}
+main .category_navi .category_list{display:none; background:#fff;
+	padding:10px 20px;
+	-webkit-box-shadow:0 5px 8px rgba(0,0,0,0.2);
+	-moz-box-shadow:0 5px 8px rgba(0,0,0,0.2);
+	box-shadow:0 5px 8px rgba(0,0,0,0.2);}
+main .category_navi .category_list a{display:block; height:30px; line-height:30px;}
+main .category_navi .category_list .search{border-bottom: 1px solid #ddd; height:30px; line-height:30px; margin-top:10px;}
+main .category_navi .category_list .search form {height: 30px; }
+main .category_navi .category_list .search input[type="text"] {border: 0 none; color: #000; font-size: 12px; font-weight: bold; height: 20px; letter-spacing: 0.1em; line-height: 20px; padding: 0; width: 155px; }
+main .category_navi .category_list .search input[type="submit"] {background: url("/common/images/general/icon_search.png") no-repeat; border: 0 none; cursor: pointer; height: 20px; margin: 0; padding: 0; text-indent: -99999px; width: 20px; }
+main .category_navi .category_list .series {font-size:12px; margin:10px 0 0; border-top:1px solid #ddd; cursor:default;}
+
+
+/*------------------------
+Shop List
+------------------------*/
+
+.shoplist {*zoom:1; padding-top:100px; margin-bottom: -40px;}
+.shoplist h4 {font-size:18px; font-weight:bold; margin-bottom:60px; text-align:center;}
+.shoplist ul {*zoom:1; margin-top:0;}
+.shoplist ul li {margin-bottom:60px; display:block;}
+.shoplist ul li:last-child{margin-bottom: 0;}
+.shoplist ul li h5 {float:left; padding:0 !important; border:none; font-size:20px; font-weight:bold; margin-bottom:5px;}
+.shoplist ul li h5 .comment {padding-left:15px; border:none; font-size:13px; vertical-align:middle; font-weight:normal;}
+.shoplist ul li .fac_tag {display:inline-block; *display:inline; *zoom:1; float:right; margin:0 -5px 0 0;}
+.shoplist ul li .fac_tag:after {display:block; clear:both; height:0; content:"";}
+.shoplist ul li .fac_tag li {display:inline-block; *display:inline; *zoom:1; float:left; margin:0 5px 0 0; padding:0; border:none; background:transparent;}
+.shoplist ul li address {clear:both; padding-top:1px; font-size:12px; font-style:normal;}
+.shoplist ul li .news {*zoom:1; margin-top:11px; padding-top:13px; border-top:1px solid #e5e5e5;}
+.shoplist ul li .news small {display:block; color:#e9aea7;}
+.shoplist ul li .news h6 {margin-top:2px; font-size:12px; font-weight:bold;}
+.shoplist ul li .news p {margin-top:2px; font-size:12px;}
+
+.lifestyle_corner {background:#fff; border:4px solid #ddd; padding:7px 15px; display:inline-block;}
+
+.lifestyle_corner_description {border:2px solid #e8e8e8; padding:30px 15px 15px; margin:20px 0 0; background:#f8f8f8; display:inline-block; position:relative; top: 30px;}
+.lifestyle_corner_description h6{font-size:13px; position:absolute; top:-20px; left:15px;}
+.lifestyle_corner_description h6 span {margin-right:10px; font-size:10px;}
+.lifestyle_corner_description > div {font-size:11px;}
+
+.cafeBanner{
+	cursor: pointer;
+	display: block;
+	margin: 30px 0 -25px;
+	text-decoration: none!important;
+}
+
+.cafeBanner *{
+	cursor: pointer!important;
+}
+
+.cafeBannerInner{
+	border-top: 1px solid #ddd;
+	display: table;
+	height: 100%;
+	padding: 20px 0;
+	width: 100%;
+}
+
+.cafeBannerInner > div{
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.cafeBannerInner .left{
+	width: 250px;
+}
+
+.cafeBannerInner .left img{
+	width :100%;
+}
+
+.cafeBannerInner .right > *{
+	padding: 0 0 0 20px;
+}
+
+.cafeBannerInner .right h4{
+	font-size: 18px;
+	margin: 0 0 10px;
+}
+
+.cafeBannerInner .right p{
+	font-size: 14px;
+}
+
+
+
+/*__ Smartphone View __*/
+.smartphone	main {margin-bottom:50px;}
+.smartphone	main .main_inner {width:auto; margin:0 6.25% 30px;}
+
+.smartphone	aside {float:none; width:auto; padding-right:0; margin:0; padding-top:30px; border-top:2px solid #333;}
+.smartphone	aside .label {font-size:16px; margin-bottom:15px;}
+.smartphone	aside .label br {display:none;}
+.smartphone	aside .country {margin-bottom:30px;}
+.smartphone	aside .list {margin-bottom:30px;}
+
+.smartphone	main .category_navi{display:block; position:relative; width:auto; margin:-15px 6.25% 60px; line-height:1.6em; height:auto; right:0; top:0;}
+.smartphone	main .category_navi .current{font-size:14px; text-align:center; padding:18px 0;}
+.smartphone	main .category_navi .category_list{margin-right:0; padding:20px; text-align: center;}
+.smartphone	main .category_navi .category_list strong{font-weight: bold; font-size: 14px; padding: 0 0 10px; display: block; text-align: center; color: #999;}
+.smartphone	main .category_navi .category_list a{font-size:12px; text-align:center; height:40px; line-height:40px;}
+.smartphone	main .category_navi .category_list .search{border-bottom: 1px solid #ddd; height:40px; line-height:40px; padding-top:50px;}
+.smartphone	main .category_navi .category_list .search form {height: 40px;}
+.smartphone	main .category_navi .category_list .search input[type="text"] {width:90%; font-size:12px;}
+.smartphone	main .category_navi .category_list .search input[type="submit"] {float:right; background-position:0 10px; height:40px;}
+.smartphone	main .category_navi .category_list .country{text-align:center; font-size:12px; padding-top:20px; margin:20px 0; border-top:1px solid #ddd;}
+
+.smartphone	article {float:none; width:auto; padding-left:0;}
+
+.smartphone .lifestyle_corner_description {padding:15px 20px; margin:0; display:block; top: 0;}
+.smartphone .lifestyle_corner_description h6{position:static; top:auto; left:auto; margin-bottom:10px;}
+
+.smartphone	aside {display:none;}
+.smartphone	main .category_navi{display:block;}
+
+.smartphone .shoplist{
+	padding-top: 60px;
+	margin: 0;
+}
+
+
+/**
+ * #shopList common
+ */
+
+#shopList #content{
+	font-size: 12px;
+	margin: 0;
+}
+
+#shopList #content a{
+	text-decoration: underline;
+}
+
+#shopList #content .btn{
+	background-color: #000;
+	color: #fff;
+	display: inline-block;
+	font-weight: bold;
+	height: 32px;
+	line-height: 32px;
+	padding: 0 28px 0 20px;
+	position: relative;
+	text-decoration: none;
+}
+
+#shopList #content .btn:before{
+	background: url(/common/shop/images/icon_arrow_fff.png) no-repeat;
+	content: " ";
+	display: block;
+	height: 14px;
+	right: 8px;
+	margin: -7px 0 0;
+	position: absolute;
+	top: 50%;
+	width: 8px;
+}
+
+aside > nav{
+	font-size: 14px;
+	border-top: 2px solid #000;
+	padding: 40px 0;
+}
+
+aside > nav:first-child{
+	padding-top: 0;
+}
+
+aside > nav > h1{
+	font-size: 24px;
+	margin: 0;
+	padding: 0 0 20px;
+	letter-spacing: .8px;
+}
+
+aside > nav:first-child{
+	border: none;
+}
+
+aside > nav li a{
+	display: block;
+	line-height: 30px;
+}
+
+aside > nav li a.current{
+	color: #999;
+}
+
+aside > nav .sub{
+	display: none;
+	padding: 0 0 20px 20px;
+}
+
+
+/**
+ * #shopList.index
+ */
+
+#shopList.index #content{
+	width: 100%;
+}
+
+#shopList.index #content > section{
+	overflow: hidden;
+	position: relative;
+	width: 440px;
+	zoom: 1;
+}
+
+#shopList.index .concept{
+	height: 380px;
+}
+
+#shopList.index .item{
+	height: 180px;
+}
+
+#shopList.index #content > section > a{
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+
+#shopList #content .categoryTitle{
+	padding: 0 0 40px;
+	text-align: center;
+}
+
+#shopList.index #content .categoryTitle{
+	height: 30px;
+	padding: 0 0 20px;
+	text-align: left;
+}
+
+#shopList.index #content .categoryTitle img{
+	vertical-align: top;
+	width: 250px;
+}
+
+#shopList.index #content #party .categoryTitle img{
+	width: 230px;
+}
+
+#shopList #content .categoryTitle br{
+	display: none;
+}
+
+#shopList #content > section h3{
+	padding: 0 0 10px;
+}
+
+#shopList #content > section h3 strong{
+	display: block;
+	font-size: 20px;
+	line-height: 28px;
+}
+
+#shopList #content > section h3 span{
+	display: block;
+	font-size: 11px;
+}
+
+#shopList #content > section > div{
+	border-top: 1px solid #ddd;
+	margin: 30px 0 0;
+	padding: 30px 0 0;
+}
+
+#shopList #content > section p,
+#shopList #content > section ul{
+	padding: 10px 0 0;
+}
+
+#shopList #content .shop .toggle > a{
+	margin: 20px 0 0;
+}
+
+/* #baauty */
+
+#shopList.index #beauty{
+	float: left;
+}
+
+#shopList.index #beauty ul{
+	font-size: 0;
+}
+
+#shopList.index #beauty ul li{
+	display: inline-block;
+	font-size: 12px;
+	padding: 0 10px 0 0;
+}
+
+#shopList.index #beauty ul li:after{
+	content: ",";
+}
+
+#shopList.index #beauty ul li:last-child:after{
+	content: "";
+}
+
+/* #party */
+
+#shopList.index #party{
+	float: right;
+}
+
+#shopList .theme{
+	border-top: 1px solid #ddd;
+	display: table;
+	margin: 20px 0 0;
+	padding: 30px 0;
+	width: 100%;
+}
+
+#shopList .theme > div{
+	display: table-cell;
+	vertical-align: middle;
+}
+
+#shopList .theme-left{
+	padding: 0 20px 0 0;
+	text-align: center;
+	width: 245px;
+}
+
+#shopList .theme-left strong{
+	display: block;
+	font-size: 18px;
+	text-align: center;
+}
+
+#shopList .theme-left span{
+	display: block;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+}
+
+/**
+ * .mapBox
+ */
+.mapBox{
+	padding: 20px 0 0;
+}
+
+.mapBox .mapTitle{
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.mapBox .map{
+	height: 300px;
+	margin: 20px 0 0;
+	overflow: hidden;
+	width: 100%;
+}
+
+.jillTable{
+	display: table-cell;
+	height: 100%;
+	padding: 30px 0 0;
+	width: 100%;
+}
+
+.jillTable > div{
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.jillThumb{
+	width: 250px;
+}
+
+.jillThumb img{
+	width: 100%;
+}
+
+.jillText p{
+	padding: 0 0 10px 20px!important;
+}
+
+/**
+ * for smartphone
+ */
+
+.smartphone #shopList #content .categoryTitle{
+	font-size: 18px;
+	display: none;
+}
+
+.smartphone #shopList.index #content > section{
+	text-align: center;
+}
+
+.smartphone #shopList.index #content > section > a {
+	margin: 0 0 20px;
+	position: relative;
+	right: auto;
+	top: auto;
+}
+
+.smartphone #shopList.index #content .categoryTitle{
+	height: auto;
+	padding: 0 0 20px;
+	text-align: center;
+}
+
+.smartphone #shopList.index #content .categoryTitle img{
+	width: 180px;
+}
+
+.smartphone #shopList.index #content #party .categoryTitle img{
+	width: 180px;
+}
+
+.smartphone #shopList #content .categoryTitle br{
+ 	display: inline;
+}
+
+.smartphone #shopList #content > section h3{
+	cursor: pointer;
+}
+
+.smartphone #shopList #content > section h3 strong{
+	display: block;
+	font-size: 14px;
+	line-height: 20px;
+}
+
+.smartphone #shopList #content > section h3 span{
+	display: none;
+}
+
+/* index */
+
+.smartphone #shopList.index #content .categoryTitle{
+	display: block;
+}
+
+.smartphone #shopList.index #content > section{
+	float: none;
+	padding: 0 0 10px;
+	width: 100%;
+}
+
+.smartphone #shopList.index #content > section h3{
+	padding: 0;
+	position: relative;
+}
+
+.smartphone #shopList.index #content > section h3 strong{
+	font-size: 12px;
+}
+
+.smartphone #shopList.index #content > section h3:after{
+	background: url(/common/shop/images/icon_arrow_bottom.png) no-repeat;
+	content: " ";
+	display: block;
+	height: 15px;
+	margin: -7px 0 0;
+	position: absolute;
+	right: 5px;
+	top: 50%;
+	width: 15px;
+}
+
+
+.smartphone #shopList.index #content > section > div{
+	padding: 10px 0 0;
+	margin: 10px 0 0;
+}
+
+.smartphone #shopList.index #content > section > div .toggle{
+	display: none;
+	overflow: hidden;
+}
+
+.smartphone #shopList #content .shop .toggle > a{
+	display: none;
+}
+
+
+.smartphone #shopList.index #party{
+	border-bottom: 1px solid #ddd;
+	border-top: 2px solid #000;
+	padding: 40px 0 10px!important;
+}
+
+.smartphone #shopList.category #content > section > .concept{
+	/*border: none;*/
+	margin: 0;
+}
+
+.smartphone #shopList.category .category_navi{
+	margin-bottom: 0;
+}
+
+.smartphone #shopList.index .concept,
+.smartphone #shopList.index .item{
+	height: auto;
+}
+
+.smartphone .jillTable{
+	display: block;
+	height: auto;
+	overflow: hidden;
+	zoom: 1;
+}
+
+.smartphone .jillTable > div{
+	display: block;
+}
+
+.smartphone .jillTable .jillThumb{
+	padding: 0 20px 10px 0;
+	/*text-align: center;*/
+	/*width: 100%;*/
+}
+
+.smartphone .jillTable .jillThumb{
+	float: left;
+	width: 120px;
+}
+
+.smartphone .jillTable .jillText{
+	/*padding: 10px 0 0;*/
+}
+
+.smartphone .jillTable .jillText p{
+	padding: 0 0 10px!important;
+}
+
+.smartphone #content > img{
+	margin: 30px 0 0;
+	width: 100%;
+}
+
+.smartphone #shopList .theme{
+	border: none;
+	display: block;
+	margin: 0;
+	padding: 30px 0 0;
+	/*margin: 20px 0 0;
+	padding: 30px 0;
+	width: 100%;*/
+}
+
+.smartphone #shopList .theme > div{
+	display: block;
+	/*vertical-align: middle;*/
+}
+
+.smartphone #shopList .theme-left{
+	padding: 0 0 20px;
+	/*padding: 0 20px 0 0;*/
+	/*text-align: center;*/
+	/*width: 245px;*/
+	width: auto;
+}
+
+.smartphone #shopList .theme-left strong{
+	/*display: block;
+	font-size: 18px;
+	text-align: center;*/
+	font-size: 14px;
+}
+
+.smartphone #shopList .theme-left span{
+	font-size: 18px;
+	/*display: block;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;*/
+}
+
+.smartphone #shopList .theme-right br{
+	display: none;
+}
+
+.smartphone #shopList .theme-right br.imp{
+	display: inline-block;
+}
+
+
+
+
+.smartphone .cafeBannerInner{
+	display: block;
+	height: auto;
+}
+
+.smartphone .cafeBannerInner > div{
+	display: block;
+}
+
+.smartphone .cafeBannerInner .left{
+	width: 100%;
+}
+
+.smartphone .cafeBannerInner .right h4{
+	font-size: 16px;
+	padding: 10px 0 0;
+}
+
+.smartphone .cafeBannerInner .right p{
+	font-size: 11px;
+	padding: 0;
+}
+
+.smartphone .cafeBannerInner .right p br{
+	display: none;
+}

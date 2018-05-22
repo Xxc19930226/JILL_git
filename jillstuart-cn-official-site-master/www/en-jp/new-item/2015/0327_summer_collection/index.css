@@ -1,0 +1,553 @@
+@charset "utf-8";
+
+/* new clearfix */
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+	}
+* html .clearfix             { zoom: 1; } /* IE6 */
+*:first-child+html .clearfix { zoom: 1; } /* IE7 */
+
+.smartphone img {
+    height: auto;
+    max-width: 100%;
+}
+
+#brandnew_theme{
+	width: 100%;
+	margin: 45px 0 0 0;
+	background: url(images/theme_bk.jpg) no-repeat center top;
+	-moz-background-size: cover;
+	background-size: cover;
+}
+
+.smartphone #brandnew_theme{
+	width: 100%;
+	background: none;
+}
+
+#brandnew_theme .brandnew_theme_txt{
+	font-size: 1.5em;
+	text-align: center;
+	line-height: 200%;
+	padding: 60px 0;
+}
+
+.smartphone #brandnew_theme .brandnew_theme_txt{
+	padding: 0 0 40px 0;
+	background: none;
+}
+
+#brandnew_theme .brandnew_theme_txt span{
+	font-size: 2em;
+	text-align: center;
+	font-weight: bold;
+	display: block;
+	margin: 0 0 40px 0;
+	line-height: 130%;
+}
+
+#brandnew_product{
+	text-align: center;
+}
+
+.brandnew_bar{
+	margin: 40px 0 0 0;
+}
+
+.brandnew_ttl{
+	font-size: 1.7em;
+	margin: 40px 0 0 0;
+	line-height: 150%;
+}
+
+.brandnew_img{
+	margin: 40px auto 0 auto;
+}
+
+.brandnew_img img{
+	max-width: 580px;
+	width: 100%;
+	height: auto;
+	width:auto; /* ie8 */
+}
+
+.smartphone .brandnew_img img{
+	max-width: 560px;
+	width: 100%;
+	height: auto;
+}
+
+.brandnew_name{
+	margin: 30px 0 0 0;
+	font-size: 1.3em;
+	line-height: 150%;
+}
+
+/* ----- rouge_concept ----- */
+.rouge_concept_box {
+	width: 650px;
+	position: relative;
+}
+.smartphone .rouge_concept_box {
+	width: 100%;
+	position: static;
+	border-top: 1px solid #ccc;
+}
+
+#content p.rouge_concept_ttl {
+	font-size: 2.0em;
+	line-height: 130%;
+	font-weight: bold;
+	text-align: center;
+	margin: 40px auto 0;
+}
+.smartphone #content p.rouge_concept_ttl {
+	font-size: 2.0em;
+	line-height: 130%;
+	font-weight: bold;
+	text-align: center;
+	margin: 40px auto 0;
+}
+
+.rouge_img01 {
+	width: 101px;
+	height: 257px;
+	position: absolute;
+	top: 150px;
+	left: 230px;
+}
+.smartphone .rouge_img01 {
+	display: none;
+}
+
+.rouge_img02 {
+	width: 95px;
+	height: 254px;
+	position: absolute;
+	top: 360px;
+	right: 270px;
+}
+.smartphone .rouge_img02 {
+	display: none;
+}
+
+.rouge_img_sp {
+	display: none;
+}
+.smartphone .rouge_img_sp {
+	width: 46.4%;
+	margin: 30px auto;
+	display: block;
+}
+
+.inbox01 {
+	width: 650px;
+	height: 330px;
+	margin: 20px 0 35px;
+}
+.smartphone .inbox01 {
+	width: 100%;
+	height: auto;
+	margin: 0 0 35px;
+}
+
+.inbox02 {
+	width: 650px;
+	height: 290px;
+}
+.smartphone .inbox02 {
+	width: 100%;
+	height: auto;
+}
+
+.rouge_concept01 {
+	width: 290px;
+	height: 290px;
+	margin: 0 0 0 10px;
+	background: url(images/rouge_bk.jpg) top center no-repeat;
+	-moz-background-size: cover;
+	background-size: cover;
+	float: left;
+}
+.smartphone .rouge_concept01 {
+	width: 100%;
+	height: 0;
+	margin: 0 auto 7.14% auto;
+	padding-top: 100%;	
+	background: url(images/rouge_bk.jpg) top center no-repeat;
+	-moz-background-size: cover;
+	background-size: cover;
+	float: none;
+	position: relative;
+}
+
+.rouge_concept01 dl.txt_box {
+	width: 210px;
+	margin: 38px 0 0 40px;
+	text-align: center;
+}
+.smartphone .rouge_concept01 dl.txt_box {
+	width: 100%;
+	margin: 10% auto 0 auto;
+	text-align: center;
+	float: none;
+	position: absolute;
+	top: 0;
+}
+
+dl.txt_box dt {
+	font-size: 1.6em;
+	font-weight: bold;
+	line-height: 140%;
+	text-align: center;
+	margin-bottom: 10px;
+}
+.smartphone dl.txt_box dt {
+	font-size: 1.6em;
+	font-weight: bold;
+	line-height: 140%;
+	text-align: center;
+	margin-bottom: 4%;
+}
+
+dl.txt_box dd {
+	font-size: 1.2em;
+	line-height: 150%;
+	text-align: center;
+}
+
+.rouge_concept02 {
+	width: 310px;
+	height: 330px;
+	margin: 0 10px 0 0;
+	background: url(images/rouge_bk_02.jpg) top center no-repeat;
+	-moz-background-size: cover;
+	background-size: cover;
+	float: right;
+}
+.smartphone .rouge_concept02 {
+	width: 100%;
+	height: 0;
+	margin: 0 auto 7.14% auto;
+	padding-top: 110%;
+	background: url(images/rouge_bk_02.jpg) top center no-repeat;
+	-moz-background-size: cover;
+	background-size: cover;
+	float: none;
+	position: relative;
+}
+
+.rouge_concept02 dl.txt_box {
+	width: 280px;
+	margin: 38px auto 0;
+	text-align: center;
+}
+.smartphone .rouge_concept02 dl.txt_box {
+	width: 100%;
+	margin: 10% auto 0;
+	text-align: center;
+	position: absolute;
+	top: 0;
+}
+
+.rouge_concept03 {
+	width: 290px;
+	height: 290px;
+	margin: 0 0 0 10px;
+	background: url(images/rouge_bk.jpg) top center no-repeat;
+	-moz-background-size: cover;
+	background-size: cover;
+	float: left;
+}
+.smartphone .rouge_concept03 {
+	width: 100%;
+	height: 0;
+	margin: 0 auto 7.14% auto;
+	padding-top: 100%;
+	background: url(images/rouge_bk.jpg) top center no-repeat;
+	-moz-background-size: cover;
+	background-size: cover;
+	float: none;
+	position: relative;
+}
+
+.rouge_concept03 dl.txt_box {
+	width: 250px;
+	margin: 38px auto 0;
+	text-align: center;
+}
+.smartphone .rouge_concept03 dl.txt_box {
+	width: 100%;
+	margin: 12% auto 0;
+	text-align: center;
+	position: absolute;
+	top: 0;
+}
+
+.rouge_concept04 {
+	width: 290px;
+	height: 290px;
+	margin: 0 10px 0 0;
+	background: url(images/rouge_bk.jpg) top center no-repeat;
+	-moz-background-size: cover;
+	background-size: cover;
+	float: right;
+}
+.smartphone .rouge_concept04 {
+	width: 100%;
+	height: 0;
+	padding-top: 100%;
+	margin: 0 auto 7.14% auto;
+	background: url(images/rouge_bk.jpg) top center no-repeat;
+	-moz-background-size: cover;
+	background-size: cover;
+	float: none;
+	position: relative;
+}
+
+.rouge_concept04 dl.txt_box {
+	width: 250px;
+	margin: 38px auto 0;
+	text-align: center;
+}
+.smartphone .rouge_concept04 dl.txt_box {
+	width: 100%;
+	margin: 12% auto 0;
+	text-align: center;
+	position: absolute;
+	top: 0;
+}
+
+.brandnew_color_box{
+	margin: 0 0 0 0;
+}
+
+.brandnew_color{
+	width: 25%;
+	margin: 40px 0 0 0;
+	font-size: 1.3em;
+	line-height: 150%;
+	float: left;
+}
+
+.smartphone .brandnew_color{
+	width: 49.5%;
+	margin: 40px 0 0 0;
+	font-size: 1.3em;
+	line-height: 150%;
+	display: inline-block;
+	zoom: 1;
+	float: none;
+	vertical-align: top;
+}
+
+.brandnew_color img{
+	width: 50%;
+	max-width: 60px;
+	height: auto;
+	width:auto; /* ie8 */
+	margin: 0 0 10px 0;
+	font-size: 1.3em;
+	line-height: 150%;
+}
+
+.smartphone .brandnew_color img{
+	width: 100%;
+	max-width: 120px;
+	height: auto;
+	margin: 0 0 10px 0;
+	font-size: 1.3em;
+	line-height: 150%;
+}
+
+.brandnew_color_txt{
+	margin: 10px 0 0 0;
+}
+
+.brandnew_other{
+	margin: 30px 0 0 0;
+	font-size: 1.3em;
+	line-height: 150%;
+}
+
+.brandnew_other_rouge{
+	margin: 0 auto;
+	text-align: center;
+}
+
+.brandnew_other_rouge dd img{
+	width: 64%;
+	max-width: 120px;
+	height: auto;
+	width:auto; /* ie8 */
+}
+.smartphone .brandnew_other_rouge dd img{
+	width: 33.9% !important;
+	max-width: 190px;
+	height: auto;
+	width:auto; /* ie8 */
+}
+
+/* ----- liner ----- */
+.brandnew_color_liner{
+	width: 25%;
+	margin: 40px 0 0 0;
+	font-size: 1.3em;
+	line-height: 150%;
+	float: left;
+}
+
+.smartphone .brandnew_color_liner{
+	width: 50%;
+	margin: 40px 0 0 0;
+	font-size: 1.3em;
+	line-height: 150%;
+	float: left;
+}
+
+.brandnew_color_liner img{
+	width: 48.8%;
+	max-width: 83px;
+	height: auto;
+	width:auto; /* ie8 */
+	margin: 0 0 10px 0;
+	font-size: 1.3em;
+	line-height: 150%;
+}
+
+.smartphone .brandnew_color_liner img{
+	width: 100%;
+	max-width: 120px;
+	height: auto;
+	width:auto; /* ie8 */
+	margin: 0 0 10px 0;
+	font-size: 1.3em;
+	line-height: 150%;
+}
+
+brandnew_other_liner {
+	margin: 0 auto;
+	text-align: center;
+}
+
+.brandnew_other_liner dd img{
+	width: 63%;
+	max-width: 126px;
+	height: auto;
+	width:auto; /* ie8 */
+}
+.smartphone .brandnew_other_liner dd img{
+	width: 35.7%;
+	max-width: 120px;
+	height: auto;
+	width:auto; /* ie8 */
+	margin: 0 0 10px 0;
+	font-size: 1.3em;
+	line-height: 150%;
+}
+
+/* ----- eyes ----- */
+.brandnew_color_eyes{
+	width: 25%;
+	margin: 40px 15px 0 15px;
+	font-size: 1.3em;
+	line-height: 150%;
+	float: left;
+}
+.smartphone .brandnew_color_eyes{
+	width: 50%;
+	margin: 40px 0 0 0;
+	font-size: 1.3em;
+	line-height: 150%;
+	float: left;
+}
+
+.brandnew_color_eyes img{
+	width: 80%;
+	max-width: 160px;
+	height: auto;
+	width:auto; /* ie8 */
+	margin: 0 0 10px 0;
+	font-size: 1.3em;
+	line-height: 150%;
+}
+.smartphone .brandnew_color_eyes img{
+	width: 100%;
+	max-width: 120px;
+	height: auto;
+	width:auto; /* ie8 */
+	margin: 0 0 10px 0;
+	font-size: 1.3em;
+	line-height: 150%;
+}
+
+/* ----- blush ----- */
+.brandnew_other_blush {
+	margin: 0 auto;
+	text-align: center;
+}
+
+.brandnew_other_blush dd img{
+	width: 46.5%;
+	max-width: 93px;
+	height: auto;
+	width:auto; /* ie8 */
+	margin: 0 0 10px 0;
+	font-size: 1.3em;
+	line-height: 150%;
+}
+.smartphone .brandnew_other_blush dd img{
+	width: 35.7%;
+	max-width: 120px;
+	height: auto;
+	width:auto; /* ie8 */
+	margin: 0 0 10px 0;
+	font-size: 1.3em;
+	line-height: 150%;
+}
+
+.brandnew_color_left {
+	margin: 40px 0 0 12.5%;	
+}
+.smartphone .brandnew_color_left {
+	margin: 40px 0 0 0;	
+}
+
+.smartphone .brandnew_color_last {
+	margin: 40px 49.5% 0 0;	
+}
+
+.brandnew_color_left02 {
+	margin: 40px 0 0 25%;	
+}
+.smartphone .brandnew_color_left02 {
+	margin: 40px 0 0 0;
+}
+
+.brandnew_color_eyes_left {
+	margin: 40px 15px 0 8%;	
+}
+.smartphone .brandnew_color_eyes_left {
+	margin: 40px 0 0 0;	
+}
+
+
+.brandnew_link{
+	margin: 5px 0 0 0;
+	font-size: 1.4em;
+}
+
+#content header {margin:20px 0; border:0;}
+#content h4 {font-size:16px;}
+#content time {font-size:12px; color:#999; margin:20px 0;}
+#content dl,
+#content dt,
+#content dd {text-align:center;}
+#content .newbase_makeup_listbox dd{text-align:left;}
+
+/****************************************************************/

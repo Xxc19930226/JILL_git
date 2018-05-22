@@ -1,0 +1,369 @@
+@charset "utf-8";
+
+main .main_inner {margin-bottom:100px; overflow:hidden; font-family: "ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro","メイリオ","Meiryo","Osaka","ＭＳ Ｐゴシック","MS P Gothic",Verdana,Arial,Helvetica,sans-serif; position: relative;}
+main .main_inner .en{font-family: 'Montserrat',Verdana,Arial,Helvetica,sans-serif;}
+article {float:left; width:650px; text-align:left; margin-top:-70px;}
+br.onlySP{
+	display: none;
+}
+
+/*------------------------
+ JILL CAFE
+------------------------*/
+
+.cafeHead{
+	padding: 78px 0 54px;
+}
+
+.cafeHead h1{
+	padding: 0 0 14px;
+}
+
+.cafeHead h1 a{
+	letter-spacing: 1px;
+}
+
+.cafeHead p{
+	font-size: 14px;
+}
+
+.cafeBody{
+	position: relative;
+}
+
+.cafeBody > img {
+	width:740px;
+}
+
+.cafeBody .figures{
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+
+.cafeBody .figures figure{
+	padding: 0 0 10px;
+}
+
+.cafeBody .figures figure span img {
+	width:208px;
+}
+
+.cafeBody .figures figure figcaption{
+	letter-spacing: 0;
+	padding: 6px 0 0;
+	text-align: center;
+}
+
+.cafeContents{
+	border-bottom: 1px solid #ccc;
+	padding: 50px 0 60px;
+	margin: 0 0 30px;
+}
+
+.cafeContents .left{
+	float: left;
+	width: 444px;
+	padding-bottom:40px;
+}
+
+.cafeContents .left h2{
+	font-size: 14px;
+	font-weight: bold;
+	letter-spacing: 0;
+	line-height: 24px;
+	padding: 0 0 20px;
+}
+
+.cafeContents .left p{
+	font-size: 13px;
+	line-height: 24px;
+	letter-spacing: 0;
+}
+
+.cafeContents .right{
+	/*float: right;*/
+	position:absolute;
+	top:360px;
+	right:0;
+}
+
+.cafeContents .themeinfo {
+	clear:both;
+	font-size: 13px;
+	margin-top:20px;
+}
+
+.cafeContents .themeinfo h2{
+	font-size: 14px;
+	font-weight: bold;
+	letter-spacing: 0;
+	margin-bottom:10px;
+}
+
+.cafeContents .themeinfo p {
+	margin-bottom:10px;
+}
+
+.cafeContents .themeinfo .menu {
+  overflow:hidden;
+}
+
+.cafeContents .themeinfo .menu figure {
+	float:left;
+	padding: 0 10px 10px 0;
+}
+
+.cafeContents .themeinfo .menu img {
+	width:230px;
+}
+
+.cafeContents .themeinfo .menu figcaption{
+	letter-spacing: 0;
+	padding: 6px 0 0;
+	text-align: center;
+	font-size: 12px;
+}
+
+.cafeContents:after{
+	clear: both;
+	content: " ";
+	display: block;
+	height: 1px;
+	width: 1px;
+}
+
+.cafeAccess{
+	display: table;
+}
+
+.cafeAccess > div{
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.cafeAccess .right > *{
+	font-size: 12px;
+	letter-spacing: 0;
+	line-height: 20px;
+	margin: 0 0 0 30px;
+}
+
+.cafeAccess .right h3{
+	font-size: 14px;
+	font-weight: bold;
+	padding: 10px 0;
+}
+
+.cafeAccess p{
+	padding: 0 0 10px;
+}
+
+.cafeAccess dl{
+	padding: 0 0 20px;
+}
+
+.cafeAccess .btn{
+	background-color: #000;
+	color: #fff;
+	display: inline-block;
+	font-weight: bold;
+	height: 32px;
+	line-height: 32px;
+	padding: 0 28px 0 20px;
+	position: relative;
+	text-decoration: none;
+}
+
+.cafeAccess .btn:before{
+	background: url(/common/shop/images/icon_arrow_fff.png) no-repeat;
+	content: " ";
+	display: block;
+	height: 14px;
+	right: 8px;
+	margin: -7px 0 0;
+	position: absolute;
+	top: 50%;
+	width: 8px;
+}
+
+
+/*__ Smartphone View __*/
+.smartphone	main {margin-bottom:50px;}
+.smartphone	main .main_inner {width:auto; margin:0 6.25% 30px;}
+.smartphone .onlySP{
+	display: inline;
+}
+
+.smartphone	.cafeHead{
+	padding: 35px 0;
+}
+
+.smartphone	.cafeHead h1{
+	font-size: 20px;
+	line-height: 28px;
+	padding: 0 0 14px;
+}
+
+.smartphone	.cafeHead p{
+	font-size: 12px;
+	text-align: center;
+}
+
+.smartphone	.cafeBody{
+	position: relative;
+}
+
+.smartphone	.cafeBody > img{
+	width: 100%;
+}
+
+.smartphone	.cafeBody .figures{
+	padding: 0 0 30px;
+	position: static;
+}
+
+.smartphone	.cafeBody .figures figure{
+	display: table;
+	padding: 0 0 10px;
+}
+
+.smartphone	.cafeBody .figures figure > *{
+	display: table-cell;
+	vertical-align: middle;
+	width:50%;
+}
+
+.smartphone	.cafeBody .figures figure img{
+	width: 100%;
+}
+
+.smartphone	.cafeBody .figures figure figcaption{
+	font-size: 10px;
+	padding: 0 0 0 10px;
+	text-align: left;
+	width: 150px;
+}
+
+.smartphone	.cafeBody .figures figure figcaption i{
+	display: none;
+}
+
+.smartphone	.cafeContents{
+	padding: 20px 0;
+	margin: 0 0 10px;
+}
+
+.smartphone	.cafeContents .left{
+	float: none;
+	width: 100%;
+	padding-bottom:0;
+}
+
+.smartphone	.cafeContents .left h2{
+	font-size: 11px;
+	line-height: 20px;
+	padding: 0 0 10px;
+}
+
+.smartphone	.cafeContents .left h2 br{
+	display: none;
+}
+
+.smartphone	.cafeContents .left p{
+	font-size: 11px;
+	line-height: 20px;
+	padding: 0 0 10px;
+}
+
+.smartphone	.cafeContents .right{
+	float: none;
+	position:relative;
+	top:auto;
+	right:auto;
+}
+
+.smartphone	.cafeContents .right > img{
+	width: 100%;
+}
+
+.smartphone	.cafeAccess{
+	display: block;
+}
+
+.smartphone	.cafeAccess > div{
+	display: block;
+}
+
+.smartphone	.cafeAccess .left{
+	padding: 0 0 20px;
+}
+
+.smartphone	.cafeAccess .left img{
+	width: 100%;
+}
+
+.smartphone	.cafeAccess .right > *{
+	margin: 0;
+}
+
+.smartphone	.cafeAccess .right h3{
+	font-size: 12px;
+}
+
+.smartphone .cafeContents .themeinfo {
+	clear:both;
+	font-size: inherit;
+	margin-top:0;
+}
+
+.smartphone .cafeContents .themeinfo h2{
+	font-size: 12px;
+}
+
+.smartphone .cafeContents .themeinfo p {
+}
+
+.smartphone .cafeContents .themeinfo .menu {
+	padding:0 0 30px;
+}
+
+.smartphone .cafeContents .themeinfo .menu figure {
+	float:none;
+	display: table;
+	padding: 0 0 10px;
+}
+
+.smartphone	.cafeContents .themeinfo .menu figure > *{
+	display: table-cell;
+	vertical-align: middle;
+	width:50%;
+}
+
+.smartphone .cafeContents .themeinfo .menu img {
+	width:100%;
+}
+
+.smartphone .cafeContents .themeinfo .menu figcaption{
+	font-size: 10px;
+	padding: 0 0 0 10px;
+	text-align: left;
+	width: 150px;
+}
+
+.smartphone	.cafeAccess p{
+	font-size: 11px;
+	line-height: 16px;
+}
+
+.smartphone	.cafeAccess dl{
+	line-height: 16px;
+}
+
+.smartphone .cafeAccess dt{
+	font-size: 11px;
+}
+
+.smartphone .cafeAccess dd{
+	font-size: 10px;
+}
