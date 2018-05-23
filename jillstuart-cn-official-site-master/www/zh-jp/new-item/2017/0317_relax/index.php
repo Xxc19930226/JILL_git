@@ -36,7 +36,11 @@
       <div class="box">
 
         <header>
+<<<<<<< HEAD
           <h2>JILL STUART RELAX Summer Collection Limited items</h2>
+=======
+          <h2>JILL STUART RELAX® Summer Collection Limited items</h2>
+>>>>>>> master
           <!--<h3>2017年9月1日上市 </h3>-->
           <div class="image">
             <img src="images/main.jpg" alt="" width="650">
