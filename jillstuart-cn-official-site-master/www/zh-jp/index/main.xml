@@ -46,9 +46,9 @@
 
 
 		<main type="standard">
-			<image alt="">/zh-jp/new-item/2017/1126_fragrance_collection/images/kv.jpg</image>
-			<more target="">/zh-jp/new-item/2017/1126_fragrance_collection/</more>
-			<moresmp>/zh-jp/new-item/2017/1126_fragrance_collection/</moresmp>
+			<image alt="">/zh-jp/new-item/2017/0210_new_base_makeup_items/images/kv.jpg</image>
+			<more target="">/zh-jp/new-item/2017/0210_new_base_makeup_items/</more>
+			<moresmp>/zh-jp/new-item/2017/0210_new_base_makeup_items/</moresmp>
 		</main>
 
 
@@ -64,14 +64,18 @@
 			<moresmp>/zh-jp/new-item/2017/0626_xp/</moresmp>
 		</main> -->
 
-
-
-
 		<main type="standard">
+			<image alt="">/zh-jp/new-item/2017/0407_summer_makeup/images/kv.jpg</image>
+			<more target="">/zh-jp/new-item/2017/0407_summer_makeup/</more>
+			<moresmp>/zh-jp/new-item/2017/0407_summer_makeup/</moresmp>
+		</main>
+
+
+		<!--<main type="standard">
 			<image alt="">/zh-jp/new-item/2016/0104_xp/images/kv.jpg</image>
 			<more target="">/zh-jp/new-item/2016/0104_xp/</more>
 			<moresmp>/zh-jp/new-item/2016/0104_xp/</moresmp>
-		</main>
+		</main>-->
 
 		<!--
 		<main type="standard">
