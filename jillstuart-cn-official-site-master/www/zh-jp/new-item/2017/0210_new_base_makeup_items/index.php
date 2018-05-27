@@ -86,21 +86,14 @@
                               <strong class="en">吉尔 斯图亚特 <br class="onlySP">雪纺晶灿粉饼 <br class="onlySP"></strong>
                               <p class="price">售价280元<br>
                                   SPF25+/PA++++<br>
-                              粉芯和粉盒分开售卖</p>
+                              <span style="font-family: Microsoft YaHei ! important;color: #000;font-weight: 300;">(粉芯和粉盒分开售卖)</span></p>
                                   <!-- <span>ジルスチュアート　<br class="onlySP">エヴァーラスティングシルク パウダーファンデーション <br />クリスタルパーフェクション（レフィル）</span> -->
                           </h4>
-<<<<<<< HEAD
                           <!--<h4 class="title">
 
                               <strong class="en">吉尔 斯图亚特 <br class="onlySP">雪纺粉饼粉盒 <br class="onlySP"></strong>
                               <p class="price">售价120元<br>
                                   SPF50+/PA++++</p>
-=======
-                         <!-- <h4 class="title">
-
-                              <strong class="en">吉尔 斯图亚特 <br class="onlySP">雪纺粉饼粉盒 <br class="onlySP"></strong>
-                              <p class="price">售价120元</p>
->>>>>>> master
                           </h4>-->
                           <a href="/zh-jp/products/detail.php?jan=26608" class="detailBtn">了解更多</a>
                       </div>
