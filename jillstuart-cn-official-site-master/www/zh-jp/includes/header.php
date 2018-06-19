@@ -178,6 +178,7 @@ if(count($bannerlist) > 0 || count($tickerlist) > 0) {
 						</li>
 						<li class="newon"><a href="<? echo $_lang; ?>/news/?c=new item"><span>NEWS</span></a></li>
 						<li class="fashion"><a href="<? echo $_lang; ?>/fashionshows/"><span>FASHION SHOWS</span></a></li>
+                        <li class="movie"><a href="<? echo $_lang; ?>/movie/"><span>MOVIE</span></a></li>
 						<li class="shoplist"><a href="<? echo $_lang; ?>/shop/"><span>SHOP LIST</span></a></li>
 						<li class="shoplist"><a href="http://kose.oms.d1mgroup.com" target="_blank"><span>MEMBERS CLUB</span></a></li>
 					</ul>

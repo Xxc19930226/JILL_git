@@ -1,0 +1,23 @@
+/*
+
+ ABOUT JILL STUART
+
+*/
+
+/*__ PC View __*/
+main {font-size:1.2em;}
+
+main {position:relative;}
+main .main_inner {margin-bottom:100px;}
+
+main .video {*width:940px; *height:540px; *padding:0; *margin:0 auto 20px; margin-bottom:20px; padding: 30px 0 53.13%;}
+main .video iframe {*width:940px; *height:540px; }
+main .video_title {text-align: center; font-size: 16px; margin-bottom:100px;}
+main br.smp_only {display:none;}
+
+
+/*__ Smartphone View __*/
+.smartphone	main .main_inner {margin:0 0 100px; width:auto;}
+.smartphone main .video {margin-bottom:20px}
+.smartphone main .video_title {text-align: center; font-size: 1.2em; margin-bottom:70px;}
+.smartphone main br.smp_only {display:inline;}
