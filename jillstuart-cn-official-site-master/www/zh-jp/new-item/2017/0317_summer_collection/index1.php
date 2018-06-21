@@ -389,7 +389,7 @@ Oil-in-blush为你的脸颊饰以亮丽的红润色泽。
             </h3>
             <div class="sectionMain">
               <div class="img">
-                <a href="/zh-jp/products/detail.php?jan=26621"><img src="images/fjorg_img.png" alt=""></a>
+                <a href="/zh-jp/products/detail.php?jan=26621"><img src="images/fjorg_img.jpg" alt=""></a>
               </div>
               <div class="meta">
                 <span class="release">
