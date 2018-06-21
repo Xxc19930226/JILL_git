@@ -79,6 +79,8 @@
                   <div class="sectionMain" style="margin-top: -100px;">
                       <br>
                       <br>
+                      <br>
+                      <br>
                       <div class="img">
                           <a href="/zh-jp/products/detail.php?jan=26621"><img src="images/fjorg_img.jpg" alt=""></a>
                       </div>
