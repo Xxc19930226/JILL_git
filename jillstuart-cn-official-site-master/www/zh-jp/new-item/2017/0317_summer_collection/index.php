@@ -65,6 +65,10 @@
 
 
               </p>
+              <p>
+                赋予双唇鲜艳、高显色度的水润光泽。<br>
+                盈亮动人的精油唇彩。
+              </p>
           </div>
           <!-- / #introduction -->
 
@@ -72,13 +76,11 @@
 
               <!-- #forever-juicy-oil-rouge-grow -->
               <div id="forever-juicy-oil-rouge-grow" class="section">
-                  <h3 class="description">
-                      赋予双唇鲜艳、高显色度的水润光泽。<br>
-                      盈亮动人的精油唇彩。
-                  </h3>
-                  <div class="sectionMain">
+                  <div class="sectionMain" style="margin-top: -100px;">
+                      <br>
+                      <br>
                       <div class="img">
-                          <a href="/zh-jp/products/detail.php?jan=26621"><img src="images/fjorg_img.png" alt=""></a>
+                          <a href="/zh-jp/products/detail.php?jan=26621"><img src="images/fjorg_img.jpg" alt=""></a>
                       </div>
                       <div class="meta">
                 <!--<span class="release">
