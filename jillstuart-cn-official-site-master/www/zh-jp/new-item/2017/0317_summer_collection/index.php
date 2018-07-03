@@ -5,7 +5,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="description" content="2017 Spring Collection limited items <? include($_SERVER['DOCUMENT_ROOT'].$_lang."/includes/description.php"); ?>">
 <meta name="keywords" content="2017 Spring Collection limited items,<? include($_SERVER['DOCUMENT_ROOT'].$_lang."/includes/keywords.php"); ?>">
-<title>JILL STUART 2017 Summer Collection | 新品 | <? include($_SERVER['DOCUMENT_ROOT'].$_lang."/includes/title.php"); ?></title>
+<title>JILL STUART 2018 Summer Collection | 新品 | <? include($_SERVER['DOCUMENT_ROOT'].$_lang."/includes/title.php"); ?></title>
 <? include($_SERVER['DOCUMENT_ROOT']."/includes/meta.php"); ?>
 <? include($_SERVER['DOCUMENT_ROOT']."/includes/misc.php"); ?>
 <link rel="stylesheet" media="all" href="/common/css/second.css" />
@@ -39,7 +39,7 @@
 
           <header>
               <!--<time>2017.03.17</time>-->
-              <h2>JILL STUART 2017 Summer Collection</h2>
+              <h2>JILL STUART 2018 Summer Collection</h2>
               <!--<h3>2017年4月7日 / 4月21日起于专柜有售</h3>-->
               <div class="image">
                   <img src="images/main.jpg" alt="" width="650" >

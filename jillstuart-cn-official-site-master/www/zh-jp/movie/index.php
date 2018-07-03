@@ -34,7 +34,7 @@
           <div class="video">
               <iframe width="960" height="540" src="/zh-jp/movie/video/oil_rouge_glow_0407.mp4" frameborder="0" allowfullscreen></iframe>
           </div>
-          <div class="video_title">JILL STUART 2017 Summer Collection</div>
+          <div class="video_title">JILL STUART 2018 Summer Collection</div>
 
       </div>
   </main>
