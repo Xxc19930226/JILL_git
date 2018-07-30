@@ -1,6 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<channel>
+		<news category="new item" type="standard" top="on">
+			<id>00082</id>
+			<icon>新闻</icon>
+			<!--
+                <date></date>
+            -->
+			<photo>/zh-jp/new-item/2017/0616_skincare_limited_items/images/main.jpg</photo>
+			<thumbnail>/zh-jp/new-item/2017/0616_skincare_limited_items/images/main.jpg</thumbnail>
+			<title>JILL STUART</title>
+			<subtitle><![CDATA[2018 Skincare Limited items]]></subtitle>
+			<detail></detail>
+			<more target="">/zh-jp/new-item/2017/0616_skincare_limited_items/</more>
+			<moresmp target="">/zh-jp/new-item/2017/0616_skincare_limited_items/</moresmp>
+		</news>
+
+		<news category="new item" type="standard" top="on">
+			<id>00082</id>
+			<icon>新闻</icon>
+			<!--
+                <date></date>
+            -->
+			<photo>/zh-jp/new-item/2017/0512_summer_makeup/images/main.jpg</photo>
+			<thumbnail>/zh-jp/new-item/2017/0512_summer_makeup/images/main.jpg</thumbnail>
+			<title>JILL STUART</title>
+			<subtitle><![CDATA[2018 summer makeup new items & limited items]]></subtitle>
+			<detail></detail>
+			<more target="">/zh-jp/new-item/2017/0512_summer_makeup/</more>
+			<moresmp target="">/zh-jp/new-item/2017/0512_summer_makeup/</moresmp>
+		</news>
 
 		<news category="new item" type="standard" top="on">
 			<id>00082</id>

@@ -156,7 +156,7 @@
                       <!-- /#perfumed-hand-cream -->
 
                       <!-- #face-powder -->
-                      <div id="face-powder" class="section">
+                      <!--<div id="face-powder" class="section">
                           <h3 class="description description--deco">
                               隐隐闪现如细碎钻石般的光，
                               <br>
@@ -175,10 +175,9 @@
                                   </h4>
                                   <p class="price">10g   售价380元</p>
                                   <a href="/zh-jp/products/detail.php?jan=26822" class="detailBtn">了解更多</a>
-                                  <!--<p class="limited">★限量版色彩</p>-->
                               </div>
                           </div>
-                      </div>
+                      </div>-->
                       <!-- /#face-powder -->
 
                       <!-- #lip-essence -->

@@ -5,7 +5,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="description" content="2017 Spring Collection limited items <? include($_SERVER['DOCUMENT_ROOT'].$_lang."/includes/description.php"); ?>">
 <meta name="keywords" content="2017 Spring Collection limited items,<? include($_SERVER['DOCUMENT_ROOT'].$_lang."/includes/keywords.php"); ?>">
-<title>2018 JILL STUART RELAX Limited items | 新品 | <? include($_SERVER['DOCUMENT_ROOT'].$_lang."/includes/title.php"); ?></title>
+<title>MOVIE|JILL STUART Beauty</title>
 <? include($_SERVER['DOCUMENT_ROOT']."/includes/meta.php"); ?>
 <? include($_SERVER['DOCUMENT_ROOT']."/includes/misc.php"); ?>
 <link rel="stylesheet" media="all" href="/common/css/second.css" />
