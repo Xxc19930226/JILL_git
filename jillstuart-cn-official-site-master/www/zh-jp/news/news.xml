@@ -1,6 +1,55 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<channel>
+
+
+
+		<news category="new item" type="standard" top="on">
+			<id>00082</id>
+			<icon>新闻</icon>
+			<!--
+                <date></date>
+            -->
+			<photo>/zh-jp/new-item/2018/2018_Limited_Collection/images/main1.jpg</photo>
+			<thumbnail>/zh-jp/new-item/2018/2018_Limited_Collection/images/main1.jpg</thumbnail>
+			<title>JILL STUART</title>
+			<subtitle><![CDATA[2018 Limited Collection]]></subtitle>
+			<detail></detail>
+			<more target="">/zh-jp/new-item/2018/2018_Limited_Collection/</more>
+			<moresmp target="">/zh-jp/new-item/2018/2018_Limited_Collection/</moresmp>
+		</news>
+
+		<news category="new item" type="standard" top="on">
+			<id>00082</id>
+			<icon>新闻</icon>
+			<!--
+                <date></date>
+            -->
+			<photo>/zh-jp/new-item/2017/0714_fall_collection/images/main1.jpg</photo>
+			<thumbnail>/zh-jp/new-item/2017/0714_fall_collection/images/main1.jpg</thumbnail>
+			<title>JILL STUART</title>
+			<subtitle><![CDATA[2018 Fall Collection]]></subtitle>
+			<detail></detail>
+			<more target="">/zh-jp/new-item/2017/0714_fall_collection/</more>
+			<moresmp target="">/zh-jp/new-item/2017/0714_fall_collection/</moresmp>
+		</news>
+
+		<news category="new item" type="standard" top="on">
+			<id>00082</id>
+			<icon>新闻</icon>
+			<!--
+                <date></date>
+            -->
+			<photo>/zh-jp/new-item/2018/0801_fall_makeup/images/main1.jpg</photo>
+			<thumbnail>/zh-jp/new-item/2018/0801_fall_makeup/images/main1.jpg</thumbnail>
+			<title>JILL STUART</title>
+			<subtitle><![CDATA[2018 Fall makeup new colors]]></subtitle>
+			<detail></detail>
+			<more target="">/zh-jp/new-item/2018/0801_fall_makeup/</more>
+			<moresmp target="">/zh-jp/new-item/2018/0801_fall_makeup/</moresmp>
+		</news>
+
+
 		<news category="new item" type="standard" top="on">
 			<id>00082</id>
 			<icon>新闻</icon>

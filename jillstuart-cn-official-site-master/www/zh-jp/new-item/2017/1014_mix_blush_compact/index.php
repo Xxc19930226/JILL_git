@@ -79,7 +79,7 @@
                   <strong class="en">吉尔 斯图亚特 <br class="onlySP">缤纷爱恋腮红</strong>
 
                 </h4>
-                <p class="price">8g 售价 330 元</p>
+                <p class="price">8g 售价 310 元</p>
                 <a href="/zh-jp/products/detail.php?jan=26339" class="detailBtn">了解更多</a>
               </div>
               <div class="colors-4col">

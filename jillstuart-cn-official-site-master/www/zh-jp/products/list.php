@@ -11,8 +11,8 @@ $ps_count = isset($_REQUEST['cnt']) ? $_REQUEST['cnt'] : $_COUNT;
 $p_count = intval($ps_count);
 
 
-if (file_exists('products.xml')) {
-	$xml = simplexml_load_file("products.xml");
+if (file_exists('products1.xml')) {
+	$xml = simplexml_load_file("products1.xml");
 	/*echo "<h1>SUCCESS</h1>";*/
 	/*var_dump($xml);*/
 } else {

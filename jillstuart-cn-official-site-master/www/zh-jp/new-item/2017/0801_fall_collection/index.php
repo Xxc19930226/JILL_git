@@ -131,7 +131,7 @@
                   <strong class="en">吉尔 斯图亚特 <br class="onlySP">蕾丝花漾恋唇膏</strong>
                   <!-- <span>ジルスチュアート　ルージュ マイドレス</span> -->
                 </h4>
-                <p class="price">4色（限定）    售价220元</p>
+                <p class="price">4色（限定）    售价200元</p>
               </div>
               <div class="layout-2col">
                 <div class="col">

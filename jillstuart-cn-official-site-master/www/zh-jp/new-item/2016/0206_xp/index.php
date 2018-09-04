@@ -56,7 +56,7 @@
                       <div class="color-meta" style="text-align:center">
                         <span>2017年2月1日上市</span><br>
                         <span>吉尔 斯图亚特 蕾丝花漾恋唇膏 （限定品）</span><br>
-                        <span>4色  售价 220 元</span>
+                        <span>4色  售价 200 元</span>
                       </div>
                     </div>
                   </div>

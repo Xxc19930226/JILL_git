@@ -162,7 +162,7 @@
                 <h4 class="title">
                   <strong class="en">吉尔 斯图亚特 <br class="onlySP">甜蜜爱恋腮红</strong>
                 </h4>
-                <p class="price">8g 售价 330 元</p>
+                <p class="price">8g 售价 310 元</p>
                 <a href="/zh-jp/products/detail.php?jan=25495" class="detailBtn">了解更多</a>
               </div>
               <div class="colors-4col">
@@ -195,7 +195,7 @@
                 <h4 class="title">
                   <strong class="en">吉尔 斯图亚特 <br class="onlySP">花舞恋唇膏</strong>
                 </h4>
-                <p class="price">5g 售价 210 元</p>
+                <p class="price">5g 售价 190 元</p>
                 <div class="img">
                   <img src="images/lip_head.png" alt=""></a>
                 </div>
@@ -239,7 +239,7 @@
                 <h4 class="title">
                   <strong class="en">吉尔 斯图亚特 <br class="onlySP">蕾丝花漾恋唇膏</strong>
                 </h4>
-                <p class="price">5g 售价 220 元</p>
+                <p class="price">5g 售价 200 元</p>
                 <a href="/zh-jp/products/detail.php?jan=25710" class="detailBtn">了解更多</a>
               </div>
               <div class="colors-4col">

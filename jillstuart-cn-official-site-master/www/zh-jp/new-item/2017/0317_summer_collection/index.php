@@ -181,6 +181,65 @@
               </div>
               <!-- /#forever-juicy-oil-rouge-grow -->
 
+              <!-- #nude-couture-eyes -->
+              <div id="nude-couture-eyes" class="section">
+                  <h3 class="description">
+                      濡湿般的光泽，为眼眸带来动人的光影之美。<br>
+                      令双眸平添性感韵致的6色眼影。
+                  </h3>
+                  <div class="sectionMain">
+                      <div class="img">
+                          <a href="/zh-jp/products/detail.php?jan=26695"><img src="images/nce_img.png" alt=""></a>
+                      </div>
+                      <div class="meta">
+                <span class="release">
+               2018年10月上市  限定品
+                </span>
+                          <h4 class="title">
+                              <strong class="en">
+                                  吉尔 斯图亚特 <br class="onlySP">爱恋柔映眼彩盒（莓果田园）
+                              </strong>
+                          </h4>
+                          <p class="price">
+                              5 g    售价380元
+                          </p>
+                          <!--<dl class="more">
+                              <dt><img src="images/nce_more_img.png" alt=""></dt>
+                              <dd>
+                                  包装盒为粉色，<br>并饰以草莓图案。
+                              </dd>
+                          </dl>-->
+                          <a href="/zh-jp/products/detail.php?jan=26695" class="detailBtn">了解更多</a>
+                      </div>
+                  </div>
+                  <div class="colors-2col">
+                      <ul>
+                          <li>
+                              <a href="/zh-jp/products/detail.php?jan=26695"><img src="images/nce_color01.png" alt=""></a>
+                              <strong>
+                                  ★01 skin beige
+                              </strong>
+                              <span>
+                    温柔夏日棕
+                  </span>
+                              <!-- <a href="#" class="cartBtn-s">カートに入れる</a> -->
+                          </li>
+                          <li>
+                              <a href="/zh-jp/products/detail.php?jan=26695"><img src="images/nce_color02.png" alt=""></a>
+                              <strong>
+                                  ★02 mauve brown
+                              </strong>
+                              <span>
+                    爱恋淡紫褐
+                  </span>
+                              <!-- <a href="#" class="cartBtn-s">カートに入れる</a> -->
+                          </li>
+                      </ul>
+                      <p class="limited">★限定色</p>
+                  </div>
+              </div>
+              <!-- /#nude-couture-eyes -->
+
           </div>
 
 

@@ -4,8 +4,8 @@
 <?
 	$_COUNT = 20;
 	$p_jan = isset($_GET['jan']) ? $_GET['jan'] : "";
-	if (file_exists('products.xml')) {
-		$xml = simplexml_load_file("products.xml");
+	if (file_exists('products1.xml')) {
+		$xml = simplexml_load_file("products1.xml");
 	}
 	$items = array();
 	$items = $xml->xpath('channel/item[code="' . $p_jan. '"]');
