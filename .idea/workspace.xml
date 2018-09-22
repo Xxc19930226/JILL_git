@@ -2,196 +2,137 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9de1b130-2d7a-436c-9372-9a9a05b21957" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0317_summer_collection/images/nce_color01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0317_summer_collection/images/nce_color02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0317_summer_collection/images/nce_img.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/bn_color01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/bn_img.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/clm_color01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/clm_color02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/clm_img.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/cm_img.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/fashion_img1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/fashion_img2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/fashion_img3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/fashion_img4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/fashion_make_subtitle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/fashion_make_title.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/fashion_title.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/icon_down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/icon_up.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/introduction_title.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/lb_color01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/lb_color02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/lb_color03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/lb_color04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/lb_color05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/lb_color06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/lb_color07.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/lb_color08.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/lb_color09.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/lb_color10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/lb_color11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/lb_color12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/lb_color13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/lb_color14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/lb_color15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/lb_color16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/lb_color17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/lb_color18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/lb_color19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/lb_color20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/lb_color21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/lb_color22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/lb_img.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/lineup_bn.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/lineup_clm.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/lineup_cm.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/lineup_lb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/lineup_nlr.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/lineup_oib.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/lineup_pouch.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/lineup_rce.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/main.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/main1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/makeup_blush_title.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/makeup_data_title.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/makeup_eye_img1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/makeup_eye_img2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/makeup_eye_title.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/makeup_img.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/makeup_lip_title.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/makeup_title.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/nlr_color01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/nlr_color02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/nlr_color03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/nlr_color04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/nlr_color05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/nlr_color06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/nlr_color07.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/nlr_img.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/oib_color01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/oib_color02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/oib_img.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/pouch_color01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/pouch_color02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/pouch_img.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/rce_color01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/rce_color02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/rce_img.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0801_fall_makeup/images/line.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0801_fall_makeup/images/main.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0801_fall_makeup/images/main1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0801_fall_makeup/images/sce_color01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0801_fall_makeup/images/sce_img.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/fashion_img.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/fmtn_color01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/fmtn_color02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/fmtn_color03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/fmtn_color04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/fmtn_color05.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/fmtn_img.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/hairmake_hair_img.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/hairmake_make_img.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/hairmake_prof.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/lb_color01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/lb_color02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/lb_color03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/lb_img.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/line.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/main.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/main1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/makeup_blush_title.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/makeup_eye_img1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/makeup_eye_img2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/makeup_eye_title.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/makeup_img.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/makeup_lip_title.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/mbcmc_color01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/mbcmc_color011.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/mbcmc_img.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/mbcn_color01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/mbcn_img.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/mbcn_img.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/mbcn_img1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/mbcn_img1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/mce_color01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/mce_color02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/mce_color03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/mce_img.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/ns_img.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/sbec_color01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/sbec_color02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/sbec_color03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/sbec_color04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/sbec_color05.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/images/sbec_img.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/cheeks/26556/mbcmc_color01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/cheeks/26556/mbcn_img.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/cheeks/26556/mbcn_img1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/cheeks/26557/mbcmc_color01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/cheeks/26557/mbcn_img.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/cheeks/26557/mbcn_img_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26784/SJHB_close1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26784/SJHB_close2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26784/SJHB_open.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26784/lb_color01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26784/lb_color02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26784/lb_color03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26784/lb_color04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26784/lb_color05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26784/lb_color06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26784/lb_color07.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26784/lb_color08.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26784/lb_color09.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26784/lb_color10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26784/lb_color11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26784/lb_color12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26784/lb_color13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26784/lb_color14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26784/lb_color15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26784/lb_color16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26784/lb_color17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26784/lb_color18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26784/lb_color19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26784/lb_color20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26784/lb_color21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26784/lb_color22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/nails/25795/nail_color01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/nails/25795/nail_color02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/nails/25795/nail_color03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/nails/25795/nail_color04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/nails/25795/nail_color05.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/nails/25795/nlr_color01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/nails/25795/nlr_color02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/nails/25795/nlr_color03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/nails/25795/nlr_color04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/nails/25795/nlr_color05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/nails/25795/nlr_color06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/nails/25795/nlr_color07.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/index1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0801_fall_makeup/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0801_fall_makeup/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/products1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/movie/video/JILL_STUART_2018_Fall_Collection.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/movie/video/JILL_STUART_2018_Fall_Collection_org.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/movie/video/oil_rouge_glow_0407_org.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/bn_color01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/bn_img.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/clm_color01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/clm_color02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/clm_img.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/cm_img.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/fashion_img1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/fashion_img2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/fashion_img3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/fashion_img4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/fashion_make_subtitle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/fashion_make_title.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/fashion_title.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/icon_down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/icon_up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/introduction_title.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/kv.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/lb_color01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/lb_color02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/lb_color03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/lb_color04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/lb_color05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/lb_color06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/lb_color07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/lb_color08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/lb_color09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/lb_color10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/lb_color11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/lb_color12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/lb_color13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/lb_color14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/lb_color15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/lb_color16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/lb_color17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/lb_color18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/lb_color19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/lb_color20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/lb_color21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/lb_color22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/lb_color23.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/lb_img.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/line.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/lineup_bn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/lineup_clm.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/lineup_cm.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/lineup_lb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/lineup_nlr.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/lineup_oib.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/lineup_pouch.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/lineup_rce.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/main.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/main1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/makeup_blush_title.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/makeup_data_title.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/makeup_eye_img1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/makeup_eye_img2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/makeup_eye_title.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/makeup_img.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/makeup_lip_title.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/makeup_title.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/nlr_color01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/nlr_color02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/nlr_color03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/nlr_color04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/nlr_color05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/nlr_color06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/nlr_color07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/nlr_img.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/oib_color01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/oib_color02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/oib_img.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/pouch_color01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/pouch_color02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/pouch_img.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/rce_color01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/rce_color02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/images/rce_img.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0916_hair_care/images/conditioner_img.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0916_hair_care/images/detail_img1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0916_hair_care/images/detail_img2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0916_hair_care/images/icon_circle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0916_hair_care/images/icon_flower.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0916_hair_care/images/icon_star.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0916_hair_care/images/intro_title.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0916_hair_care/images/line.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0916_hair_care/images/main.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0916_hair_care/images/makeup_line.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0916_hair_care/images/shampoo_img.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0916_hair_care/images/spray_img.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/1007_tweed_party/images/ccc_img.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/1007_tweed_party/images/ccc_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/1007_tweed_party/images/eyeshadow_img.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/1007_tweed_party/images/eyeshadow_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/1007_tweed_party/images/fp_img.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/1007_tweed_party/images/fp_thumb1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/1007_tweed_party/images/introduction_title.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/1007_tweed_party/images/line.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/1007_tweed_party/images/lip_img.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/1007_tweed_party/images/lip_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/1007_tweed_party/images/main.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/1007_tweed_party/images/makeup_blush_title.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/1007_tweed_party/images/makeup_data_title.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/1007_tweed_party/images/makeup_eye_img1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/1007_tweed_party/images/makeup_eye_img2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/1007_tweed_party/images/makeup_eye_title.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/1007_tweed_party/images/makeup_img.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/1007_tweed_party/images/makeup_line.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/1007_tweed_party/images/makeup_lip_title.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/1007_tweed_party/images/makeup_title.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/1007_tweed_party/images/pouch_img.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/1007_tweed_party/images/set_img.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/movie/index2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/movie/index3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/index2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0903_fall_collection/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0916_hair_care/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0916_hair_care/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0916_hair_care/index1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/1007_tweed_party/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/1007_tweed_party/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/1007_tweed_party/index1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/movie/video/oil_rouge_glow_0407.mp4" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/movie/video/oil_rouge_glow_0407.mp4" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/en-jp/products/detail.php" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/en-jp/products/detail.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/en-jp/products/index.php" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/en-jp/products/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/en-jp/products/list.php" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/en-jp/products/list.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2016/0206_xp/index.php" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2016/0206_xp/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0317_summer_collection/index.php" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0317_summer_collection/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0801_fall_collection/index.php" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0801_fall_collection/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0905_new_makeup/index.php" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0905_new_makeup/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/1014_mix_blush_compact/index.php" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/1014_mix_blush_compact/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/news/news.xml" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/news/news.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/detail.php" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/detail.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/index.php" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/list.php" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/list.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/products.xml" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/products.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/movie/index.php" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/movie/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0407_crystal_bloom/index.php" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0407_crystal_bloom/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/index.php" afterPath="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -206,8 +147,8 @@
         <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="115">
-                <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="37" />
+              <first_editor relative-caret-position="391">
+                <caret line="22" column="33" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="46" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -215,11 +156,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="news.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/news/news.xml">
+      <file leaf-file-name="index2.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/index2.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="45" column="31" lean-forward="false" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
+            <state relative-caret-position="572">
+              <caret line="121" column="31" lean-forward="true" selection-start-line="67" selection-start-column="14" selection-end-line="121" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="118" column="30" lean-forward="true" selection-start-line="118" selection-start-column="30" selection-end-line="118" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -236,8 +187,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>粉饼</find>
-      <find>basemake</find>
       <find>gnavi_inner</find>
       <find>JILL STUART 2018 Spring Collection</find>
       <find>ja-jp</find>
@@ -258,7 +207,6 @@
       <find>26780</find>
       <find>lip</find>
       <find>lips&quot;&gt;</find>
-      <find>box</find>
       <find>26621</find>
       <find>25795</find>
       <find>/zh-jp/new-item/2018/0801_fall_makeup/images/main1.jpg</find>
@@ -266,6 +214,9 @@
       <find>爱恋柔映眼彩盒</find>
       <find>蕾丝花漾恋唇膏</find>
       <find>25941</find>
+      <find>video</find>
+      <find>iframe</find>
+      <find>box</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -273,6 +224,7 @@
     <dirStrings>
       <dir>D:\little project\JILL\jillstuart-cn-official-site-master\jillstuart-cn-official-site-master\www\zh-jp</dir>
       <dir>D:\little project\JILL\JILL_git\jillstuart-cn-official-site-master\www\zh-jp</dir>
+      <dir>D:\little project\JILL\JILL_git\jillstuart-cn-official-site-master</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -296,11 +248,7 @@
         <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0317_summer_collection/index.php" />
         <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/includes/header.php" />
         <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/movie/index1.php" />
-        <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/movie/index.css" />
-        <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/movie/index.php" />
-        <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0407_crystal_bloom/index.php" />
         <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/index/main.xml" />
-        <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/index.php" />
         <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0317_summer_collection/index.php" />
         <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/news/news.xml" />
         <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/2018_Limited_Collection/index.php" />
@@ -309,6 +257,16 @@
         <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0801_fall_collection/index.php" />
         <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/1014_mix_blush_compact/index.php" />
         <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/products.xml" />
+        <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/README.md" />
+        <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/movie/index11.css" />
+        <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/common/css/general.css" />
+        <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/movie/index.css" />
+        <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/movie/index.php" />
+        <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/1007_tweed_party/index.php" />
+        <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/1007_tweed_party/index.css" />
+        <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0916_hair_care/index.php" />
+        <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0407_crystal_bloom/index.php" />
+        <option value="$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/index.php" />
       </list>
     </option>
   </component>
@@ -320,8 +278,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="107" />
-    <option name="y" value="1" />
+    <option name="x" value="328" />
+    <option name="y" value="-22" />
     <option name="width" value="1186" />
     <option name="height" value="1038" />
   </component>
@@ -341,6 +299,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -391,17 +350,7 @@
               <item name="zh-jp" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="new-item" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="2017" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="0905_new_makeup" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="JILL_git" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JILL_git" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="jillstuart-cn-official-site-master" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="www" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="zh-jp" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="new-item" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="2017" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="1014_mix_blush_compact" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="0714_fall_collection" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="JILL_git" type="b2602c69:ProjectViewProjectNode" />
@@ -420,7 +369,7 @@
               <item name="zh-jp" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="new-item" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="2018" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="2018_Limited_Collection" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="1007_tweed_party" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="JILL_git" type="b2602c69:ProjectViewProjectNode" />
@@ -428,40 +377,35 @@
               <item name="jillstuart-cn-official-site-master" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="www" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="zh-jp" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="news" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="JILL_git" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JILL_git" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="jillstuart-cn-official-site-master" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="www" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="zh-jp" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="products" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="new-item" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="2018" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="1007_tweed_party" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../decorte/decorte_git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\little project\JILL\JILL_git\jillstuart-cn-official-site-master\www\zh-jp\new-item\2018\1007_tweed_party\images" />
+      <recent name="D:\little project\JILL\JILL_git\jillstuart-cn-official-site-master\www\zh-jp\new-item\2017\0714_fall_collection" />
+      <recent name="D:\little project\JILL\JILL_git\jillstuart-cn-official-site-master\www\zh-jp\new-item\2017\0407_crystal_bloom" />
+      <recent name="D:\little project\JILL\JILL_git\jillstuart-cn-official-site-master\www\zh-jp\new-item\2018\0916_hair_care\images" />
+      <recent name="D:\little project\JILL\JILL_git\jillstuart-cn-official-site-master\www\zh-jp\new-item\2018\0916_hair_care" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\little project\JILL\JILL_git\jillstuart-cn-official-site-master\www\zh-jp\movie" />
       <recent name="D:\little project\JILL\JILL_git\jillstuart-cn-official-site-master\www\zh-jp\new-item\2017" />
       <recent name="D:\little project\JILL\jillstuart-cn-official-site-master\jillstuart-cn-official-site-master\www\zh-jp\new-item\2017\0407_crystal_bloom" />
       <recent name="D:\little project\JILL\jillstuart-cn-official-site-master\jillstuart-cn-official-site-master\www\zh-jp\products\fragrance\26764" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\little project\JILL\JILL_git\jillstuart-cn-official-site-master\www\zh-jp\products\cheeks\26557" />
-      <recent name="D:\little project\JILL\JILL_git\jillstuart-cn-official-site-master\www\zh-jp\products\cheeks\26556" />
-      <recent name="D:\little project\JILL\JILL_git\jillstuart-cn-official-site-master\www\zh-jp\products\cheeks" />
-      <recent name="D:\little project\JILL\JILL_git\jillstuart-cn-official-site-master\www\zh-jp\new-item\2017\0714_fall_collection\images" />
-      <recent name="D:\little project\JILL\JILL_git\jillstuart-cn-official-site-master\www\zh-jp\new-item\2018\2018_Limited_Collection\images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -522,32 +466,36 @@
       <workItem from="1534857894136" duration="89000" />
       <workItem from="1535026901082" duration="11388000" />
       <workItem from="1535546926293" duration="5041000" />
+      <workItem from="1536234622699" duration="8226000" />
+      <workItem from="1536318765333" duration="1197000" />
+      <workItem from="1536844000570" duration="2010000" />
+      <workItem from="1537360735760" duration="217000" />
+      <workItem from="1537586104060" duration="6605000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87207000" />
+    <option name="totallyTimeSpent" value="105462000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.305794" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25268242" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280543" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280543" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -562,160 +510,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/includes/lang.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26783/SJHA_open1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26783/SJHA_close1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26783/SJHA_open.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/movie/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/introduction_title.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/lineup_lb.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/lb_img.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/icon_down.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/images/makeup_img.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/eyes/26780/SJIB_close_05.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26783/SJHA_close.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26768/main1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26621/detail0.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26621/70-70-2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26232/STOQ_close_02.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26230/STVY_open_19.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26230/STVY_thumb_18.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26230/STVY_close_18_19.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26230/STVY_open_18.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26783/SJHA_tama.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26783/SJHA_close_b.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26784/SJHB_open.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26784/SJHB_close2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26784/SJHB_close1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/products/lips/26784/lb_color01.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/index/main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="58" column="19" lean-forward="false" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/index1.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="16325">
           <caret line="985" column="6" lean-forward="false" selection-start-line="349" selection-start-column="23" selection-end-line="985" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0407_crystal_bloom/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="687">
-          <caret line="91" column="106" lean-forward="false" selection-start-line="91" selection-start-column="89" selection-end-line="91" selection-end-column="106" />
         </state>
       </provider>
     </entry>
@@ -723,7 +521,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2760">
           <caret line="120" column="15" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="120" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -731,7 +528,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="986">
           <caret line="539" column="27" lean-forward="false" selection-start-line="489" selection-start-column="10" selection-end-line="549" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -754,15 +550,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="227">
           <caret line="195" column="30" lean-forward="true" selection-start-line="195" selection-start-column="30" selection-end-line="195" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2113">
-          <caret line="352" column="19" lean-forward="false" selection-start-line="352" selection-start-column="19" selection-end-line="352" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -800,7 +587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="58" column="39" lean-forward="false" selection-start-line="58" selection-start-column="39" selection-end-line="58" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -808,7 +594,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="133" column="47" lean-forward="false" selection-start-line="133" selection-start-column="47" selection-end-line="133" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -816,18 +601,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="81" column="41" lean-forward="false" selection-start-line="81" selection-start-column="41" selection-end-line="81" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="115">
-            <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="37" />
-            <folding />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -835,7 +608,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6483">
           <caret line="290" column="20" lean-forward="false" selection-start-line="290" selection-start-column="16" selection-end-line="290" selection-end-column="52" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -843,7 +615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="2187" column="82" lean-forward="false" selection-start-line="2187" selection-start-column="82" selection-end-line="2187" selection-end-column="82" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -851,7 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1929">
           <caret line="241" column="42" lean-forward="false" selection-start-line="241" selection-start-column="42" selection-end-line="241" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -860,10 +630,221 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-138">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/news/news.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
+        <state relative-caret-position="1035">
           <caret line="45" column="31" lean-forward="false" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/movie/index2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/embed.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="429" column="16" lean-forward="false" selection-start-line="429" selection-start-column="16" selection-end-line="429" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/common/css/second.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/common/css/general.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-207">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/common/css/general.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="29" column="122" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="122" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/movie/index3.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/movie/index2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/movie/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/movie/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="30" column="29" lean-forward="false" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/1007_tweed_party/index1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1348">
+          <caret line="546" column="6" lean-forward="false" selection-start-line="349" selection-start-column="23" selection-end-line="546" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/1007_tweed_party/images/set_img.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/1007_tweed_party/images/makeup_title.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/1007_tweed_party/images/makeup_data_title.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/1007_tweed_party/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="132" column="17" lean-forward="false" selection-start-line="132" selection-start-column="17" selection-end-line="132" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0916_hair_care/images/conditioner_img.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="391">
+            <caret line="22" column="33" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="46" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0916_hair_care/index1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4356">
+          <caret line="523" column="6" lean-forward="false" selection-start-line="349" selection-start-column="23" selection-end-line="523" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0916_hair_care/images/detail_img1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0916_hair_care/images/main.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0916_hair_care/images/shampoo_img.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/1007_tweed_party/images/makeup_line.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/1007_tweed_party/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0916_hair_care/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="77" column="19" lean-forward="true" selection-start-line="77" selection-start-column="19" selection-end-line="77" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2018/0916_hair_care/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-41">
+          <caret line="193" column="140" lean-forward="false" selection-start-line="193" selection-start-column="140" selection-end-line="193" selection-end-column="140" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0407_crystal_bloom/index2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="397" column="34" lean-forward="false" selection-start-line="385" selection-start-column="0" selection-end-line="419" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0407_crystal_bloom/images/fp_img.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0407_crystal_bloom/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="176" column="38" lean-forward="false" selection-start-line="176" selection-start-column="34" selection-end-line="176" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/index2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="121" column="31" lean-forward="true" selection-start-line="67" selection-start-column="14" selection-end-line="121" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jillstuart-cn-official-site-master/www/zh-jp/new-item/2017/0714_fall_collection/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="118" column="30" lean-forward="true" selection-start-line="118" selection-start-column="30" selection-end-line="118" selection-end-column="30" />
           <folding />
         </state>
       </provider>
