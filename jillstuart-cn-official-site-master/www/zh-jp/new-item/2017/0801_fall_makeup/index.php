@@ -5,7 +5,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="description" content="2016 Spring Collection limited items <? include($_SERVER['DOCUMENT_ROOT'].$_lang."/includes/description.php"); ?>">
 <meta name="keywords" content="2016 Spring Collection limited items,<? include($_SERVER['DOCUMENT_ROOT'].$_lang."/includes/keywords.php"); ?>">
-<title>2017 Spring Fall makeup | NEW ITEM | <? include($_SERVER['DOCUMENT_ROOT'].$_lang."/includes/title.php"); ?></title>
+<title>JILL STUART 2017 makeup new item | NEW ITEM | <? include($_SERVER['DOCUMENT_ROOT'].$_lang."/includes/title.php"); ?></title>
 <? include($_SERVER['DOCUMENT_ROOT']."/includes/meta.php"); ?>
 <? include($_SERVER['DOCUMENT_ROOT']."/includes/misc.php"); ?>
 <link rel="stylesheet" media="all" href="/common/css/second.css" />

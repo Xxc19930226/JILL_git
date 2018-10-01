@@ -116,7 +116,7 @@
                                 <h3>将柔美的色彩融为一体的蜜粉饼。
                                     <br class="onlySP">轻扫肌肤，带来轻盈柔亮的透明感。</h3>
                                 <h4>
-                                    <strong class="en">吉尔 斯图亚特<br class="onlySP">漾彩蜜粉饼 （粉格花呢）</strong>
+                                    <strong class="en">吉尔 斯图亚特 <br>漾彩蜜粉饼 （粉格花呢）</strong>
                                 </h4>
                                 <dl>
                                     <dt><img src="images/fp_thumb1.jpg" alt=""></dt>
@@ -151,7 +151,7 @@
                                 <h3>双色交织的柔嫩粉色
                                     <br class="onlySP">，浓郁润泽的质地。<br>令唇丰润光亮的唇彩。</h3>
                                 <h4>
-                                    <strong class="en">吉尔 斯图亚特<br class="onlySP">双色润唇蜜 （粉格花呢）</strong>
+                                    <strong class="en">吉尔 斯图亚特 <br>双色润唇蜜 （粉格花呢）</strong>
                                 </h4>
                                 <dl>
                                     <dt><img src="images/lip_thumb.jpg" alt=""></dt>

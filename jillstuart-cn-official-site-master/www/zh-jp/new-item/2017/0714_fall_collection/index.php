@@ -63,65 +63,166 @@
                   <p>演绎优雅和性感兼备的魅力，<br>
                       和JILL一同找寻到你的专属红。</p>
               </div>
+
+              <div id="lineup" class="section">
+            <h3 class="lineup__title en">2018秋季系列产品</h3>
+            <ul class="lineup__items">
+              <li>
+                <a href="#ribbon-couture-eyes">
+                  <span class="item__img"><img src="images/lineup_rce.jpg" alt=""></span>
+                  <span class="item__title en">ribbon<br>couture<br>eyes</span>
+                </a>
+              </li>
+              <li>
+                <a href="#curl-lash-mascara">
+                  <span class="item__img"><img src="images/lineup_clm.jpg" alt=""></span>
+                  <span class="item__title en">curl lash<br>mascara</span>
+                </a>
+              </li>
+              <li>
+                <a href="#oil-in-blush">
+                  <span class="item__img"><img src="images/lineup_oib.jpg" alt=""></span>
+                  <span class="item__title en">oil in<br>blush</span>
+                </a>
+              </li>
+              <li>
+                <a href="#nail-lacquer-r">
+                  <span class="item__img"><img src="images/lineup_nlr.jpg" alt=""></span>
+                  <span class="item__title en">nail<br>lacquer R</span>
+                </a>
+              </li>
+              <li>
+                <a href="#compact-mirror">
+                  <span class="item__img"><img src="images/lineup_cm.jpg" alt=""></span>
+                  <span class="item__title en">compact<br>mirror Ⅲ</span>
+                </a>
+              </li>
+            </ul>
+          </div>
               <!-- / #introduction -->
 
-              <!-- #lineup -->
-              <div id="lineup" class="section">
-                  <h3 class="lineup__title en">2018年秋季系列产品</h3>
-                  <ul class="lineup__items">
-                      <!--<li>
-                          <a href="#lip-blossom">
-                              <span class="item__img"><img src="images/lineup_lb.jpg" alt=""></span>
-                              <span class="item__title en">lip<br>blossom</span>
-                          </a>
-                      </li>-->
-                      <li>
-                          <a href="#ribbon-couture-eyes">
-                              <span class="item__img"><img src="images/lineup_rce.jpg" alt=""></span>
-                              <span class="item__title en">ribbon<br>couture<br>eyes</span>
-                          </a>
-                      </li>
-                      <li>
-                          <a href="#curl-lash-mascara">
-                              <span class="item__img"><img src="images/lineup_clm.jpg" alt=""></span>
-                              <span class="item__title en">curl lash<br>mascara</span>
-                          </a>
-                      </li>
-                      <li>
-                          <a href="#oil-in-blush">
-                              <span class="item__img"><img src="images/lineup_oib.jpg" alt=""></span>
-                              <span class="item__title en">oil in<br>blush</span>
-                          </a>
-                      </li>
-                      <!--<li>
-                          <a href="#bouquet-nails">
-                              <span class="item__img"><img src="images/lineup_bn.jpg" alt=""></span>
-                              <span class="item__title en">bouquet<br>nails</span>
-                          </a>
-                      </li>-->
-                      <li>
-                          <a href="#nail-lacquer-r">
-                              <span class="item__img"><img src="images/lineup_nlr.jpg" alt=""></span>
-                              <span class="item__title en">nail<br>lacquer R</span>
-                          </a>
-                      </li>
-                      <li>
-                          <a href="#compact-mirror">
-                              <span class="item__img"><img src="images/lineup_cm.jpg" alt=""></span>
-                              <span class="item__title en">compact<br>mirror Ⅲ</span>
-                          </a>
-                      </li>
-                     <!-- <li>
-                          <a href="#pouch">
-                              <span class="item__img"><img src="images/lineup_pouch.jpg" alt=""></span>
-                              <span class="item__title en">pouch</span>
-                          </a>
-                      </li>-->
-                  </ul>
-              </div>
-              <!-- /#lineup -->
 
-              <!-- #nail-lacquer-r -->
+<div id="ribbon-couture-eyes" class="section">
+                  <h3 class="description">微微带点成熟感的粉色，是属于秋天的。
+<br>以5色眼影打造灵动双眸。</h3>
+                  <div class="sectionMain">
+                      <div class="img">
+                          <a href="/zh-jp/products/detail.php?jan=1809alhd"><img src="images/rce_img.jpg" alt=""></a>
+                      </div>
+                      <div class="meta">
+						  <<p class="price">2018年10月上市 限定品</p>
+                          <h4 class="title">
+                              <strong class="en">吉尔 斯图亚特 爱恋蝴蝶结眼彩盒（微醺花漾）</strong>
+                          </h4>
+                          <p class="price">4.5g   380元</p>
+                          <a href="/zh-jp/products/detail.php?jan=1809alhd" class="detailBtn">了解更多</a>
+                      </div>
+                      <div class="colors-4col">
+                          <ul>
+                              <li>
+                                  <a href="/zh-jp/products/detail.php?jan=1809alhd"><img src="images/1809alhd_c1.png" alt=""></a>
+                                  <strong>★17  twinkle petal</strong>
+                                  <span>流光花瓣<br>好似跌落在花瓣上的水珠，清亮而又别致的花瓣粉色系。</span>
+
+                              </li>
+                              <li>
+                                  <a href="/zh-jp/products/detail.php?jan=1809alhd"><img src="images/1809alhd_c2.png" alt=""></a>
+                                  <strong>★18  night blossom</strong>
+                                  <span>月夜花影<br>美如月光映照的花朵，迷人的夜色粉红色系。<br></span>
+
+                              </li>
+                          </ul>
+                      </div>
+                  </div>
+                  <div class="section__footer">
+              <p class="limited">★ 限定色</p>
+              <a href="#lineup" class="en pagetop">2018秋季系列产品</a>
+            </div>
+              </div>
+
+
+
+
+
+
+<div id="curl-lash-mascara" class="section">
+                  <h3 class="description">为眼睫，轻轻晕染一丝微醺的秋色。
+<br>令睫毛微微卷翘、浓密纤长的薄膜粘附式睫毛膏</h3>
+                  <div class="sectionMain">
+                      <div class="img">
+                          <a href="/zh-jp/products/detail.php?jan=1809hwrq"><img src="images/clm_img.jpg" alt=""></a>
+                      </div>
+                      <div class="meta">
+						  <p class="price">2018年10月上市 限定品</p>
+                          <h4 class="title">
+                              <strong class="en">吉尔 斯图亚特 花舞绒翘睫毛膏（微醺花漾）</strong>
+                          </h4>
+                          <p class="price">7.5g    230元</p>
+                          <a href="/zh-jp/products/detail.php?jan=1809hwrq" class="detailBtn">了解更多</a>
+                      </div>
+                      <div class="colors-4col">
+                          <ul>
+                              <li>
+                                  <a href="/zh-jp/products/detail.php?jan=1809hwrq"><img src="images/clm_color01.jpg" alt=""></a>
+                                  <strong>★ 03   pink black</strong>
+                                  <span>魅紫黑<br>隐隐透着粉色的紫黑色。</span>
+
+                              </li>
+                              <li>
+                                  <a href="/zh-jp/products/detail.php?jan=1809hwrq"><img src="images/clm_color02.jpg" alt=""></a>
+                                  <strong>★04  pink bordeaux</strong>
+                                  <span>暗酒红<br>隐隐透着粉色的深酒红色。<br></span>
+                              </li>
+                          </ul>
+                      </div>
+                  </div>
+                  <div class="section__footer">
+              <p class="limited">★ 限定色</p>
+              <a href="#lineup" class="en pagetop">2018秋季系列产品</a>
+            </div>
+              </div>
+
+
+
+<div id="oil-in-blush" class="section">
+                  <h3 class="description">
+宛如盛开在秋日的花朵般的的优雅色彩
+<br>缔造细腻光彩肌肤，精油腮红
+</h3>
+                  <div class="sectionMain">
+                      <div class="img">
+                          <a href="/zh-jp/products/detail.php?jan=1809hcgy"><img src="images/oib_img.jpg" alt=""></a>
+                      </div>
+                      <div class="meta">
+						  <p class="price">2018年10月上市 限定品</p>
+                          <h4 class="title">
+                              <strong class="en">吉尔 斯图亚特 花层光漾腮红（微醺花漾）</strong>
+                          </h4>
+                          <p class="price">5.4g    310元</p>
+                          <a href="/zh-jp/products/detail.php?jan=1809hcgy" class="detailBtn">了解更多</a>
+                      </div>
+                      <div class="colors-4col">
+                          <ul>
+                              <li>
+                                  <a href="/zh-jp/products/detail.php?jan=1809hcgy"><img src="images/1809hcgy_c1.png" alt=""></a>
+                                  <strong>★06   sweet camellia</strong>
+                                  <span>甜蜜山茶<br>宛如山茶花层叠的花瓣，温柔甜美的粉红&粉橘色系。</span>
+
+                              </li>
+                              <li>
+                                  <a href="/zh-jp/products/detail.php?jan=1809hcgy"><img src="images/1809hcgy_c2.png" alt=""></a>
+                                  <strong>★07  seductive mum</strong>
+                                  <span>诱恋野菊<br>宛如山茶花层叠的花瓣，温柔甜美的粉红&粉橘色系。<br></span>
+                              </li>
+                          </ul>
+                      </div>
+                  </div>
+                  <div class="section__footer">
+              <p class="limited">★ 限定色</p>
+              <a href="#lineup" class="en pagetop">2018秋季系列产品</a>
+            </div>
+              </div>
+			              <!-- #nail-lacquer-r -->
               <div id="nail-lacquer-r" class="section">
                   <h3 class="description">以别致的色彩，为指尖晕染动人魅力<br>秋意盎然的指彩油。</h3>
                   <div class="sectionMain">
@@ -211,8 +312,38 @@
                           </ul>
                       </div>
                   </div>
+                  <div class="section__footer">
+              <p class="limited"></p>
+              <a href="#lineup" class="en pagetop">2018秋季系列产品</a>
+            </div>
               </div>
               <!-- /#nail-lacquer-r -->
+
+			  
+			  
+<div id="compact-mirror" class="section">
+                  <h3 class="description">
+每天都想带在身边的、绽放自信魅力的便携式折叠镜，
+还能提升恋爱运哦！
+</h3>
+                  <div class="sectionMain">
+                      <div class="img">
+                          <a href="/zh-jp/products/detail.php?jan=26869"><img src="images/cm_img.jpg" alt=""></a>
+                      </div>
+                      <div class="meta">
+                          <h4 class="title">
+                              <strong class="en">吉尔 斯图亚特 经典幻钻折叠镜</strong>
+                          </h4>
+                          <p class="price">150元</p>
+                          <a href="/zh-jp/products/detail.php?jan=26869" class="detailBtn">了解更多</a>
+                      </div>
+                  </div>
+                  <div class="section__footer">
+              <p class="limited"></p>
+              <a href="#lineup" class="en pagetop">2018秋季系列产品</a>
+            </div>
+              </div>
+
 
           </div>
 

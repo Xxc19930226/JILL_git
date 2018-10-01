@@ -72,7 +72,7 @@
                                   <a href="/zh-jp/products/detail.php?jan=26763"><img src="images/edp_img_org.png" alt=""></a>
                               </div>
                               <div class="meta">
-                                  <!-- <span class="release">2017年5月5日起于专柜有售　限量版</span>-->
+                                  <span class="release">2018年5月上市   限定品</span>
                                   <h4 class="title">
                                       <strong class="en">
                                           吉尔 斯图亚特 <br class="onlySP">晶莹花湛蓝香水
@@ -156,28 +156,7 @@
                       <!-- /#perfumed-hand-cream -->
 
                       <!-- #face-powder -->
-                      <div id="face-powder" class="section">
-                          <h3 class="description description--deco">
-                              隐隐闪现如细碎钻石般的光，<br>
-                              令肌肤闪耀纯净透明感的蜜粉饼。
-                          </h3>
-                          <div class="sectionMain">
-                              <div class="img">
-                                  <a href="/zh-jp/products/detail.php?jan=26822"><img src="images/fp_img.png" alt=""></a>
-                              </div>
-                              <div class="meta">
-                                  <span class="release">2018年10月上市 限定品</span>
-                                  <h4 class="title">
-                                      <strong class="en">
-                                          吉尔 斯图亚特 <br class="onlySP">湛蓝光耀蜜粉饼
-                                      </strong>
-                                  </h4>
-                                  <p class="price">10g   售价380元</p>
-                                  <a href="/zh-jp/products/detail.php?jan=26822" class="detailBtn">了解更多</a>
-                                  <!--<p class="limited">★限量版色彩</p>-->
-                              </div>
-                          </div>
-                      </div>
+                      
                       <!-- /#face-powder -->
 
                       <!-- #lip-essence -->
@@ -206,7 +185,28 @@
                       </div>
                       <!-- /#lip-essence -->
 
-
+<div id="face-powder" class="section">
+                          <h3 class="description description--deco">
+                              隐隐闪现如细碎钻石般的光，<br>
+                              令肌肤闪耀纯净透明感的蜜粉饼。
+                          </h3>
+                          <div class="sectionMain">
+                              <div class="img">
+                                  <a href="/zh-jp/products/detail.php?jan=1809zlgy"><img src="images/fp_img.png" alt=""></a>
+                              </div>
+                              <div class="meta">
+                                  <span class="release">2018年10月上市 限定品</span>
+                                  <h4 class="title">
+                                      <strong class="en">
+                                          吉尔 斯图亚特 <br class="onlySP">湛蓝光耀蜜粉饼
+                                      </strong>
+                                  </h4>
+                                  <p class="price">10g   售价380元</p>
+                                  <a href="/zh-jp/products/detail.php?jan=1809zlgy" class="detailBtn">了解更多</a>
+                                  <!--<p class="limited">★限量版色彩</p>-->
+                              </div>
+                          </div>
+                      </div>
                   </div>
 
               </div>

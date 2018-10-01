@@ -39,18 +39,25 @@
 
 
 		<main type="standard">
+			<image alt="">/zh-jp/new-item/2017/0714_fall_collection/images/kv.jpg</image>
+			<more target="">/zh-jp/new-item/2017/0714_fall_collection/</more>
+			<moresmp>/zh-jp/new-item/2017/0714_fall_collection/</moresmp>
+		</main>
+		
+
+		<!--<main type="standard">
 			<image alt="">/zh-jp/new-item/2017/0317_summer_collection/images/kv.jpg</image>
 			<more target="">/zh-jp/new-item/2017/0317_summer_collection/</more>
 			<moresmp>/zh-jp/new-item/2017/0317_summer_collection/</moresmp>
 		</main>
-
-
+-->
+<!-- 
 		<main type="standard">
 			<image alt="">/zh-jp/new-item/2017/0210_new_base_makeup_items/images/kv.jpg</image>
 			<more target="">/zh-jp/new-item/2017/0210_new_base_makeup_items/</more>
 			<moresmp>/zh-jp/new-item/2017/0210_new_base_makeup_items/</moresmp>
 		</main>
-
+ -->
 
 <!-- 		<main type="standard">
 			<image alt="">/zh-jp/new-item/2017/0626_xp/images/kv.jpg</image>
@@ -69,6 +76,13 @@
 			<more target="">/zh-jp/new-item/2017/0512_summer_makeup/</more>
 			<moresmp>/zh-jp/new-item/2017/0512_summer_makeup/</moresmp>
 		</main>
+
+		<main type="standard">
+			<image alt="">/zh-jp/new-item/2018/0916_hair_care/images/kv.jpg</image>
+			<more target="">/zh-jp/new-item/2018/0916_hair_care/</more>
+			<moresmp>/zh-jp/new-item/2018/0916_hair_care/</moresmp>
+		</main>
+
 
 
 		<!--<main type="standard">

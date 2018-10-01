@@ -3,6 +3,37 @@
 	<channel>
 
 
+		<news category="new item" type="standard" top="on">
+			<id>00082</id>
+			<icon>新闻</icon>
+			<!--
+                <date></date>
+            -->
+			<photo>/zh-jp/new-item/2018/1007_tweed_party/images/main.jpg</photo>
+			<thumbnail>/zh-jp/new-item/2018/1007_tweed_party/images/main.jpg</thumbnail>
+			<title>JILL STUART</title>
+			<subtitle><![CDATA[2018 Tweed Party Collection]]></subtitle>
+			<detail></detail>
+			<more target="">/zh-jp/new-item/2018/1007_tweed_party/</more>
+			<moresmp target="">/zh-jp/new-item/2018/1007_tweed_party/</moresmp>
+		</news>
+		
+
+		<news category="new item" type="standard" top="on">
+			<id>00082</id>
+			<icon>新闻</icon>
+			<!--
+                <date></date>
+            -->
+			<photo>/zh-jp/new-item/2018/0916_hair_care/images/main.jpg</photo>
+			<thumbnail>/zh-jp/new-item/2018/0916_hair_care/images/main.jpg</thumbnail>
+			<title>JILL STUART</title>
+			<subtitle><![CDATA[2018 RELAX® hair care items]]></subtitle>
+			<detail></detail>
+			<more target="">/zh-jp/new-item/2018/0916_hair_care/</more>
+			<moresmp target="">/zh-jp/new-item/2018/0916_hair_care/</moresmp>
+		</news>
+		
 
 		<news category="new item" type="standard" top="on">
 			<id>00082</id>
@@ -18,7 +49,22 @@
 			<more target="">/zh-jp/new-item/2018/2018_Limited_Collection/</more>
 			<moresmp target="">/zh-jp/new-item/2018/2018_Limited_Collection/</moresmp>
 		</news>
-
+		
+		<news category="new item" type="standard" top="on">
+			<id>00082</id>
+			<icon>新闻</icon>
+			<!--
+                <date></date>
+            -->
+			<photo>/zh-jp/new-item/2018/0903_fall_collection/images/main.jpg</photo>
+			<thumbnail>/zh-jp/new-item/2018/0903_fall_collection/images/main.jpg</thumbnail>
+			<title>JILL STUART</title>
+			<subtitle><![CDATA[2018 Fall Makeup New Items]]></subtitle>
+			<detail></detail>
+			<more target="">/zh-jp/new-item/2018/0903_fall_collection/</more>
+			<moresmp target="">/zh-jp/new-item/2018/0903_fall_collection/</moresmp>
+		</news>
+		
 		<news category="new item" type="standard" top="on">
 			<id>00082</id>
 			<icon>新闻</icon>

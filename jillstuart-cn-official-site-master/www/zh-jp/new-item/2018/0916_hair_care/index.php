@@ -91,11 +91,11 @@
                                     <p class="price">＜头发护理＞</p>
                                     <div class="price-wrapper">
                                         <p class="price">130g   售价180元  </p>
-                                        <a href="" class="detailBtn">了解更多</a>
+                                        <a href="http://jill-staging.grandcomms.com/zh-jp/products/detail.php?jan=1809fxpw" class="detailBtn">了解更多</a>
                                     </div>
                                     <div class="price-wrapper">
                                         <p class="price">［限定 迷你版］40g  售价110元</p>
-                                        <a href="" class="detailBtn">了解更多</a>
+                                        <a href="http://jill-staging.grandcomms.com/zh-jp/products/detail.php?jan=1809fxpw" class="detailBtn">了解更多</a>
                                     </div>
                                 </div>
                             </div>

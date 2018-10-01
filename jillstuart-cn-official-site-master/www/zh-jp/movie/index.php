@@ -44,6 +44,13 @@
           <div class="video_title">JILL STUART 2018 Summer Collection</div>
       </div>
 
+      <div class="main_inner">
+          <div class="video">
+              <iframe width="950" height="540" src="/zh-jp/movie/video/guangcenghuayangsaihong.mp4" frameborder="0" allowfullscreen></iframe>
+          </div>
+          <div class="video_title">JILL STUART 2018 Summer Makeup</div>
+      </div>
+
       
   </main>
     <nav id="backtotop"><a href="#top">BACK TO TOP</a></nav>
